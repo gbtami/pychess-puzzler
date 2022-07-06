@@ -1,0 +1,38 @@
+{
+  "name": "pychess-puzzler",
+  "version": "0.1",
+  "private": true,
+  "description": "chess variant puzzler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbtami/pychess-puzzler.git"
+  },
+  "main": "static/pychess-puzzler.js",
+  "author": "Bajusz Tamás",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gbtami/pychess-puzzler/issues"
+  },
+  "dependencies": {
+    "@pychess/common": "^0.0.3",
+    "chessgroundx": "^9.1.9",
+    "ffish-es6": "^0.6.8",
+    "gettext.js": "^1.1.1",
+    "@types/mousetrap": "1.6.4",
+    "mousetrap": "^1.6.5",
+    "snabbdom": "^3.1.0",
+    "sockette": "^2.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.5",
+    "@rollup/plugin-typescript": "^8.2.5",
+    "rollup": "^2.57.0",
+    "typescript": "^4.1",
+    "tslib": "^2.3.1"
+  },
+  "scripts": {
+    "postinstall": "./cp2static.sh",
+    "dev": "rollup --config rollup.config.dev.js",
+  }
+}

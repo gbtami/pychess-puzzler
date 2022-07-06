@@ -33,6 +33,6 @@
   },
   "scripts": {
     "postinstall": "./cp2static.sh",
-    "dev": "rollup --config rollup.config.dev.js",
+    "dev": "rollup --config rollup.config.dev.js"
   }
 }

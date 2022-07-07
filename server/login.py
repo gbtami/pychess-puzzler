@@ -42,7 +42,7 @@ USERS = [
 
 async def oauth(request):
     """Get lichess.org oauth token with PKCE"""
-
+    print("oauth()")
     session = await aiohttp_session.get_session(request)
     code = request.rel_url.query.get("code")
 
@@ -102,6 +102,7 @@ async def oauth(request):
 
 async def login(request):
     """Login with lichess.org oauth."""
+    print("login()")
     if REDIRECT_PATH is None:
         log.error("Set REDIRECT_PATH env var if you want lichess OAuth login!")
         return web.HTTPFound("/")

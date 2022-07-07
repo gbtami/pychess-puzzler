@@ -33,7 +33,7 @@
   },
   "scripts": {
     "postinstall": "./cp2static.sh",
-    "dev": "rollup --config rollup.config.dev.js"
-    "heroku-postbuild": "yarn run dev",
+    "dev": "rollup --config rollup.config.dev.js",
+    "heroku-postbuild": "yarn run dev"
   }
 }

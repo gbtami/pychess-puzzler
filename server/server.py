@@ -167,4 +167,4 @@ def make_app():
 
 if __name__ == "__main__":
     app = make_app()
-    web.run_app(app, port=8080)
+    web.run_app(app, port=int(os.environ.get("PORT", 8080)))

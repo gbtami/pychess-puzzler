@@ -67,8 +67,7 @@ async def review_puzzle(request):
     approved = request.rel_url.query.get("approved")
     print(
         await request.app["db"].puzzle.find_one_and_update(
-            {"_id": _id},
-            {"$set": {"review": approved == "1"}}
+            {"_id": _id}, {"$set": {"review": approved == "1"}}
         )
     )
     response = await next_puzzle(request)
@@ -105,12 +104,16 @@ async def render_puzzle(request, puzzle):
     if session_user is None:
         return web.HTTPFound("/login")
 
-    model = puzzle if puzzle is not None else {
-        "_id": "0",
-        "variant": "chess",
-        "fen": sf.start_fen("chess"),
-        "moves": "",
-    }
+    model = (
+        puzzle
+        if puzzle is not None
+        else {
+            "_id": "0",
+            "variant": "chess",
+            "fen": sf.start_fen("chess"),
+            "moves": "",
+        }
+    )
     model["home"] = URI
     model["pychessURL"] = PYCHESS_URI
     model["assetURL"] = STATIC_ROOT

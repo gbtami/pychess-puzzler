@@ -103,33 +103,40 @@ async def oauth(request):
 async def login(request):
     """Login with lichess.org oauth."""
     print("login()")
+    print(1)
     if REDIRECT_PATH is None:
+        print(2)
         log.error("Set REDIRECT_PATH env var if you want lichess OAuth login!")
         return web.HTTPFound("/")
 
     session = await aiohttp_session.get_session(request)
 
     if "token" not in session:
+        print(3)
         return web.HTTPFound(REDIRECT_PATH)
 
     username = None
 
     async with aiohttp.ClientSession() as client_session:
+        print(4)
         data = {"Authorization": "Bearer %s" % session["token"]}
         async with client_session.get(LICHESS_ACCOUNT_API_URL, headers=data) as resp:
             data = await resp.json()
             username = data.get("username")
             if username is None:
+                print(5)
                 log.error(
                     "Failed to get lichess public user account data from %s",
                     LICHESS_ACCOUNT_API_URL,
                 )
                 return web.HTTPFound("/")
             elif username not in USERS:
+                print(6)
                 return web.HTTPFound("/")
 
     log.info("+++ Lichess authenticated user: %s", username)
     session["user_name"] = username
+    print(7)
 
     if username:
         del session["token"]

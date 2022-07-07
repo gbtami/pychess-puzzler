@@ -91,6 +91,9 @@ async def skip_puzzle(request):
 async def next_puzzle(request):
     session = await aiohttp_session.get_session(request)
     session_user = session.get("user_name")
+    if session_user is None:
+        return web.HTTPFound("/login")
+
     puzzle_filter = filter_expr(False, request.app["skipped"], request.app["users"][session_user])
     puzzle = await request.app["db"].puzzle.find_one(puzzle_filter, sort=[("$natural", -1)])
     response = await render_puzzle(request, puzzle)

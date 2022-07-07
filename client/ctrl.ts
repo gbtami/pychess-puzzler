@@ -14,6 +14,7 @@ export default class PuzzleController extends GameController {
     _id: string;
     solutionEl: VNode | HTMLElement;
     solution: string[];
+    solutionSan: string[];
     moves: UCIMove[] = [];
 
     constructor(el: HTMLElement, data: ServerData) {
@@ -107,10 +108,7 @@ export default class PuzzleController extends GameController {
             '< Rewind')
         );
 
-        this.solutionEl = document.querySelector('.solution') as HTMLElement;
-        if (this.solution) {
-            this.updateSolution();
-        };
+        this.createSolutionSan();
 
         const noRepeat = (f: () => void) => (e: KeyboardEvent) => { if (!e.repeat) f() };
 
@@ -119,6 +117,22 @@ export default class PuzzleController extends GameController {
         Mousetrap.bind('backspace', noRepeat(() => this.review(false)));
         Mousetrap.bind('enter', noRepeat(() => this.review(true)));
         Mousetrap.bind('a', () => (document.querySelector('a.analyse') as HTMLAnchorElement).click());
+    }
+
+    createSolutionSan = () => {
+        if (this.ffishBoard === undefined) {
+            console.log('updateSolution() WAIT 100...');
+            // At very first time we may have to wait for ffish module to initialize
+            setTimeout(this.createSolutionSan, 100);
+        } else {
+            this.solutionSan = this.ffishBoard.variationSan(this.solution.join(' '), this.notationAsObject, false).split(' ');
+            console.log('updateSolution() solutionSan=', this.solutionSan);
+
+            this.solutionEl = document.querySelector('.solution') as HTMLElement;
+            if (this.solution) {
+                this.updateSolution();
+            };
+        }
     }
 
     setVariant (isInput: boolean) {
@@ -144,10 +158,10 @@ export default class PuzzleController extends GameController {
         this.updateSolution();
     }
 
-    updateSolution() {
+    updateSolution = () =>  {
         this.solutionEl = patch(this.solutionEl, h('p.solution', [
             'Solution: ',
-            ...this.solution.map((san, i) =>
+            ...this.solutionSan.map((san, i) =>
               h('san', {
                 class: { done: this.moves[i] === this.solution[i] }
               }, san)
@@ -253,8 +267,12 @@ export default class PuzzleController extends GameController {
                                     type: ops.type,
                                     uploadedBy: username,
                                 };
-                                if (ops.site && ops.site.includes('pychess')) {
-                                    puzzle.gameId = ops.site.slice(-8);
+                                if (ops.site) {
+                                    if (ops.site.includes('pychess')) {
+                                        puzzle.gameId = ops.site.slice(-8);
+                                    } else {
+                                        puzzle.site = ops.site;
+                                    }
                                 }
                                 postPuzzle(puzzle);
                             }

@@ -4,7 +4,7 @@ import string
 
 from newid import id8
 
-URI = os.getenv("URI", "http://127.0.0.1:8088")
+URI = os.getenv("URI", "http://127.0.0.1:8080")
 PYCHESS_URI = "https://www.pychess.org"
 DEV = ("heroku" in URI) or URI.startswith("http:")
 

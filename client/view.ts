@@ -60,6 +60,9 @@ export default function(data: ServerData): VNode {
             h('div.puzzle-ui', [
                 h('div.puzzle-info', [
                     h('p.puzzle-info-title', `Candidate id: ${data._id}`),
+                    h('p', ['Site: ',
+                        ('site' in data) ? h('a.analyse', { attrs: { href: `${data.site}`, target: '_blank'} }, `${data.site}`) : '',
+                    ]),
                     h('p', [
                         'From game: ',
                         h('a.analyse', { attrs: { href: gameUrl, target: '_blank'} }, ('gameId' in data) ? `${data.gameId}` : 'analysis'),

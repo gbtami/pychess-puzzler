@@ -9,6 +9,7 @@ export type Puzzle = {
     type: string;
     gameId?: string;
     uploadedBy?: string;
+    site?: string;
 }
 
 export type ServerData = {
@@ -20,6 +21,7 @@ export type ServerData = {
     variant: string;
     _id: string;
     gameId?: string;
+    site?: string;
     moves: string;
     eval: string;
     type: string;

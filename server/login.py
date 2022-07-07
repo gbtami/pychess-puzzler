@@ -132,6 +132,7 @@ async def login(request):
                 return web.HTTPFound("/")
             elif username not in USERS:
                 print(6)
+                del session["token"]
                 return web.HTTPFound("/")
 
     log.info("+++ Lichess authenticated user: %s", username)

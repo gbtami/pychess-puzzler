@@ -13,9 +13,11 @@ export default class PuzzleController extends GameController {
     username: string;
     _id: string;
     solutionEl: VNode | HTMLElement;
-    solution: string[];
+    solution: UCIMove[];
     solutionSan: string[];
+    movesEl: VNode | HTMLElement;
     moves: UCIMove[] = [];
+    movesSan: string[] = [];
 
     constructor(el: HTMLElement, data: ServerData) {
         const model = {
@@ -31,7 +33,7 @@ export default class PuzzleController extends GameController {
         super(el, model);
 
         this.username = data.username;
-        this.solution = data.moves.split(',');
+        this.solution = data.moves.split(',') as UCIMove[];
         this.moves = [];
         this._id = data._id;
 
@@ -78,6 +80,8 @@ export default class PuzzleController extends GameController {
             on: { change: () => this.readFile() },
             }
         ));
+
+        this.movesEl = document.querySelector('.moves') as HTMLElement;
         
         const approveEl = document.querySelector('.approve') as HTMLElement;
         patch(approveEl, h('button.approve', { on: { click: () => this.review(true) } },[
@@ -91,6 +95,13 @@ export default class PuzzleController extends GameController {
                 h('em', 'Reject'),
                 h('strong', '✗'),
                 h('em', '[backspace]'),
+            ]));
+
+        const appendEl = document.querySelector('.append') as HTMLElement;
+        patch(appendEl, h('button.append', { attrs: { disabled: true }, on: { click: () => this.append() } },[
+                h('em', 'solution'),
+                h('strong', '↑'),
+                h('em', 'my moves'),
             ]));
 
         const skipEl = document.querySelector('.puzzle-skip') as HTMLElement;
@@ -155,6 +166,9 @@ export default class PuzzleController extends GameController {
         const forwardEl = document.querySelector('.next') as HTMLInputElement;
         forwardEl.disabled = !this.canForward();
 
+        const appendEl = document.querySelector('.append') as HTMLInputElement;
+        appendEl.disabled = !this.canAppend();
+
         this.updateSolution();
     }
 
@@ -167,7 +181,20 @@ export default class PuzzleController extends GameController {
               }, san)
             )
         ]));
+
+        this.movesEl = patch(this.movesEl, h('p.moves', [
+            'My moves: ',
+            ...this.movesSan.map((move, i) =>
+              h('uci', {
+                class: { done: this.moves[i] === this.solution[i] }
+              }, move)
+            )
+        ]));
     }
+
+    canAppend = () =>
+        this.moves.length > this.solution.length &&
+        this.moves.slice(0, this.solution.length).join(' ') === this.solution.join(' ');
 
     canForward = () =>
         this.moves.length < this.solution.length &&
@@ -182,28 +209,39 @@ export default class PuzzleController extends GameController {
         window.location.assign(`${this.home}/skip?skipped=${this._id}`);
     }
 
+    append() {
+        this.solution = [...this.moves];
+        this.solutionSan = [...this.movesSan];
+
+        const rewindEl = document.querySelector('.prev') as HTMLInputElement;
+        rewindEl.classList.toggle('variation', false);
+
+        this.updateSolution();
+    }
+
     doSendMove(orig: cg.Orig, dest: cg.Key, promo: string) {
         console.log(orig, dest, promo);
         const move = cg2uci(orig + dest + promo) as UCIMove;
-        //const san = this.ffishBoard.sanMove(move, this.notationAsObject);
-        //const sanSAN = this.ffishBoard.sanMove(move);
         this.moves.push(move);
+
+        const san = this.ffishBoard.sanMove(move, this.notationAsObject);
+        this.movesSan.push(san);
+
         this.ffishBoard.push(move);
         this.updateGui(move);
     }
 
     rewind() {
-        console.log('rewind');
         if (this.moves.length === 0) return;
 
         this.moves.pop();
+        this.movesSan.pop();
         this.ffishBoard.pop();
         const move = this.moves[this.moves.length - 1];
         this.updateGui(move);
     }
 
     forward() {
-        console.log('forward');
         const move = this.solution[this.moves.length];
         if (move) {
             this.doSendMove(move.slice(0, 2) as cg.Orig, move.slice(2, 4) as cg.Key, move.slice(4, 5));
@@ -250,14 +288,14 @@ export default class PuzzleController extends GameController {
             fileReader.onload = function() {
                 if (fileReader.result) {
                     const allLines = (fileReader.result as string).split('\n');
-                    const mateWithMissingFullMoves: string[] = [];
+                    //const mateWithMissingFullMoves: string[] = [];
                     allLines.forEach((line: string) => {
                         if (line.trim()) {
                             const parts = line.trim().split(';');
                             const ops = Object.fromEntries(parts.slice(1).map(s => s.split(' ')));
-                            if (ops.eval.startsWith('#') && ops.pv.split(',').length !== parseInt(ops.eval.slice(1)) * 2 - 1) {
-                                mateWithMissingFullMoves.push(`${parts[0]} moves: ${ops.pv}`);
-                            } else {
+                            //if (ops.eval.startsWith('#') && ops.pv.split(',').length !== parseInt(ops.eval.slice(1)) * 2 - 1) {
+                            //    mateWithMissingFullMoves.push(`${parts[0]} moves: ${ops.pv}`);
+                            //} else {
                                 const puzzle: Puzzle = {
                                     _id: randomId(),
                                     fen: parts[0],
@@ -275,10 +313,10 @@ export default class PuzzleController extends GameController {
                                     }
                                 }
                                 postPuzzle(puzzle);
-                            }
+                            //}
                         }
                     });
-                    if (mateWithMissingFullMoves.length > 0) alert(`Missing mate sequence in FEN:\n${mateWithMissingFullMoves.join('\n')}`);
+                    //if (mateWithMissingFullMoves.length > 0) alert(`Missing mate sequence in FEN:\n${mateWithMissingFullMoves.join('\n')}`);
                 }
             }
             fileReader.onerror = function() {

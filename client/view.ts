@@ -70,16 +70,16 @@ export default function(data: ServerData): VNode {
                     h('p', `Type: ${data.type}`),
                     h('p', `Eval: ${data.eval}`),
                     h('p.solution'),
+                    h('p.moves'),
                 ]),
                 h('div.puzzle-review', [
                     h('button.reject'),
                     h('button.approve'),
+                    h('button.append'),
                 ]),
                 h('div.puzzle-skip'),
                 h('div.puzzle-help', [
-                    h('p', 'Does the puzzle feel a bit off, computer-like, or frustrating? Just reject it.'),
-                    h('p', "Too difficult and you're not sure if interesting? Skip it."),
-                    h('p', 'Use arrow keys to replay, backspace/enter to review, a to analyse.')
+                    h('p', "Does the puzzle feel a bit off, computer-like, or frustrating? Just reject it. Too difficult and you're not sure if interesting? Skip it. Use arrow keys to replay, backspace/enter to review, a to analyse.")
                 ]),
             ])
         ]),

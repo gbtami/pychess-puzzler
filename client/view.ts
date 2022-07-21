@@ -32,8 +32,12 @@ export default function(data: ServerData): VNode {
             h('form.variant', { props: {method: "post", action: '/variant'} }, [
                 h('select#variant'),
             ]),
+            h('form.all', { props: {method: "post", action: '/all'} }, [
+                h('label', { attrs: { for: 'all' } }, 'All'),
+                h('input#all'),
+            ]),
             h('span.wrapper', [
-                h('label', { attrs: { for: 'puzzlefile' } }, 'Upload puzzle file:'),
+                h('label', { attrs: { for: 'puzzlefile' } }, 'Upload puzzle file: '),
                 h('input#puzzlefile'),
             ]),
             h('div#username', data.username),

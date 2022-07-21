@@ -19,6 +19,7 @@ export type ServerData = {
     assetURL: string;
     fen: string;
     variant: string;
+    all: boolean;
     _id: string;
     gameId?: string;
     site?: string;

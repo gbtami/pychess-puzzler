@@ -41,7 +41,7 @@ async def init_db(app):
     )
     app["db"] = app["client"][MONGO_DB_NAME]
     app["skipped"] = []
-    app["users"] = dict([(user, "chess") for user in USERS])
+    app["users"] = dict([(user, {"variant": "chess", "skipped": [], "all": False}) for user in USERS])
 
     await app["db"].puzzle.create_index("fen", unique=True)
 
@@ -50,13 +50,14 @@ async def shutdown(app):
     app["client"].close()
 
 
-def filter_expr(reviewed: bool, skipped: list, variant: str):
+def filter_expr(all_puzzle: bool, skipped: list, variant: str):
     f = {
         "$and": [
-            {"review": {"$exists": reviewed}},
             {"variant": variant},
         ]
     }
+    if not all_puzzle:
+        f["$and"].append({"review": {"$exists": all_puzzle}})
     if skipped:
         f["$and"] += [{"_id": {"$ne": _id}} for _id in skipped]
     return f
@@ -65,9 +66,10 @@ def filter_expr(reviewed: bool, skipped: list, variant: str):
 async def review_puzzle(request):
     _id = request.match_info.get("id")
     approved = request.rel_url.query.get("approved")
+    moves = request.rel_url.query.get("moves")
     print(
         await request.app["db"].puzzle.find_one_and_update(
-            {"_id": _id}, {"$set": {"review": approved == "1"}}
+            {"_id": _id}, {"$set": {"review": approved == "1", "moves": moves}}
         )
     )
     response = await next_puzzle(request)
@@ -82,8 +84,14 @@ async def get_puzzle(request):
 
 
 async def skip_puzzle(request):
+    session = await aiohttp_session.get_session(request)
+    session_user = session.get("user_name")
+    if session_user is None:
+        return web.HTTPFound("/login")
+
     skipped = request.rel_url.query.get("skipped")
-    request.app["skipped"].append(skipped)
+    user = request.app["users"][session_user]
+    user["skipped"].append(skipped)
     response = await next_puzzle(request)
     return response
 
@@ -94,8 +102,14 @@ async def next_puzzle(request):
     if session_user is None:
         return web.HTTPFound("/login")
 
-    puzzle_filter = filter_expr(False, request.app["skipped"], request.app["users"][session_user])
+    user = request.app["users"][session_user]
+    puzzle_filter = filter_expr(user["all"], user["skipped"], user["variant"])
     puzzle = await request.app["db"].puzzle.find_one(puzzle_filter, sort=[("$natural", -1)])
+
+    if user["all"] and len(user["skipped"]) > 0 and puzzle is None:
+        user["skipped"] = []
+        puzzle = await request.app["db"].puzzle.find_one(puzzle_filter, sort=[("$natural", -1)])
+
     response = await render_puzzle(request, puzzle)
     return response
 
@@ -107,13 +121,15 @@ async def render_puzzle(request, puzzle):
     if session_user is None:
         return web.HTTPFound("/login")
 
+    user = request.app["users"][session_user]
+
     model = (
         puzzle
         if puzzle is not None
         else {
             "_id": "0",
-            "variant": "chess",
-            "fen": sf.start_fen("chess"),
+            "variant": user["variant"],
+            "fen": sf.start_fen(user["variant"]),
             "moves": "",
         }
     )
@@ -121,6 +137,7 @@ async def render_puzzle(request, puzzle):
     model["pychessURL"] = PYCHESS_URI
     model["assetURL"] = STATIC_ROOT
     model["username"] = session_user
+    model["all"] = user["all"]
     return web.Response(text=html(json.dumps(model)), content_type="text/html")
 
 
@@ -128,7 +145,20 @@ async def set_variant(request):
     session = await aiohttp_session.get_session(request)
     session_user = session.get("user_name")
     data = await request.post()
-    request.app["users"][session_user] = data["variant"]
+    print("set_variant()", data)
+    user = request.app["users"][session_user]
+    user["variant"] = data["variant"]
+    response = await next_puzzle(request)
+    return response
+
+
+async def set_all(request):
+    session = await aiohttp_session.get_session(request)
+    session_user = session.get("user_name")
+    data = await request.post()
+    print("set_all()", data)
+    user = request.app["users"][session_user]
+    user["all"] = "all" in data and data["all"] == "on"
     response = await next_puzzle(request)
     return response
 
@@ -162,6 +192,7 @@ def make_app():
     app.router.add_get("/oauth", oauth)
     app.router.add_get("/logout", logout)
     app.router.add_post("/variant", set_variant)
+    app.router.add_post("/all", set_all)
     app.router.add_post("/puzzle", add_puzzle)
     app.router.add_static("/static", "static", append_version=True)
 
@@ -169,5 +200,7 @@ def make_app():
 
 
 if __name__ == "__main__":
+    sf.set_option("VariantPath", "variants.ini")
+
     app = make_app()
     web.run_app(app, port=int(os.environ.get("PORT", 8080)))

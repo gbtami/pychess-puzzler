@@ -3064,483 +3064,483 @@
 {"_id": "hHtv0", "fen": "1Cbaka3/5P2c/4b4/4p3p/1r7/7RP/9/2n6/4A4/2BAKN3 w - - 1 w", "variant": "xiangqi", "moves": "h5h10,b6b10,h10f10", "eval": "#2", "type": "mate", "uploadedBy": "gbtami", "review": true}
 {"_id": "XTqZT", "fen": "3k5/9/9/9/9/9/9/3A1K3/9/4C4 w - - 1 w", "variant": "xiangqi", "moves": "f3e3,d10d9,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "gbtami", "review": true}
 {"_id": "MEIQ7", "fen": "3k5/9/4P4/6Cn1/9/9/9/9/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "e8d8,h7g5,g7d7", "eval": "#2", "type": "mate", "uploadedBy": "gbtami", "review": true}
-{"_id": "hrDXQ", "fen": "3a5/4k4/b4N3/3PP4/P5b2/2B6/5C3/9/5K3/5A3 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,a8c6,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bX11M", "fen": "2bk1P3/c1N6/2P2a3/9/6b2/9/9/4B4/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "c8d8,f8e9,f10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ua75I", "fen": "1n1ak4/4a4/b3c3b/p8/8p/2P6/P4R3/4CA3/9/1rBA1K3 w - - 1 w", "variant": "xiangqi", "moves": "f3e2,b1c1,f4f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "C9sdi", "fen": "3k5/4P4/4b4/9/pn1C1Pb2/6C2/3N1N2p/4B4/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "d4c6,e8c6,g5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "9keWv", "fen": "3R5/4k4/9/9/9/9/9/9/4A4/2BAK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,e9e8,d10d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "eWnal", "fen": "4P4/3k5/4b4/3P5/9/9/9/9/7C1/4K4 w - - 1 w", "variant": "xiangqi", "moves": "h2e2,e8g6,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "eX0We", "fen": "9/9/4k4/4N4/9/9/9/4B4/3KA4/6B2 w - - 1 w", "variant": "xiangqi", "moves": "e7c8,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ZRbnN", "fen": "9/9/4k4/4N4/9/9/9/4B4/4A4/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "e7g8,e8d8,g8f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "4cuLO", "fen": "3k5/3r5/9/3R5/4P4/9/9/3C5/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,d10e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "6UZa4", "fen": "1CbakaR2/9/3r5/r2NP4/9/8P/9/4B4/4A4/3A1KB2 w - - 1 w", "variant": "xiangqi", "moves": "e7e8,a7d7,g10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "m6zzH", "fen": "1r2ka2R/2R6/4b4/1P2p3p/1n2r4/p8/c3n3P/1C2B3N/N3A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "c9f9,a4i4,i10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "r9GgC", "fen": "9/3ka4/5R3/9/9/9/9/9/9/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "z8LlY", "fen": "9/3ka4/5R3/9/9/9/9/3A5/4A4/2B2KB2 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "kcEgI", "fen": "2bk5/4P4/4b4/8p/R6c1/3r5/9/3AB4/4K4/5AB2 w - - 1 w", "variant": "xiangqi", "moves": "a6f6,d5d3,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Sx3vp", "fen": "2bak4/4a4/4c3b/2N1CR2p/p5p2/2P5P/P3P2r1/2n5B/4A4/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "c7b9,h4e4,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FZzpq", "fen": "3N5/4k4/4r4/9/9/9/9/6R1B/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "g3g9,e9e10,d10e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "4N9a3", "fen": "3k5/5PC2/9/9/8P/7r1/4R4/9/4A4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "e2f1,h5e5,e4e5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ymuUZ", "fen": "4P4/3P5/N4k3/5n3/9/2B6/9/8B/9/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "a8c7,f8f9,c7e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "vOT0Y", "fen": "3R5/4ak3/9/9/9/9/9/5A3/9/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,f9f8,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Fm5Hu", "fen": "3c4C/3k5/9/9/9/9/9/9/4K4/2R6 w - - 1 w", "variant": "xiangqi", "moves": "c1c10,d9d8,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ea2Af", "fen": "3a2b1C/4ak3/9/8N/p3p4/3n2P2/4c3P/4B4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "i7h9,e9d8,i10i9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "94MbW", "fen": "3a2b1C/4ak3/9/8N/p3p4/6P2/1n2c3P/4B4/4A4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "i7h9,e9d8,i10i9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "LN5rE", "fen": "3P5/5k3/3a1a3/9/9/9/9/5A3/5C3/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "d10e10,d8e9,f3e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "GNpSU", "fen": "3k5/5P3/3a5/9/9/4C4/9/B3K4/9/3A1A3 w - - 1 w", "variant": "xiangqi", "moves": "e5d5,d8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "OHAY4", "fen": "2b6/4P4/2N2k3/9/9/9/9/3A5/6p2/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "c8b6,c10e8,b6d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bU0SN", "fen": "3k5/4R4/5c3/9/2P6/9/3C5/9/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "c6d6,f8d8,d4d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "vWEnm", "fen": "9/3k5/4b4/5N3/8P/9/3C5/5A3/9/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "d4d1,d9d10,f7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "syDpz", "fen": "3k5/9/3c1N3/9/9/6B2/9/3A5/9/1C2K4 w - - 1 w", "variant": "xiangqi", "moves": "b1d1,d8d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "JvZ8g", "fen": "9/8C/4kN3/9/9/2B1n4/9/3A5/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f8e10,e8e9,e10g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "syU1N", "fen": "2bakrR1C/7R1/9/p8/4P4/4P4/P8/4B4/1c2A4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "h9f9,d10e9,g10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1Y1dt", "fen": "9/4k4/8R/9/9/9/9/9/4A4/2BK2B2 w - - 1 w", "variant": "xiangqi", "moves": "i8f8,e9e10,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "mspoZ", "fen": "9/9/4k4/4N4/9/2B6/9/8B/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "e7g8,e8d8,g8f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "RnpUk", "fen": "3k5/5c3/4R4/9/9/9/9/r2A1C2B/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e8d8,f9d9,f3a3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YHgzE", "fen": "1R7/3ka4/9/9/9/9/9/8B/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "b10b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "DeXYv", "fen": "1rbR2R2/3r5/c2k5/p3p1N1p/9/2p6/P1P3P2/4B4/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "g10e10,d9d10,e10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "96Hkr", "fen": "9/3ka4/3a5/9/2R6/9/9/9/3K5/2BA1A3 w - - 1 w", "variant": "xiangqi", "moves": "c6c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "2BY1X", "fen": "3a1k3/2P3P2/9/9/9/9/9/3C1A3/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "c9d9,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "GULbJ", "fen": "3k5/4R4/9/9/9/2B6/1r7/3A1A3/8C/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "i2d2,b4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "HtcN4", "fen": "3a1k3/9/2n1bP3/5N3/2b2c3/6B2/9/2p5B/4AC3/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f7d8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "TTvjF", "fen": "9/3k5/3c5/4R4/9/2B6/9/8B/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bcARl", "fen": "9/9/3k5/3N5/9/2B6/9/4B4/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ytQgF", "fen": "3k5/6CC1/9/9/8p/2B6/P7P/5K3/9/6B2 w - - 1 w", "variant": "xiangqi", "moves": "f3e3,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "JW49B", "fen": "4kaR1C/3c1P3/2nN5/9/p1b6/9/1r7/4B4/4A4/c2CKAB2 w - - 1 w", "variant": "xiangqi", "moves": "e3c1,a1d1,g10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "hK0OZ", "fen": "3a1k3/c1N1a1P2/3P5/3c5/9/3N5/9/4B4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "d5e7,e9d8,g9g10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "5PEwe", "fen": "3k5/1Nc1a1N2/4ba3/8n/6b2/2C6/2c6/n2CB3B/4A4/3K5 w - - 1 w", "variant": "xiangqi", "moves": "d3d6,e9f10,c5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0w5tq", "fen": "9/9/3k5/4R4/9/9/9/B1nA5/5K3/3A5 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,c3d1,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "SomN2", "fen": "9/3R5/4k4/9/8P/2N6/p8/2rAB4/9/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "c5e6,c3c2,e6g7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "19lrb", "fen": "3akr3/3P5/4b4/9/2b6/9/R8/3A1A3/3K2p2/9 w - - 1 w", "variant": "xiangqi", "moves": "a4a10,f10f3,a10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "qNllw", "fen": "4k4/4a4/1R7/9/9/9/9/5A3/4A4/3CK4 w - - 1 w", "variant": "xiangqi", "moves": "b8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "dFKAW", "fen": "3k5/4R4/9/9/2P6/9/9/3C5/3rA4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "c6d6,d2d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PCjHA", "fen": "3k5/9/3N1a3/8R/9/2B6/9/3A5/9/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "i7i9,f8e9,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "fEpIe", "fen": "2bakc3/4a4/r1P1b4/4C2R1/9/9/9/9/9/2B2KB2 w - - 1 w", "variant": "xiangqi", "moves": "h7h10,a8c8,h10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bZwrR", "fen": "1R7/C2Pak3/4ba2b/p8/7r1/6P2/9/8N/4A4/2B1KcB2 w - - 1 w", "variant": "xiangqi", "moves": "b10e10,f1c1,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "zeEmf", "fen": "4R4/3kar2C/b2ab4/8p/9/2P6/9/N8/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "a3b5,f9i9,b5c7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "QWR5K", "fen": "2bak4/5R3/5a3/4C4/P8/8P/2P6/9/5K3/6B2 w - - 1 w", "variant": "xiangqi", "moves": "a6a7,c10a8,a7a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1GE04", "fen": "3k5/9/5N3/9/3c5/6B2/9/3A5/2C1K4/3A2B2 w - - 1 w", "variant": "xiangqi", "moves": "c2d2,d6d2,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jgKp4", "fen": "3k5/9/5N3/9/9/3c2B2/9/3A5/2C1K4/3A2B2 w - - 1 w", "variant": "xiangqi", "moves": "c2d2,d5d2,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FXq74", "fen": "9/2rk5/6R2/9/9/9/9/9/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "g8g9,d9d10,g9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Jwhwa", "fen": "3k5/9/5a3/9/9/9/2R6/3A5/4C4/3A1KB2 w - - 1 w", "variant": "xiangqi", "moves": "c4e4,f8e9,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "4iabl", "fen": "3aka3/3cn4/4R4/p3p4/n1p6/4P1P1P/P1P6/2NcB4/5C3/2BAKA3 w - - 1 w", "variant": "xiangqi", "moves": "f2h2,d3d5,h2h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "EtIW5", "fen": "9/2P6/3k1N3/9/9/9/4n4/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f8e10,d8e8,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "2Ny3H", "fen": "4k4/3Na4/5P3/9/9/9/9/3A1A3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,e10d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "09Ujo", "fen": "3k5/3NP4/5C2c/5n3/9/2B6/9/1p3A2B/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "d9c7,f7e5,c7b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8bwiP", "fen": "1N1k5/4P4/5c3/4C4/9/2B6/3n5/1p3A2B/9/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "e7f7,d4f3,b10c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "9bJsQ", "fen": "3k5/6N2/9/4N4/5P3/9/p4C3/4B4/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "f4d4,a4b4,e7d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "vu0NX", "fen": "3k5/R8/9/4p4/9/4P4/8P/4BA3/4K4/5AB2 w - - 1 w", "variant": "xiangqi", "moves": "a9e9,e7e6,e5e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "VM1Ys", "fen": "9/9/3k5/3N5/9/6B2/9/B8/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PXLQv", "fen": "4k4/9/9/9/9/2P3P1P/P7R/2N1B4/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "i4e4,e10d10,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "VOfOu", "fen": "3aka3/4n4/4c3b/p3C4/2b2Rp2/P8/4P3p/3A5/6N2/1rBAK1cn1 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,g1d1,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Lf4al", "fen": "3k5/9/1c3N2b/3P5/3n5/1p7/3C2N2/9/4K4/2c6 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,b8f8,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "KMQKF", "fen": "9/4k4/4c4/9/2PN2R2/6B2/9/9/9/3AKAB2 w - - 1 w", "variant": "xiangqi", "moves": "g6g9,e9e10,d6e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "EG94l", "fen": "3k5/9/4P4/9/8p/9/8P/4B4/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "xYyeO", "fen": "3k5/9/4P4/9/p8/9/P8/3AB4/9/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,a6a5,a4a5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7raI0", "fen": "3ak4/3ca4/N3b4/p8/9/P8/4C4/B8/4AK3/2BA5 w - - 1 w", "variant": "xiangqi", "moves": "a8c9,a7a6,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "rp5fZ", "fen": "3P5/4k4/5P3/9/2b6/9/9/9/6C2/3K5 w - - 1 w", "variant": "xiangqi", "moves": "g2g8,c6a8,g8a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "JiW0g", "fen": "9/1N1ka4/5a3/9/9/9/3n5/4C4/3K5/9 w - - 1 w", "variant": "xiangqi", "moves": "e3a3,e9d8,a3a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PcSXC", "fen": "2P2a3/3k1P3/3a5/9/3n5/2B3B2/9/9/3C1K3/9 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,f10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jl9ZT", "fen": "3akr3/4aR3/4R4/9/2P6/6C1P/9/B1p6/4A4/4KAB1c w - - 1 w", "variant": "xiangqi", "moves": "g5a5,f10f9,a5a10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "i7A5m", "fen": "4R4/2r1P4/4k4/4N4/9/9/9/4B4/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e9d9,e8f8,d9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "722Us", "fen": "4R4/1r7/5k1N1/9/9/9/9/4B4/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e3c1,b9e9,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gxBfr", "fen": "2b1N4/C2k5/2N1b4/1P7/5c3/3n2P2/7n1/3AB4/3K5/2B6 w - - 1 w", "variant": "xiangqi", "moves": "b7b8,d5e3,b8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "aN5ua", "fen": "2b1kN3/5P3/3ab4/9/9/6B2/5n3/4BK3/9/4C4 w - - 1 w", "variant": "xiangqi", "moves": "e1i1,f4h3,i1i10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "R8crf", "fen": "3k5/4R2C1/3P5/9/9/9/3r5/9/4A4/2B1K1B2 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,d4d9,h9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "xdsMO", "fen": "9/4k4/3P5/9/4C4/4c4/4C4/4B4/4A4/4K1B2 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "rAys4", "fen": "4k4/3P5/c8/9/9/9/9/3A5/4AK3/3C5 w - - 1 w", "variant": "xiangqi", "moves": "d1e1,a8e8,e1e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XPSwz", "fen": "2R6/3ka4/3a5/9/9/9/9/9/4A4/2BK1AB2 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "I7XQ3", "fen": "4k4/2P1a4/9/2N6/9/9/9/B2A5/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "c9d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "2LSqk", "fen": "4k4/3Pa4/9/9/9/6B2/9/3A5/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "OuTAS", "fen": "3k5/2c6/3P5/9/4N3p/7p1/2n6/3AB4/4C4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "e6f8,c4e3,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "hH0GZ", "fen": "4P4/3P5/3k1a3/9/9/9/9/3A1K3/4A4/8C w - - 1 w", "variant": "xiangqi", "moves": "f3e3,d8d9,i1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "SbxmD", "fen": "1P2ka3/4aP3/9/9/2b1R4/9/9/9/3K5/9 w - - 1 w", "variant": "xiangqi", "moves": "b10c10,c6e8,e6e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "V1obL", "fen": "3ak4/5P3/3P5/9/9/9/9/4B4/4AK3/1p4B2 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,d10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "SZFH2", "fen": "4k4/3Pa4/N8/9/9/6B2/9/B2A5/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "f1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Eh3S4", "fen": "1Cbak4/3Pa4/4b4/9/8p/5R3/5n1rP/4B1N2/4A2C1/1cBA1K2c w - - 1 w", "variant": "xiangqi", "moves": "f5f9,h4h2,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iiazD", "fen": "4k4/3R5/9/9/1c7/2B6/9/3AB4/3C5/5K3 w - - 1 w", "variant": "xiangqi", "moves": "d2e2,b6e6,e2e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "F0ghy", "fen": "4k4/2P2P3/5a3/9/9/5N3/9/3KB4/9/1n4B2 w - - 1 w", "variant": "xiangqi", "moves": "c9d9,f8e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "urF68", "fen": "2b2N3/9/3k5/9/6P2/6B2/3n5/3KB4/9/5C3 w - - 1 w", "variant": "xiangqi", "moves": "f1f8,c10a8,f8a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gb6Qb", "fen": "4k4/9/9/9/9/9/9/3A1K3/9/3R5 w - - 1 w", "variant": "xiangqi", "moves": "d1e1,e10d10,e1e9", "eval": "#4", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "LUk1v", "fen": "3a5/3k5/2N6/1N2P3p/p6n1/9/2n6/3AB4/4K4/6B2 w - - 1 w", "variant": "xiangqi", "moves": "e7e8,d10e9,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "UKDat", "fen": "9/4k4/3P5/9/9/9/9/9/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "f1f2,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XLY7o", "fen": "3k5/4P4/3C5/1nN6/9/2B3B2/4c4/3A5/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d8b8,b7c5,c7b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "p0dDk", "fen": "4k4/3Pa4/9/9/9/9/9/9/9/5KB2 w - - 1 w", "variant": "xiangqi", "moves": "f1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "voSnT", "fen": "4k4/4a4/1R7/9/9/9/9/5A3/4A4/2BCK1B2 w - - 1 w", "variant": "xiangqi", "moves": "b8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "H6vzd", "fen": "3a5/4k4/3a5/5R3/4C4/9/8P/C4A3/4AK3/9 w - - 1 w", "variant": "xiangqi", "moves": "a3d3,e9e8,d3e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "4isbW", "fen": "2b1k4/1R7/9/p8/6b2/9/P8/6R2/4A2r1/3K2B2 w - - 1 w", "variant": "xiangqi", "moves": "g3d3,h2e2,d3d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YLE2O", "fen": "3k5/2P1N4/4b4/6n2/9/6B2/2c6/3A1A2B/1C2K4/9 w - - 1 w", "variant": "xiangqi", "moves": "b2b10,d10e10,e9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PRQR2", "fen": "3k5/4P4/9/9/9/4cC3/4C4/4B4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "e4d4,e5e6,f5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "TsLcm", "fen": "9/3ka4/5R3/9/9/2B6/9/9/4A4/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Yx3Ec", "fen": "9/3k5/4P4/9/9/9/3p5/3A5/1C2A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "b2d2,d9d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iFd31", "fen": "1R7/3ka4/3a5/9/9/9/9/9/3K5/3A5 w - - 1 w", "variant": "xiangqi", "moves": "b10b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "CbXgH", "fen": "2C6/3P1k3/3Nb4/3N1n3/3n5/6B2/5p3/3A4B/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "d8b9,f9f10,b9d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "9TnTo", "fen": "9/4a4/3ak4/4n4/9/9/4R4/4B4/4K4/3A1A3 w - - 1 w", "variant": "xiangqi", "moves": "e2f2,e9f8,e4e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ZZpmS", "fen": "1N1a5/9/3k5/3c5/2P6/6Bn1/9/3A5/3C5/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "c6c7,d7d2,c7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1q5qg", "fen": "2baknb2/4aR3/4c4/4C2R1/2p3r1p/P8/6r1P/4B4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "h7f7,g4i4,f9f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "BXMQQ", "fen": "3R5/2c2k3/9/9/9/9/9/8B/4K4/3A1AB2 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,f9f8,d9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "dMoWe", "fen": "3R5/4ak3/5n3/9/9/2B3B2/9/3A5/9/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "b4RAT", "fen": "8R/3ka4/3a5/9/9/6B2/9/4B4/3K5/3A1A3 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,d9d10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "VKus3", "fen": "9/3P1k3/5N3/9/P8/2B6/4n4/9/9/3AKA3 w - - 1 w", "variant": "xiangqi", "moves": "f8h9,e4c5,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tjGxf", "fen": "4k4/9/9/9/9/9/8P/4B4/1R1K5/9 w - - 1 w", "variant": "xiangqi", "moves": "b2b9,e10f10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "3NFeq", "fen": "9/4a2CC/3ack3/p3p3p/6R2/1p3r3/N1n1P3P/4BA3/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "g6g9,e8e4,g9g8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "C5cSB", "fen": "3k5/2r6/2N1P4/9/4cR3/4p4/4c4/4B4/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,c9c8,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "5fgBA", "fen": "3k5/9/9/4N4/9/9/9/B3BA3/5K3/3A5 w - - 1 w", "variant": "xiangqi", "moves": "f3e2,d10e10,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ytz0f", "fen": "3C1k3/9/1N7/9/3c5/6B2/9/5A2B/4K4/5A3 w - - 1 w", "variant": "xiangqi", "moves": "b8d9,f10f9,d10d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1zB2A", "fen": "9/2P6/3k5/9/9/2Bc5/9/3AK4/4A4/1C7 w - - 1 w", "variant": "xiangqi", "moves": "b1d1,d5d1,e2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "TF4Uv", "fen": "9/3k5/3aRa3/p7p/6p2/1C1n5/P7P/B2C5/4A4/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "a3c5,f8e9,b5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0QeAI", "fen": "2C1k4/9/9/4N4/9/2B6/P8/3A5/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "c10c6,e10d10,c6e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MB6zT", "fen": "4k4/4a4/3P5/9/9/9/9/4K3B/9/3A1AB2 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gJbGb", "fen": "1Nb1P4/3k1P3/3acN3/9/p1b6/2B6/P8/9/4A4/3K5 w - - 1 w", "variant": "xiangqi", "moves": "f8e6,e8e2,e6c7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "siAIt", "fen": "2b2C3/3P5/3k5/9/2b6/2B3B2/9/3A5/5K3/4C4 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,d8d9,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "UFDCw", "fen": "2b1Ca3/9/b2k1N3/2N6/P8/3npp2p/9/3A5/n2K5/2B6 w - - 1 w", "variant": "xiangqi", "moves": "d3e2,a2c1,f8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "WYVZi", "fen": "2bP1k3/6P2/b4a3/1P1Nn4/9/9/9/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d7c9,f8e9,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "geBvd", "fen": "3k5/c6N1/3P5/9/9/2B5p/9/5A3/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "h9f8,a9a1,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "TwPZX", "fen": "3a1k3/9/2nNP4/9/9/9/9/3A5/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e8f8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iIVpd", "fen": "9/3ka4/5R3/9/9/6B2/9/9/5K3/2BA1A3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "t7y9W", "fen": "9/3ka4/5R3/9/9/9/9/8B/5K3/3A1AB2 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "TzRKu", "fen": "2N1k4/9/9/9/9/2B6/9/4BA3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,e10f10,c10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "KhZaV", "fen": "2baka3/7R1/2nC1c3/p1CNp3p/6b2/2P6/1r2P1p1P/4B4/9/c1BAKA1N1 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,g6e8,d7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "RAPNz", "fen": "4k4/3Ra4/9/7N1/4P4/9/9/4BA3/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "h7g9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7SSLc", "fen": "3k5/5R3/9/9/6p2/9/9/4B4/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "f9e9,g6g5,e3g5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FSHUl", "fen": "3k5/4P4/9/9/9/2B6/1c7/B2A5/5C3/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f2d2,b4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "c7lkC", "fen": "3k5/4P4/9/3c5/9/2B6/9/B2A5/9/C3K4 w - - 1 w", "variant": "xiangqi", "moves": "a1d1,d7d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "beuk1", "fen": "3R5/5k3/9/9/9/6B2/4P4/4BA3/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "d10e10,f9f8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "HrZRE", "fen": "3ak4/3PNP3/9/9/6n2/9/9/B8/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "e2d2,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PUsot", "fen": "2P1ka3/4a4/4R1c2/9/9/7n1/9/5A2B/9/4K1B2 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,h5f4,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XtmQR", "fen": "3a1k3/4a4/4R4/6R2/9/9/9/4cA3/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "g7f7,f10e10,e8e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "hrIcm", "fen": "2b1R4/3k5/9/3n1N3/9/2B6/9/5A3/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "e10e8,d7c5,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "t5aTF", "fen": "2b1k4/9/6N2/9/9/8P/9/B8/4AC3/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "f2f1,c10e8,f1e1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FQhhe", "fen": "9/9/2N1k4/9/9/2B6/P8/4BA3/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "e2d2,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "VfmNd", "fen": "2b1ka3/4a4/n3b4/p8/2P6/4C4/P2RP1r2/4B2c1/6N2/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,g4g2,d4d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "WUtWO", "fen": "2b1k4/5P3/5C3/9/9/9/9/4B4/3K5/9 w - - 1 w", "variant": "xiangqi", "moves": "f8f1,c10e8,f1e1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "2MqDM", "fen": "4k4/4a4/3P5/9/9/9/9/4K4/9/9 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sYtyQ", "fen": "9/1N1k5/3a1aN2/4n4/9/6B2/9/5A3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "g8f10,d9e9,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Y2lat", "fen": "9/3P1k3/9/9/9/9/9/3A1A3/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,f9f8,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "EhvC7", "fen": "4k4/9/3R5/9/9/9/9/B2AB4/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "idQDy", "fen": "9/3P1k3/9/9/4CN3/9/3p5/B8/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "e6e5,d4e4,e5f5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "l6pZp", "fen": "4k4/9/9/9/4N4/3R5/9/4BA3/9/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "d5d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "GxeL8", "fen": "9/3ka4/3a5/9/1PP5P/2B6/9/3R4B/4K4/5R3 w - - 1 w", "variant": "xiangqi", "moves": "f1f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XZwEm", "fen": "9/3ka4/3a5/9/1PP5P/2B3B2/9/3R5/4K4/5R3 w - - 1 w", "variant": "xiangqi", "moves": "f1f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "C18tb", "fen": "9/2PCk3C/4bN3/9/8P/6B2/9/5A3/4K4/6B2 w - - 1 w", "variant": "xiangqi", "moves": "d9d8,e9f9,f8h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gn2em", "fen": "3P5/5nN2/4k2P1/9/9/6B2/9/4B4/4AC3/3K5 w - - 1 w", "variant": "xiangqi", "moves": "h8g8,e8e9,g8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "oXDg7", "fen": "3ak4/3P5/8N/9/9/9/9/8B/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,d10e9,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7fa06", "fen": "4k4/9/4PP2b/9/2P6/9/9/9/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,i8g6,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "qH1DD", "fen": "8C/3kaP3/2Nab4/9/p8/9/P2n5/4BAp2/2n1A4/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "i10a10,g3f3,c8b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Lv2Ge", "fen": "2ck5/4P4/4N4/9/9/9/9/B8/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e8d6,c10c9,d6c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "lhKHq", "fen": "4k4/4a4/3R5/9/9/9/9/9/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "pNzk6", "fen": "3akab1C/9/6NC1/p8/2pn5/4cn3/P7P/4B4/4A4/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "h8h10,d10e9,i10g10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "LrNsZ", "fen": "9/3Pak3/5aN2/9/9/P7P/9/9/5K3/2BA1A3 w - - 1 w", "variant": "xiangqi", "moves": "g8h10,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "z9Thh", "fen": "3k5/5P3/5a3/3P5/9/9/9/9/9/2BAKA3 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,f8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iwSid", "fen": "3k5/9/4R4/3P5/3r5/4P4/9/3C5/4A4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,d6d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "pD9FW", "fen": "4k4/1C7/5R3/9/9/8P/9/4B4/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "f8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "wnle0", "fen": "2R6/c2k5/9/9/9/9/9/9/9/2BAKAB2 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,d9d10,c9a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tWH5t", "fen": "3N5/3k5/9/9/9/9/9/3AC4/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "d10f9,d9e9,f9e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YbXfm", "fen": "2bakr3/4a4/4bc3/6R1R/p1P1C3P/9/P8/4B2r1/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "g7d7,h3e3,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "yevhL", "fen": "2bakc3/4a4/4b2r1/3R2R2/p1P1C3P/9/P8/4B2r1/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "g7g10,h3e3,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ZHsmN", "fen": "2b6/4ak3/4ba3/4N2R1/9/P1r3B1p/9/6n2/4A4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "e7g8,c5g5,h7h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "OTs8O", "fen": "9/3k5/3n5/9/9/2B6/3R5/9/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e2f1,d9d10,d4d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "HRgW8", "fen": "4k4/9/2N6/9/9/6B2/4p4/5A3/4K4/3C5 w - - 1 w", "variant": "xiangqi", "moves": "d1f1,e4e3,g5e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "DZvuj", "fen": "4k4/9/2N6/9/9/6B2/4p4/5A3/4KC3/9 w - - 1 w", "variant": "xiangqi", "moves": "f2f1,e4e3,g5e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MVhZq", "fen": "4kab1C/3Ra4/c3b2PN/p5p2/1n2p4/2p3P2/P3P4/2rC5/9/3AKAB2 w - - 1 w", "variant": "xiangqi", "moves": "h8g8,a8g8,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "6CWWc", "fen": "3k5/9/5N3/9/9/3N2B2/9/5p3/1p1nA4/1cBAK4 w - - 1 w", "variant": "xiangqi", "moves": "d5e7,f3f2,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "h9JNV", "fen": "4k4/9/3C5/3R1P3/9/2B6/8P/9/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d7e7,e10d10,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XsTDk", "fen": "2bakr3/4a4/4b3n/3R5/2p5p/4C4/P1P1Pc1nP/8N/4A4/2B1K1N2 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,f4c4,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "vhChb", "fen": "8R/3ka4/9/9/9/9/9/B8/4A4/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,d9d10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "UZieK", "fen": "9/3k5/3c5/4R4/9/9/9/B8/9/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "dijkL", "fen": "3R5/4kr3/9/9/9/9/9/9/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,e9e10,d9f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "rPpYQ", "fen": "9/3k5/5P3/9/9/2B6/4C4/9/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "f8e8,d9d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "vqszP", "fen": "3a1k3/2N6/b8/5P2p/2b6/p8/2C2c3/2nA5/5C3/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f7f8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "5DkT3", "fen": "9/3ka4/C4R3/9/P5P2/9/9/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d8,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "qoQo3", "fen": "9/2nk5/3C5/4R3p/9/6B2/9/3A1A3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d8c8,i7i6,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Fqp1w", "fen": "2Nk5/4R4/2c6/9/9/9/9/4B4/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "c10a9,c8c9,a9c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "KPiaV", "fen": "3k5/9/5N3/9/9/3c5/9/B2A1A3/9/2C1K1B2 w - - 1 w", "variant": "xiangqi", "moves": "c1d1,d5d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "t5uis", "fen": "9/9/4k4/4N4/9/9/8P/4B4/4A4/5KB2 w - - 1 w", "variant": "xiangqi", "moves": "e7g8,e8d8,g8f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "hgLhH", "fen": "2R6/3kr4/9/9/9/9/9/9/9/C4K3 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "I3EGd", "fen": "9/3k5/3c5/4R4/9/6B2/9/4K4/9/5A3 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Vuqsn", "fen": "1P7/4k4/3N5/9/9/9/9/3AB4/3C5/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "d2e2,e9d9,d8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sKofV", "fen": "3C1k3/2C1P4/4ca1nb/9/9/6B2/4n4/9/4AK3/9 w - - 1 w", "variant": "xiangqi", "moves": "g5e3,e8e3,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "j5kzJ", "fen": "3k5/4aN3/3a5/9/5C3/2B6/9/4K4/4A4/9 w - - 1 w", "variant": "xiangqi", "moves": "f6e6,d10d9,e6d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YDyrA", "fen": "4k4/3P5/9/9/9/3c5/4N4/9/5K3/1C4B2 w - - 1 w", "variant": "xiangqi", "moves": "b1e1,d5e5,e1e5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "qccR6", "fen": "9/4k4/9/9/9/9/3R5/3A4B/9/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "d4d8,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "wQAz7", "fen": "3ak4/4a4/b3b3n/p3C4/2r1N4/P8/5R2P/4B4/1c2A4/1NBAK4 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,c6e6,f4f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NWWDE", "fen": "3k5/9/4P4/9/9/9/9/4B4/2p1A4/3CKAB2 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,c2c1,e3c1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ETrXl", "fen": "4k4/1N7/4C4/9/9/9/9/3AK4/9/3A5 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "N5XjA", "fen": "4k4/1N7/4C4/9/9/9/9/3A5/4K4/3A5 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "dY50w", "fen": "9/1P3k3/2P2c3/4R4/9/9/9/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e7f7,f9f10,f7f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XoyF1", "fen": "2P6/5k3/3P5/4C4/9/9/8P/4K4/9/5A3 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,f9f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Sf8zc", "fen": "2R6/3ka4/9/9/8P/P8/9/5A3/9/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,d9d8,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "uiDTZ", "fen": "9/4P4/3k5/9/1c7/9/9/4K4/3CA4/9 w - - 1 w", "variant": "xiangqi", "moves": "e2d3,b6d6,d2d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1AnuH", "fen": "9/4P4/3k5/9/9/3c5/9/3A1K3/4A4/3C5 w - - 1 w", "variant": "xiangqi", "moves": "f3e3,d5d1,e2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XEuM4", "fen": "3c5/9/3k5/4R4/9/6B2/9/p2A4C/9/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "i3i2,d10d3,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jRx1B", "fen": "2b1kab2/4a4/4c4/p3C1N1p/1R7/P1p3P2/4P2rc/9/4A4/2BK1AB2 w - - 1 w", "variant": "xiangqi", "moves": "b6b10,h4e4,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "uHXnY", "fen": "3ak4/9/9/6N2/9/9/4P3R/4B4/4K4/3A5 w - - 1 w", "variant": "xiangqi", "moves": "i4i10,e10e9,i10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "HBpFK", "fen": "9/1R7/3akaPC1/3n4p/1n7/6B2/6r1P/pp7/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "b9f9,g4g1,g8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NMgkh", "fen": "3a1k3/3Ra1P2/4b4/4p3p/9/9/4nr3/4BA3/1Cc6/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "e3c5,f4f3,b2b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "QpWXo", "fen": "2b6/5CC2/5k3/p2R5/7n1/9/P8/3A4B/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "g9g6,f8f9,d7f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Qhwse", "fen": "1C1a5/4ak3/4P4/6P2/4c4/9/2N6/4B1n2/4A4/c1BAK4 w - - 1 w", "variant": "xiangqi", "moves": "g7g8,g3e2,g8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "pAiH7", "fen": "9/9/3k5/3N5/9/2B3B2/9/9/5K3/3A5 w - - 1 w", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "kC22X", "fen": "9/4k4/3R5/9/9/9/9/B8/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "C6B9I", "fen": "9/4P4/3k5/3c5/9/2B6/9/3AK4/4A4/1C7 w - - 1 w", "variant": "xiangqi", "moves": "b1d1,d7d1,e2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "mUk5v", "fen": "4k4/9/9/2P6/9/4P4/3N4P/R8/9/2BAKAB2 w - - 1 w", "variant": "xiangqi", "moves": "a3a9,e10f10,a9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "UXGIe", "fen": "4k4/2P6/4C4/9/6C2/6B2/9/9/4K4/6B2 w - - 1 w", "variant": "xiangqi", "moves": "c9d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Kvy0V", "fen": "1C2kab2/C8/5a2b/8p/2p6/9/Pc2r4/B2RB4/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d3d9,e4e3,a9a10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "zZ4f1", "fen": "4k4/1R2a4/9/9/9/9/9/3A5/9/3K2B2 w - - 1 w", "variant": "xiangqi", "moves": "d1e1,e10f10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "r6lj2", "fen": "1R7/3kr2PC/9/9/9/9/9/9/5K3/5A3 w - - 1 w", "variant": "xiangqi", "moves": "b10b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Qe37Q", "fen": "9/3kr2PC/1R7/9/9/9/9/9/5K3/5A3 w - - 1 w", "variant": "xiangqi", "moves": "b8b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "u1t30", "fen": "2Rckar2/4a4/4bc3/C7p/9/4C4/P7P/5p3/9/2BAKAB2 w - - 1 w", "variant": "xiangqi", "moves": "a7e7,g10g1,e5e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "yeRSx", "fen": "3k5/4RP3/3r5/9/9/9/1p7/3AB4/4K4/5cB2 w - - 1 w", "variant": "xiangqi", "moves": "f9f10,d8d3,f10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "5XrTo", "fen": "1c2kab2/4a4/4b2c1/R8/1rp3pn1/1NP1C4/P3P3P/4B3N/4A4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "a7d7,b10b5,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "TDUGJ", "fen": "2bkna3/R3a4/1R7/9/9/9/9/9/9/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "b8b10,e9f8,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "qjuVW", "fen": "3ak4/6C2/5R3/9/4P4/P8/9/9/3KA4/9 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d10e9,g9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "efbPD", "fen": "4k4/4a4/3R5/6N2/9/9/9/4B4/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MlpIZ", "fen": "4k4/3R5/5a3/9/9/2N6/9/4B4/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "c5d7,f8e9,d7e9", "eval": "#4", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "p5oF6", "fen": "3k5/5P3/4b4/9/9/9/9/4K3B/4AC3/5A3 w - - 1 w", "variant": "xiangqi", "moves": "e2d3,d10e10,f2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "hFxaB", "fen": "3ak4/4a4/r3b4/C5R1p/2p6/9/8P/4B4/3nAK1C1/c2A2B2 w - - 1 w", "variant": "xiangqi", "moves": "a7e7,d2e4,g7g10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gXOKZ", "fen": "2C2k3/4R4/9/7c1/9/9/9/B3BA3/6C2/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "g2f2,h7f7,f2f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "rOLqz", "fen": "2R6/4k4/4N4/9/p8/P1B6/9/3A1A3/9/4K1B2 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,e9e10,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0FZxF", "fen": "3k5/4a4/2RNb4/5C3/p4n3/1n7/4C4/3AB4/9/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "e4e6,e9d8,c8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "q7eJA", "fen": "4k4/4a4/3aR4/4N4/9/9/9/5A2B/3KA4/9 w - - 1 w", "variant": "xiangqi", "moves": "e7g8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "uwnPn", "fen": "3ak4/4a4/4b3b/p4R3/2c1C4/9/P1r1P4/4B1N2/2c1K4/5A3 w - - 1 w", "variant": "xiangqi", "moves": "e2f2,c4a4,f7f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Xu5zz", "fen": "4k4/3P1P3/3a1c3/9/1N4b2/9/9/9/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "b6c8,f8c8,f9f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bBUPA", "fen": "2cak4/4a4/1n2b2P1/9/2P6/9/C8/4CK3/2p6/3A2B2 w - - 1 w", "variant": "xiangqi", "moves": "a4e4,b8c6,e3e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "m0yil", "fen": "3P1k3/4P4/5a3/n8/2b6/9/9/6n2/C8/5K3 w - - 1 w", "variant": "xiangqi", "moves": "a2g2,g3e4,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "GiqWg", "fen": "9/4P4/3k5/9/3N5/3n5/9/3A5/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d6b7,d5c7,e1e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PHA0u", "fen": "4k4/4C4/9/2N6/9/6B2/9/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "c7b9,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "65l4r", "fen": "9/3k5/4b4/3N5/8R/P3P4/8P/3A5/4AK3/9 w - - 1 w", "variant": "xiangqi", "moves": "d7f8,d9e9,i6i9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "xM8js", "fen": "3ak4/2P1a4/9/6R2/5c3/9/9/9/9/2BAKAB2 w - - 1 w", "variant": "xiangqi", "moves": "g7g10,f6f10,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "lEqMw", "fen": "3k5/4C1N2/b8/9/3P5/2P6/P2n4P/3C5/4K4/c1B3B2 w - - 1 w", "variant": "xiangqi", "moves": "e9e5,a1g1,e5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8s3Dc", "fen": "2Nc1k3/8R/5a3/9/9/p8/9/B2AB4/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "c10d8,d10d9,i9i10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "fffot", "fen": "3k5/5P3/9/8p/9/8P/9/4B4/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f9e9,i7i6,i5i6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "JZMmd", "fen": "2b2a3/5P3/5k3/9/2bN5/4C1B2/9/3p1A3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e5e2,f8f9,e2f2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "3J44s", "fen": "2bak1r2/4a4/4c3b/p1p2Rr2/4C4/4P1N1p/9/9/5R3/3K5 w - - 1 w", "variant": "xiangqi", "moves": "f2d2,g7f7,d2d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jeDqr", "fen": "3k5/4P4/4P4/9/9/9/9/3c5/3K5/3A1A3 w - - 1 w", "variant": "xiangqi", "moves": "e8d8,d3d1,d2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "BwLA5", "fen": "9/1N1ka4/3a1P3/9/9/2B6/9/9/9/2BAKA3 w - - 1 w", "variant": "xiangqi", "moves": "f8e8,e9f8,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "AlHp0", "fen": "2b6/2Nk5/9/9/C8/2B3B2/9/3A1n3/4K4/5A3 w - - 1 w", "variant": "xiangqi", "moves": "c9d7,f3g5,a6d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "6b3AQ", "fen": "9/4R4/3k5/p8/2b6/3N5/P1c5P/5A3/4K4/3A5 w - - 1 w", "variant": "xiangqi", "moves": "d5f4,c4i4,f4e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "t2QY6", "fen": "3k5/9/8R/9/9/9/9/9/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "i8d8,d10e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "h86Qr", "fen": "9/9/1N1k5/9/p8/6B2/P8/3A4B/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "f1e1,a6a5,a4a5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7ODU3", "fen": "9/9/1N2k4/9/p8/6B2/P8/3A4B/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "b8c10,a6a5,a4a5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "O0E0G", "fen": "9/2P6/3k1N3/4n4/9/2B6/9/3A1A3/4K4/6B2 w - - 1 w", "variant": "xiangqi", "moves": "f8e10,d8e8,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bsKjy", "fen": "9/9/4k4/2R6/9/9/9/4BA3/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "c7e7,e8d8,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YoWbT", "fen": "9/4P4/3k5/9/2p6/9/9/B8/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,c6c5,a3c5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "aY1aN", "fen": "9/3P5/5k3/9/6p2/9/9/8B/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "d9e9,g6g5,i3g5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FS9SE", "fen": "9/4P4/3k5/9/2p6/9/9/B8/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e1e2,c6c5,a3c5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "mCKkP", "fen": "2P1k4/4aP3/3ab4/9/9/1n4B2/4C4/3A5/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,b5d4,f9f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "lwQZd", "fen": "2Rrka3/4a4/4R4/9/9/9/9/9/9/2BCK4 w - - 1 w", "variant": "xiangqi", "moves": "e8c8,d10c10,c8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "t3P4a", "fen": "3a5/3k5/3N2N2/9/9/9/9/3A5/4A4/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "d8b9,d10e9,g8e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "49VBX", "fen": "4k4/3Nn4/5P3/9/9/9/9/B2A1A3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,e10d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "48tjW", "fen": "4k4/4a4/3R5/9/2C6/P1P1P4/9/4B4/4A4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "F1zDO", "fen": "9/3k5/3n5/9/8P/9/3R5/5A3/4K4/2BA2B2 w - - 1 w", "variant": "xiangqi", "moves": "d4d6,d9d10,d6d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "IS9pI", "fen": "4k4/3Ca4/9/9/9/6B2/3R5/B8/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "d4e4,e10d10,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "L2US9", "fen": "2bakr3/4a4/4b4/9/9/1p6R/9/9/9/3KC4 w - - 1 w", "variant": "xiangqi", "moves": "i5d5,f10f1,d5d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1ihkT", "fen": "3a5/2R6/5k3/9/9/9/9/5A3/4A4/1C3KB2 w - - 1 w", "variant": "xiangqi", "moves": "b1e1,d10e9,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "CK6Qt", "fen": "9/2P1k4/4b4/9/9/9/9/B3K3B/4A4/5C3 w - - 1 w", "variant": "xiangqi", "moves": "e2f3,e9e10,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "e0fvs", "fen": "2b1ka3/3caRN2/4b4/p3n3p/1n7/P5C2/8P/3C5/4A4/2BAK1B2 w - - 1 w", "variant": "xiangqi", "moves": "g5h5,d9f9,h5h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ijHNC", "fen": "3k5/2NnP4/9/9/6n2/9/9/9/9/2BKC4 w - - 1 w", "variant": "xiangqi", "moves": "e1e8,g6f4,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sRllW", "fen": "3a5/4ak1N1/3P5/9/9/9/9/9/9/3AKAB2 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e9d8,e8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "A2hbh", "fen": "2N2k3/9/9/6N2/9/6B2/9/5A1n1/3K5/2p6 w - - 1 w", "variant": "xiangqi", "moves": "c10d8,h3g5,g7h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PovK9", "fen": "4R4/3k5/3a5/9/8p/9/P7P/3AB4/4C4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "e2d2,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "AL4YT", "fen": "3a5/9/5k2b/4R4/9/5N3/5r3/5C3/4A4/2B1KAB2 w - - 1 w", "variant": "xiangqi", "moves": "e2d3,f4f3,e7f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "WBjgG", "fen": "3P1k3/4a1P2/b8/5P3/6b2/9/9/5A2B/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "f7f8,e9f8,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "oPa65", "fen": "2bak4/3P2P2/9/9/9/9/9/8B/4A4/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "g9f9,d10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ny1LR", "fen": "2b1ka3/3PNP3/9/4N4/2bnn4/6B2/9/4BA3/1p2A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e7g8,f10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gvVum", "fen": "9/3N1k3/9/9/9/9/3c5/5A3/4K4/4C4 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,d4f4,f1f4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gy7WX", "fen": "2bak3C/9/4bR3/p8/1P6P/6B2/r3p1nC1/3A5/4A4/2c1K1B2 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,c1g1,h4h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "HXghx", "fen": "1P1cka3/4a4/R2P5/9/2R6/9/9/4B4/4A4/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "c6e6,d10c10,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "DTXI5", "fen": "3aka3/3P5/9/9/2R3b2/3n2B2/6r2/B3C4/9/3AKA3 w - - 1 w", "variant": "xiangqi", "moves": "c6c10,d5e3,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "49qi8", "fen": "3k5/9/4b4/3N5/9/9/9/8B/5C3/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,e8g6,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Li3In", "fen": "9/3ka4/5R3/9/9/6B2/9/9/5K3/3A1A3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "fQCas", "fen": "4k4/4a4/9/3R5/9/9/9/4BA3/4A4/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "d7e7,e10f10,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "aBhxv", "fen": "4k4/4a4/9/3R5/9/9/9/3AB4/4A4/5KB2 w - - 1 w", "variant": "xiangqi", "moves": "d7e7,e10d10,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FcKGR", "fen": "3N1k3/3P5/5a3/9/4c4/9/9/B8/1C7/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "d9e9,f8e9,b2b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tCDwj", "fen": "3ak4/3N5/5a3/9/4C4/9/9/3AB4/9/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "e6e4,e10e9,d9e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Cu0f4", "fen": "2Nak1b2/7c1/5P3/3NP4/9/5nB2/9/2nA1A2B/3C5/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,f5e7,c10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "VPv5w", "fen": "3k5/4P4/3C5/9/9/9/6p2/5A2B/4A4/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "d8d2,g4f4,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tIWwZ", "fen": "3R5/4ak3/9/9/9/9/9/8B/9/3AKAB2 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "q4JAu", "fen": "9/4k4/4r4/2N6/5R3/2B6/9/9/4A4/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "f6f9,e9e10,c7e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NgaXR", "fen": "1C5R1/5R3/1r2kn3/p3p4/9/9/P8/4B4/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "h10h8,b8b10,h8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "32qJV", "fen": "2R6/3k5/4b4/p3N3p/9/1n2C4/P2rP3P/3AB4/9/1c2KA3 w - - 1 w", "variant": "xiangqi", "moves": "e7c8,d4d3,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Tn9Tn", "fen": "2N6/9/3ak4/8C/9/P7P/9/4B4/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "i7e7,d8e9,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iqZ8L", "fen": "1CNa5/3k5/2P6/9/9/8P/9/4B4/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "c8d8,d9e9,c10b8", "eval": "#3", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "zl31V", "fen": "3a1k3/9/3P1P3/9/9/9/9/3A5/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "lxbdq", "fen": "8R/4ak3/9/9/9/P8/9/4B4/3KA4/2B6 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,f9f10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NsxT6", "fen": "3a1a3/3k5/2R6/3N5/p8/6B2/P2r5/4B4/3CA4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "c8e8,d4d2,d7b8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "L6MZX", "fen": "3k5/2R6/9/p8/9/P8/4P4/9/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "c9e9,a7a6,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "dGQU5", "fen": "2bk5/4P4/2P6/4C4/2p3b2/3n5/9/3AB4/4A4/5KB2 w - - 1 w", "variant": "xiangqi", "moves": "c8c9,d5e7,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "lXqyC", "fen": "9/3k5/3n5/9/4R4/9/9/3A5/9/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e6d6,d9d10,d6d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iNs7q", "fen": "9/1N1k5/3C5/9/9/6B2/1n7/3A5/4K4/6B2 w - - 1 w", "variant": "xiangqi", "moves": "d8a8,b4d3,a8a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8BoGP", "fen": "4k4/3Pa4/9/9/9/9/3N5/8B/9/3K5 w - - 1 w", "variant": "xiangqi", "moves": "d1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MCIpK", "fen": "4k4/1N2a4/8R/9/9/9/8P/9/4A4/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "i8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "U13Rz", "fen": "3Nc4/5k3/6N2/9/9/p4C3/4P3P/5A2B/5K3/3A5 w - - 1 w", "variant": "xiangqi", "moves": "d10e8,e10e4,e8f6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Qui3n", "fen": "3Nc4/5k3/6N2/9/9/5C3/p3P3P/5A2B/5K3/3A5 w - - 1 w", "variant": "xiangqi", "moves": "d10e8,e10e4,e8f6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "B5xk8", "fen": "3k5/5P3/3ab4/9/6b2/9/9/4Bn3/3R1N1r1/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "f9e9,h2h1,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "SAGeh", "fen": "3k5/8R/3a5/7P1/9/9/9/4K4/9/2B6 w - - 1 w", "variant": "xiangqi", "moves": "e3e2,d8e9,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "llFWX", "fen": "3a5/R8/4k4/9/9/4C3P/P8/9/4A4/3A1KB2 w - - 1 w", "variant": "xiangqi", "moves": "a9d9,d10e9,e5e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "rjxsr", "fen": "3a5/5k3/5a3/9/5R3/9/9/4B4/3KC4/3A2B2 w - - 1 w", "variant": "xiangqi", "moves": "f6f1,f9f10,f1f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "mmgbU", "fen": "3k5/4R4/3N5/9/9/6P2/9/2r6/4K4/3A5 w - - 1 w", "variant": "xiangqi", "moves": "d8b9,c3c9,e9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ODbPM", "fen": "2bak3C/9/2n2a3/p5RC1/4c1b2/1rB2p3/P4p2P/4B4/4A4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "g7g9,b5c5,h7h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "artrC", "fen": "3R5/6PC1/4k4/9/9/9/9/5K3/4r4/9 w - - 1 w", "variant": "xiangqi", "moves": "d10e10,e8d8,e10e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1HgKu", "fen": "2Rrka3/1P2a4/9/9/9/9/9/3A5/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "b9c9,d10c10,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ew1Xn", "fen": "2Rrka3/2P1a4/9/9/9/9/9/3A5/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "e1e2,d10c10,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "EEb70", "fen": "3P5/4k4/5C3/6N2/2b6/8P/9/9/4A4/3K5 w - - 1 w", "variant": "xiangqi", "moves": "f8f1,c6e8,f1e1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "DFVZV", "fen": "2bakab2/1R7/9/4C4/8P/9/9/5A3/4AK3/9 w - - 1 w", "variant": "xiangqi", "moves": "i6i7,g10i8,i7i8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Qks7v", "fen": "3R5/4ak3/8P/1C7/9/9/9/5A3/4AK3/9 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,f9f8,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "FbqQJ", "fen": "3a5/5k3/5a3/9/3N5/9/P8/3AB3B/4C4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "d6c8,f9f10,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ixtlY", "fen": "9/9/4k4/4N4/9/2B6/P8/9/9/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "e7c8,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "onpjY", "fen": "2N1k4/4a4/2R6/9/9/9/9/8B/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "c8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "R5IsH", "fen": "2R6/3ka4/3a5/9/9/6B2/9/3K1A3/4A4/2B6 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0gdNX", "fen": "9/3ka4/9/2R6/P2N5/9/9/9/4A4/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "c7c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iskk8", "fen": "9/4k4/3P5/9/9/9/9/3AB4/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "u36Ho", "fen": "9/3k5/3c5/4R4/9/6B2/9/5A3/9/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sjS0d", "fen": "1r1akab2/3cn4/4b4/4C4/5R3/9/7C1/7p1/4A4/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "h4h10,b10c10,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Q67cK", "fen": "3k5/3n5/3R1a3/7P1/9/2B6/9/9/4A4/3K2B2 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,f8e9,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "2dcEh", "fen": "2bak1n2/4a2R1/4b4/1N5Cr/p8/4Pc3/P8/4B4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "h9f9,i7h7,b7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "i7V5I", "fen": "3R5/9/4k4/9/9/6P2/8P/9/9/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "d10e10,e8f8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ahsBv", "fen": "2N2k3/9/5a3/6N2/9/6B2/9/4B4/4A1p2/4K4 w - - 1 w", "variant": "xiangqi", "moves": "c10d8,f8e9,g7h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "eWGmf", "fen": "3k5/2P2P3/4ba2b/2N6/9/9/p8/3p5/4A4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "f9f10,f8e9,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "3UJCx", "fen": "4P4/3k5/3n5/p2N5/3N5/P5B2/9/4BA3/c2CA4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d6f7,a2a1,d7b8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jlFBQ", "fen": "2Nk5/4PnN2/9/9/9/9/9/1p2B4/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "c10d8,b3b2,d8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "htcaf", "fen": "9/2P1r4/4k4/3R5/9/2B6/9/5A3/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "d7e7,e8f8,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "mz1u4", "fen": "4k1P1N/3Pa4/3a5/7n1/9/9/9/9/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "f1e1,h7g5,i10g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "oU950", "fen": "2P1k1b2/4aP3/3a5/1N2n1N2/5nb2/9/9/3A1A3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "g7e8,f6e8,b7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jRCzz", "fen": "2bak4/4a4/4b3n/p3CRp2/2p5p/6P2/P1P6/5A2B/1r7/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "f3e2,b2e2,f7f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "CoLJT", "fen": "4k4/9/3R5/9/9/9/4P3P/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1fat4", "fen": "3R5/5k3/9/9/8P/9/4P4/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "d10e10,f9f8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "3f3bs", "fen": "2Na1k3/6P2/7n1/9/5C3/2B1n4/9/B8/9/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "c10d8,d10e9,g9f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "geywr", "fen": "3k5/9/6N2/9/9/2B6/9/3A5/4A4/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "g8e7,d10e10,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7Lred", "fen": "3k5/9/5N3/9/9/9/1c7/B2A5/8C/5K3 w - - 1 w", "variant": "xiangqi", "moves": "i2d2,b4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "wYQOv", "fen": "4k4/4N4/9/8c/9/9/9/3K1A2B/4A4/2B1C4 w - - 1 w", "variant": "xiangqi", "moves": "e9g8,i7e7,e1e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7CxHU", "fen": "9/1N1k1P3/3a4b/9/9/6p2/9/9/2C2p3/2BK1A3 w - - 1 w", "variant": "xiangqi", "moves": "c2a2,f2f1,a2a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "kOfhF", "fen": "8R/4rk3/9/9/9/9/9/4B4/4A4/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,f9f8,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "fG4Ib", "fen": "2C2k3/2P6/2N2n3/9/9/9/8P/4B4/3KA4/5AB2 w - - 1 w", "variant": "xiangqi", "moves": "c9d9,f8d9,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "IBiV0", "fen": "2b6/6P2/5k3/5N3/9/p3C1B2/9/5A3/4A4/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "f7d8,f8e8,d8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ZnwP7", "fen": "3R5/1c3k3/9/9/9/6B2/9/B2A5/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "d10d9,f9f10,d9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8z7RJ", "fen": "9/2N2k3/9/9/9/9/5p3/5A3/5C3/2BAK1B2 w - - 1 w", "variant": "xiangqi", "moves": "c9e10,f9f10,e10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "KGFqc", "fen": "1R1ckab2/4a4/4b4/p8/3nC3p/4r1N2/P7P/B3B4/4A4/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "g5f7,e5e6,f7g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "fqIkg", "fen": "3a5/9/5kN2/9/9/2B3P2/P5R2/9/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "g4e4,d10e9,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XVZGY", "fen": "2R6/4ak3/5a3/9/9/9/9/9/4A4/2B2KB2 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,f9f10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "73BcA", "fen": "9/3ka4/5R3/9/9/6B2/9/5C3/9/2BAKA3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ObrVO", "fen": "9/4P4/3k5/9/9/8P/6r2/4R4/4A4/2BAK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e2f1,g4e4,e3e4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1KOtV", "fen": "9/4k4/4C4/3P5/9/6B2/9/5K3/9/5A3 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "pohKM", "fen": "9/4P4/3k5/9/3c1N3/P5B2/9/3A5/9/2C1K4 w - - 1 w", "variant": "xiangqi", "moves": "c1d1,d6d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "d5lmY", "fen": "9/4P4/3k5/9/P2c1N3/6B2/9/3A5/9/2C1K4 w - - 1 w", "variant": "xiangqi", "moves": "c1d1,d6d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "H8Kez", "fen": "3k5/4R4/9/9/9/9/3r5/3A1A3/5C3/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f2d2,d4d5,d2d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "bFWUL", "fen": "4k4/4N4/2N6/9/9/6B2/5n3/3AB4/4A4/5K3 w - - 1 w", "variant": "xiangqi", "moves": "e9f7,e10f10,f7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Ctuo9", "fen": "4P4/9/3k5/9/p1C6/2B3B2/P2C5/5A3/1n1K5/9 w - - 1 w", "variant": "xiangqi", "moves": "d2e2,b2a4,c6d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "pO6a7", "fen": "3k5/3na4/4Ra3/3n5/9/2B3p2/3C5/3C1A3/9/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "e8c8,d10e10,c8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NLDJM", "fen": "3ak4/7N1/9/9/9/2B1N4/9/9/3K5/5A3 w - - 1 w", "variant": "xiangqi", "moves": "e5d7,d10e9,d7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "GvyWF", "fen": "2bak4/4a4/4b4/1n2C1N2/9/4P1P1c/9/3A5/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "g7i8,i5e5,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "gjiFE", "fen": "3k5/9/9/3P5/9/6B2/3p5/5A2B/3C5/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "d7d8,d4d3,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PjrQA", "fen": "4k4/1N7/9/4C4/9/9/9/4KA3/9/2BA2B2 w - - 1 w", "variant": "xiangqi", "moves": "e7e9,e10f10,b9d8", "eval": "#4", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "r4XLR", "fen": "4k4/3P5/9/9/9/6B2/2c6/5K3/4C4/9 w - - 1 w", "variant": "xiangqi", "moves": "g5e3,c4e4,e2e4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "d6cOP", "fen": "2b1ka3/3R5/n4a3/p3C2rp/2b1N2c1/7r1/8P/3A5/4C4/2B1KAB2 w - - 1 w", "variant": "xiangqi", "moves": "e7e8,c6e8,e6f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0L3KL", "fen": "4k4/9/9/4P4/9/3C5/P8/3A5/4A4/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "e7e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "aOIp3", "fen": "9/2Ck5/3c5/4R4/9/9/9/5A3/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "xYNTB", "fen": "8R/4rk3/9/9/9/9/9/9/9/3K5 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,f9f10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "77yRg", "fen": "4k4/1N2a3R/3a5/9/5N3/9/8P/4B4/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f6e8,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "CqYJU", "fen": "3k5/9/5N3/9/3c5/2B6/9/3A5/1C2K4/2B6 w - - 1 w", "variant": "xiangqi", "moves": "b2d2,d6d2,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "1Ofek", "fen": "9/3k5/9/8p/p5p2/4R4/P5P2/9/5K1n1/2BA5 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,h2g4,e5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "IDPmI", "fen": "2bak1c2/3ca4/n3b1Cn1/9/4CR3/3NP4/r1N3P1P/9/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,a4c4,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PyMI1", "fen": "3ak4/4aP3/4b4/4CC3/2b6/9/P8/5A3/9/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "f7f8,c6a8,f8a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "a08xu", "fen": "4k4/3P1P3/5a2b/9/2b6/5p3/4p1n2/3A5/C8/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "a2d2,e4e3,d9d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "LAtsm", "fen": "9/1N1ka4/5a3/3c5/9/6B2/9/4B4/3K5/8C w - - 1 w", "variant": "xiangqi", "moves": "i1a1,e9d8,a1a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "X49kY", "fen": "2bk5/5P3/9/6N2/9/1pB4R1/2n5P/4BA3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "f9e9,b5c5,h5h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "DPXAb", "fen": "3k5/9/c4N3/9/9/2B3B2/9/3AK4/1C7/3A5 w - - 1 w", "variant": "xiangqi", "moves": "b2d2,a8d8,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ggSLK", "fen": "1C1k1a3/C2N5/3a5/1P2p4/2b3p2/5n2p/6P1c/4B3N/2n1A4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "d9b8,d10e10,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "THmUl", "fen": "2P6/2R6/3kr4/9/9/9/9/5A3/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "c9c8,d8d9,c8e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Aam1F", "fen": "2CP5/5k3/9/9/9/9/P7p/4RAc2/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e3e10,g3g8,e10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iy59K", "fen": "9/9/4k4/4N4/9/9/9/9/9/2BK1A3 w - - 1 w", "variant": "xiangqi", "moves": "e7c8,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "WlhtS", "fen": "4k4/4a4/3R5/9/7P1/9/9/9/3K5/9 w - - 1 w", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "s7ATL", "fen": "2raka3/4n4/9/p3R3p/6p2/1C7/P5Pc1/9/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "b5h5,c10c1,h5h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Ieal3", "fen": "1N1k1a3/9/5P3/9/3n5/6P2/9/4B4/4C4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,f10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "WOpsZ", "fen": "3n5/4P4/3k5/1PN6/9/9/9/9/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "b7b8,d10c8,b8c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "kcJfg", "fen": "3P1k3/4P4/b3b4/9/6N2/9/6c2/5n3/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,e8g6,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "l8ASL", "fen": "9/9/3k5/3N5/9/9/9/5K3/4A4/5A3 w - - 1 w", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "9kTPp", "fen": "1N4b2/9/3k4b/4P4/9/9/3n3C1/9/4A4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "h4h7,g10e8,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "14saP", "fen": "3k5/9/9/4R4/9/9/P8/3A1Cp2/3K5/5A3 w - - 1 w", "variant": "xiangqi", "moves": "d2e2,g3f3,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "nRjo3", "fen": "9/3Pak3/2C2a3/9/9/9/9/3AB4/9/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "c8c9,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "IM95Y", "fen": "4k4/3Pa4/5a3/9/9/9/9/3AB4/5C3/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YI03e", "fen": "3k5/9/4P4/9/9/9/6p2/3A5/4A4/C4K3 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,g4f4,a1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Aw5rn", "fen": "2R6/3ka4/3a5/9/9/2B6/9/9/3K5/3A1AB2 w - - 1 w", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "VcNV4", "fen": "3k5/3c1P3/3N5/9/9/9/9/4B3B/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "f9e9,d9c9,d8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "idg49", "fen": "9/4k4/3N1R3/9/4r4/9/8P/3AB4/9/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,e9e8,d8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "2NsQe", "fen": "2P1k4/4NP3/9/9/9/3n5/9/9/4K4/9 w - - 1 w", "variant": "xiangqi", "moves": "e2d2,d5c3,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XKnd9", "fen": "9/3k5/3c5/4R4/9/9/P7P/9/9/2B1KAB2 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7zefy", "fen": "4R4/2rk5/9/9/9/9/9/3AK4/9/5A3 w - - 1 w", "variant": "xiangqi", "moves": "e10e9,d9d10,e9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "c8GrJ", "fen": "9/3ka4/5R3/9/9/9/9/5K3/4A4/5AB2 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "z0xHM", "fen": "3k5/9/9/9/9/4N4/9/5K3/1C2A4/3A5 w - - 1 w", "variant": "xiangqi", "moves": "b2d2,d10e10,e5d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "m8Inq", "fen": "2bak1r2/2n1a4/4b2RN/p3C3p/4N4/P8/8P/5K3/9/2Bc1A3 w - - 1 w", "variant": "xiangqi", "moves": "h8h10,g10h10,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "wd5Wn", "fen": "3k5/4a2N1/b2a5/3P5/9/2B6/9/9/3C5/4K4 w - - 1 w", "variant": "xiangqi", "moves": "h9f8,e9f8,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "T74UK", "fen": "1R1ck4/4a4/9/9/9/3R5/P8/2N6/9/3A1KB2 w - - 1 w", "variant": "xiangqi", "moves": "d5e5,d10c10,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "P2NNr", "fen": "2rak4/4a4/4b3n/p7p/6bc1/P2R2B1P/9/N3C4/4A4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "d5f5,c10c1,f5f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "QCTD5", "fen": "8R/1r3k3/9/9/9/9/9/5A3/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,f9f8,i9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "o1wZa", "fen": "2N6/9/4k4/9/9/5n3/9/3A5/4C4/2BA1K3 w - - 1 w", "variant": "xiangqi", "moves": "c1e3,e8f8,c10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "e8TFZ", "fen": "2b1ka3/4a1r2/4b4/3RC3p/9/9/8P/9/4A4/4KAB1c w - - 1 w", "variant": "xiangqi", "moves": "e1d1,g9g1,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8A3yg", "fen": "9/3ka4/2R6/9/9/6B2/9/3A1A3/9/3K2B2 w - - 1 w", "variant": "xiangqi", "moves": "c8c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sYqnf", "fen": "9/3ka4/2R6/9/9/6B2/9/3A1A3/9/4K1B2 w - - 1 w", "variant": "xiangqi", "moves": "c8c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "m7Kx5", "fen": "1C1Prkb2/1R7/9/9/9/6B2/9/3AB3N/4A4/4K4 w - - 1 w", "variant": "xiangqi", "moves": "b9e9,g10i8,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "5MwZ3", "fen": "3k5/9/9/4C4/N8/2B6/4P4/9/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "a6c7,d10e10,c7e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0BCLS", "fen": "3k5/9/3a5/9/9/9/9/9/9/1RBAK1B2 w - - 1 w", "variant": "xiangqi", "moves": "b1b9,d8e9,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "LtqMC", "fen": "4k4/9/9/9/2R6/P8/9/4B4/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "c6e6,e10f10,e6e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PMXq1", "fen": "4k4/3Pa4/9/9/9/9/9/B8/5K3/2B2A3 w - - 1 w", "variant": "xiangqi", "moves": "f2e2,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "OfSMs", "fen": "3C1k3/3cP4/9/p4N2p/1P7/9/9/4B4/3K5/3A5 w - - 1 w", "variant": "xiangqi", "moves": "f7h6,d9d7,h6g8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "E7wiO", "fen": "3k5/9/9/2N6/9/9/9/B2A5/4C4/1p3K3 w - - 1 w", "variant": "xiangqi", "moves": "f1e1,d10e10,c7e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "4m1Qf", "fen": "3k5/6N2/3a5/9/9/9/9/3AB4/R8/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "a2a9,d8e9,a9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8Dv6r", "fen": "8R/2N1ak3/9/9/9/9/9/4BA3/9/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "i10i9,f9f10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "uNjwA", "fen": "9/2R6/b2k5/9/9/2B6/9/2C6/4A4/3A1K3 w - - 1 w", "variant": "xiangqi", "moves": "c9e9,a8c6,c3c6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "LViTp", "fen": "3a1a3/2P6/3kb1PC1/9/9/9/9/9/9/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "g8f8,d10e9,f8e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tv59E", "fen": "3k5/4R4/9/9/9/9/c8/9/3CA4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "e2d3,a4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "0lPJE", "fen": "3k5/4R4/c8/9/9/9/9/9/3CA4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "e2d3,a8d8,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "jRIBC", "fen": "3k5/9/5N3/9/9/3r5/9/5R3/4A4/5KB2 w - - 1 w", "variant": "xiangqi", "moves": "f3d3,d5d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "35N14", "fen": "3k5/9/5N3/9/3r5/9/9/5R3/4A4/5KB2 w - - 1 w", "variant": "xiangqi", "moves": "f3d3,d6d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Bmrje", "fen": "3k5/5P3/3a5/3N5/9/9/9/9/9/2BAKAB2 w - - 1 w", "variant": "xiangqi", "moves": "d7f8,d8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tSOMo", "fen": "3k5/9/5N3/9/9/9/9/9/2p1A4/3C1KB2 w - - 1 w", "variant": "xiangqi", "moves": "g1e3,c2c1,e3c1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MfS0W", "fen": "1N1aC1b2/5P3/3k3c1/4P4/9/9/4p4/9/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "f9e9,d10e9,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "DY6NH", "fen": "3k5/1c7/5N3/9/9/2B3B2/9/3A5/4A4/4CK3 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,b9d9,d1d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "GXlB8", "fen": "9/3ka4/3a5/9/1R7/9/9/8B/4A4/3K2B2 w - - 1 w", "variant": "xiangqi", "moves": "b6b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "eWbGq", "fen": "9/1r1k5/2N1R4/9/9/9/9/B2A5/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "e8e9,d9d8,e9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "PY0FU", "fen": "9/3ka4/5R3/9/9/9/9/3AB4/5K3/5AB2 w - - 1 w", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "rOWFF", "fen": "3k5/4P4/b2a5/9/9/2B6/9/5A3/4C4/3K1AB2 w - - 1 w", "variant": "xiangqi", "moves": "e2c2,a8c6,c2c6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "3mjLV", "fen": "3k5/4P4/b2a5/9/9/2B6/9/4BA3/4C4/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "e2c2,a8c6,c2c6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "OBLUl", "fen": "3k5/9/5N3/9/8C/8P/4p4/8B/9/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "i6d6,e4f4,f8d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "CVZxr", "fen": "2b1ka3/3R5/4Ca3/2N6/5np1p/2P6/r8/3AB4/9/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "c7e6,f6e8,e6f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YTfub", "fen": "3k5/7C1/9/p8/9/P4C3/8P/4K3B/9/6B2 w - - 1 w", "variant": "xiangqi", "moves": "f5f9,a7a6,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "x2l4c", "fen": "3kC4/4P2R1/9/9/9/2P6/P8/4B4/3rAK3/6B2 w - - 1 w", "variant": "xiangqi", "moves": "e10i10,d2e2,f2e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YY2wS", "fen": "9/3k5/5R3/9/4C4/9/P1N5P/9/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "f8e8,d9d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "At9EV", "fen": "4k4/4C4/4R4/1C7/6P2/8P/P8/4N4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "b7e7,e10f10,e8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sWR6x", "fen": "4k4/4a4/2P6/9/9/9/2R5P/4BA3/9/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "c4e4,e10f10,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "snnyM", "fen": "2P6/C1N6/5k3/3P5/5n3/9/5np2/3A5/9/2BK5 w - - 1 w", "variant": "xiangqi", "moves": "d7e7,f4d3,e7f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "E1qbg", "fen": "9/3k5/3n5/4R4/9/9/9/8B/9/3AKAB2 w - - 1 w", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "kONww", "fen": "9/9/1C3k3/4N4/4C3p/2p4n1/n2p4P/4B4/4A4/2BAK3c w - - 1 w", "variant": "xiangqi", "moves": "e6c6,f8e8,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NGuVf", "fen": "9/4R4/3N1k3/9/P5r2/4P4/9/4B4/4A4/2B1KA3 w - - 1 w", "variant": "xiangqi", "moves": "d8e6,g6e6,e5e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "o7ta1", "fen": "6NCC/4akr2/3abn2R/c3p4/p8/9/P3P3P/4B4/2n1AK3/2B6 w - - 1 w", "variant": "xiangqi", "moves": "i8i9,g9i9,g10h8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "YHTX7", "fen": "2ba1k3/9/2N2P3/9/6b2/4C4/5c3/3AB3B/4A4/5K2c w - - 1 w", "variant": "xiangqi", "moves": "c8e7,d10e9,e7g8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "7Y5BV", "fen": "3k5/4P2c1/3P5/8p/2b6/2c3B2/4N4/5A3/4K4/5A3 w - - 1 w", "variant": "xiangqi", "moves": "e4d6,c6e8,d6c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "qGhfm", "fen": "3k5/R8/5r3/6N2/2P6/9/P8/3A5/9/2B1KAB2 w - - 1 w", "variant": "xiangqi", "moves": "g7f9,f8f9,a9f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "XtIPJ", "fen": "9/9/3N1k3/9/9/7C1/5n3/5K3/4A4/5AB2 w - - 1 w", "variant": "xiangqi", "moves": "h5e5,f8e8,d8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MssGG", "fen": "9/3Pak3/5aN2/9/9/9/9/9/5K3/9 w - - 1 w", "variant": "xiangqi", "moves": "g8h10,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "W6gZt", "fen": "3k5/4P4/5P2b/9/3C5/9/9/3AB4/9/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "f8e8,i8g10,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "hKUIl", "fen": "4k4/3P5/9/9/9/2n6/9/5A3/9/4CK3 w - - 1 w", "variant": "xiangqi", "moves": "f3e2,c5e4,e1e4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "odtjN", "fen": "4k4/9/9/3N5/9/9/9/3A1A2B/9/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "f3e2,e10d10,d7f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "9kACQ", "fen": "3a5/3k5/3c5/3P5/9/9/4C4/4K4/1c1C5/3A5 w - - 1 w", "variant": "xiangqi", "moves": "e4d4,d8d4,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "tlQkG", "fen": "2bak4/4a4/4b4/p4CN2/2p1C2P1/9/P3P4/4B1n2/c3A1n2/3K1A3 w - - 1 w", "variant": "xiangqi", "moves": "g7h9,g3e4,h9f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ZDsOL", "fen": "4k4/4a4/5R2N/9/9/9/9/4B4/4A4/4KAB2 w - - 1 w", "variant": "xiangqi", "moves": "f8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "yg7bp", "fen": "3N5/4R4/3k5/1r7/9/9/9/B8/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "d10b9,b7b9,e9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "o5U6o", "fen": "2Ck5/4PP3/cn7/9/4N4/9/9/4B4/4A4/2BAK4 w - - 1 w", "variant": "xiangqi", "moves": "f9f10,b8c10,f10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "cYzjG", "fen": "3k5/5P3/5a3/9/9/3N5/9/9/9/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "d5c7,f8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "sYaQR", "fen": "3k5/9/b8/9/9/2B6/9/3A1A3/3K5/4C4 w - - 1 w", "variant": "xiangqi", "moves": "d2e2,a8c6,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "ZIVLE", "fen": "3k5/4P4/4c4/9/9/9/9/9/3CA4/3K5 w - - 1 w", "variant": "xiangqi", "moves": "e2d3,e8d8,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "iivXC", "fen": "1r2ka3/3ca4/4R4/6p2/9/6P2/8P/9/4C4/2BAKAB2 w - - 1 w", "variant": "xiangqi", "moves": "e2h2,e10d10,h2h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "swjdA", "fen": "9/9/2N2k3/9/8p/9/8P/9/3KA4/9 w - - 1 w", "variant": "xiangqi", "moves": "c8d10,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "SVLsl", "fen": "9/4k4/3P5/9/9/9/9/8B/4A4/3AK1B2 w - - 1 w", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "9vIm7", "fen": "3akab1r/2CR5/2n1bc3/p1N1p1p2/5r3/2P2n2p/P3P1P1P/4B1C2/9/1R1AKAB2 w - - 1 w", "variant": "xiangqi", "moves": "b1b10,f5g3,b10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "8Wf73", "fen": "3k5/4P4/9/2N6/9/2B6/9/1c1n4B/9/4K4 w - - 1 w", "variant": "xiangqi", "moves": "e1d1,b3i3,c7b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "vg1Lp", "fen": "3a1k3/9/5P3/5N3/4P4/P8/9/4B4/9/2B1K4 w - - 1 w", "variant": "xiangqi", "moves": "f7d8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "Hnszk", "fen": "3a1k3/6P2/3P5/9/9/9/9/5A3/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "3kLll", "fen": "4k4/9/3P5/9/9/2B6/5C3/4BA3/9/4KA3 w - - 1 w", "variant": "xiangqi", "moves": "d8d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "JW0E1", "fen": "9/3k5/4bN3/9/3C4P/C8/P8/4BK3/9/3A5 w - - 1 w", "variant": "xiangqi", "moves": "a5e5,d9d8,e5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "NQujG", "fen": "4k4/3Pa4/9/9/9/2B6/9/3A5/9/2B2K3 w - - 1 w", "variant": "xiangqi", "moves": "f1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "pgpT9", "fen": "4k4/9/3aN4/9/9/9/9/5K3/3C1p3/9 w - - 1 w", "variant": "xiangqi", "moves": "e8g9,e10e9,f3f2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "MaTlY", "fen": "1Craka3/4n4/4R4/9/9/9/9/5A2B/9/3AK4 w - - 1 w", "variant": "xiangqi", "moves": "e8b8,c10b10,b8b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
-{"_id": "CIvrG", "fen": "4R4/4a4/4k4/9/9/9/9/3A4B/9/5K3 w - - 1 w", "variant": "xiangqi", "moves": "i3g5,e8d8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "W5ASV", "fen": "3a5/4k4/b4N3/3PP4/P5b2/2B6/5C3/9/5K3/5A3 w - - 1", "variant": "xiangqi", "moves": "d7d8,a8c6,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "KeAmN", "fen": "2bk1P3/c1N6/2P2a3/9/6b2/9/9/4B4/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "c8d8,f8e9,f10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "QgW2o", "fen": "1n1ak4/4a4/b3c3b/p8/8p/2P6/P4R3/4CA3/9/1rBA1K3 w - - 1", "variant": "xiangqi", "moves": "f3e2,b1c1,f4f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "7Do3x", "fen": "3k5/4P4/4b4/9/pn1C1Pb2/6C2/3N1N2p/4B4/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "d4c6,e8c6,g5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "UlaIO", "fen": "3R5/4k4/9/9/9/9/9/9/4A4/2BAK1B2 w - - 1", "variant": "xiangqi", "moves": "e1f1,e9e8,d10d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Y0bOZ", "fen": "4P4/3k5/4b4/3P5/9/9/9/9/7C1/4K4 w - - 1", "variant": "xiangqi", "moves": "h2e2,e8g6,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "yEen1", "fen": "9/9/4k4/4N4/9/9/9/4B4/3KA4/6B2 w - - 1", "variant": "xiangqi", "moves": "e7c8,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "bTjrC", "fen": "9/9/4k4/4N4/9/9/9/4B4/4A4/2B2K3 w - - 1", "variant": "xiangqi", "moves": "e7g8,e8d8,g8f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "P8tGk", "fen": "3k5/3r5/9/3R5/4P4/9/9/3C5/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "d7d8,d10e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "nB8q7", "fen": "1CbakaR2/9/3r5/r2NP4/9/8P/9/4B4/4A4/3A1KB2 w - - 1", "variant": "xiangqi", "moves": "e7e8,a7d7,g10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ufNXa", "fen": "1r2ka2R/2R6/4b4/1P2p3p/1n2r4/p8/c3n3P/1C2B3N/N3A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "c9f9,a4i4,i10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "J9Cra", "fen": "9/3ka4/5R3/9/9/9/9/9/9/2B2K3 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "zADHA", "fen": "9/3ka4/5R3/9/9/9/9/3A5/4A4/2B2KB2 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "aBfwh", "fen": "2bk5/4P4/4b4/8p/R6c1/3r5/9/3AB4/4K4/5AB2 w - - 1", "variant": "xiangqi", "moves": "a6f6,d5d3,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "4d62b", "fen": "2bak4/4a4/4c3b/2N1CR2p/p5p2/2P5P/P3P2r1/2n5B/4A4/4KA3 w - - 1", "variant": "xiangqi", "moves": "c7b9,h4e4,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rrXNG", "fen": "3N5/4k4/4r4/9/9/9/9/6R1B/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "g3g9,e9e10,d10e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "SgNkN", "fen": "3k5/5PC2/9/9/8P/7r1/4R4/9/4A4/3AK4 w - - 1", "variant": "xiangqi", "moves": "e2f1,h5e5,e4e5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fM4BT", "fen": "4P4/3P5/N4k3/5n3/9/2B6/9/8B/9/3A1K3 w - - 1", "variant": "xiangqi", "moves": "a8c7,f8f9,c7e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "CuHmJ", "fen": "3R5/4ak3/9/9/9/9/9/5A3/9/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "d10d9,f9f8,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "8boO3", "fen": "3c4C/3k5/9/9/9/9/9/9/4K4/2R6 w - - 1", "variant": "xiangqi", "moves": "c1c10,d9d8,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "eWpoy", "fen": "3a2b1C/4ak3/9/8N/p3p4/3n2P2/4c3P/4B4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "i7h9,e9d8,i10i9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "FPcaz", "fen": "3a2b1C/4ak3/9/8N/p3p4/6P2/1n2c3P/4B4/4A4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "i7h9,e9d8,i10i9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vmpHu", "fen": "3P5/5k3/3a1a3/9/9/9/9/5A3/5C3/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "d10e10,d8e9,f3e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vj7OK", "fen": "3k5/5P3/3a5/9/9/4C4/9/B3K4/9/3A1A3 w - - 1", "variant": "xiangqi", "moves": "e5d5,d8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "b17oQ", "fen": "2b6/4P4/2N2k3/9/9/9/9/3A5/6p2/4KA3 w - - 1", "variant": "xiangqi", "moves": "c8b6,c10e8,b6d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "4PyML", "fen": "3k5/4R4/5c3/9/2P6/9/3C5/9/5K3/9 w - - 1", "variant": "xiangqi", "moves": "c6d6,f8d8,d4d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lECCp", "fen": "9/3k5/4b4/5N3/8P/9/3C5/5A3/9/4KAB2 w - - 1", "variant": "xiangqi", "moves": "d4d1,d9d10,f7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WCijL", "fen": "3k5/9/3c1N3/9/9/6B2/9/3A5/9/1C2K4 w - - 1", "variant": "xiangqi", "moves": "b1d1,d8d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9jckD", "fen": "9/8C/4kN3/9/9/2B1n4/9/3A5/9/4K4 w - - 1", "variant": "xiangqi", "moves": "f8e10,e8e9,e10g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WflzJ", "fen": "2bakrR1C/7R1/9/p8/4P4/4P4/P8/4B4/1c2A4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "h9f9,d10e9,g10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "aB6hr", "fen": "9/4k4/8R/9/9/9/9/9/4A4/2BK2B2 w - - 1", "variant": "xiangqi", "moves": "i8f8,e9e10,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "oOXdd", "fen": "9/9/4k4/4N4/9/2B6/9/8B/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "e7g8,e8d8,g8f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fjGS8", "fen": "3k5/5c3/4R4/9/9/9/9/r2A1C2B/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e8d8,f9d9,f3a3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "x2IAY", "fen": "1R7/3ka4/9/9/9/9/9/8B/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "b10b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9Gl3N", "fen": "1rbR2R2/3r5/c2k5/p3p1N1p/9/2p6/P1P3P2/4B4/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "g10e10,d9d10,e10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "p8ve0", "fen": "9/3ka4/3a5/9/2R6/9/9/9/3K5/2BA1A3 w - - 1", "variant": "xiangqi", "moves": "c6c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Yop6v", "fen": "3a1k3/2P3P2/9/9/9/9/9/3C1A3/4K4/9 w - - 1", "variant": "xiangqi", "moves": "c9d9,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OzulR", "fen": "3k5/4R4/9/9/9/2B6/1r7/3A1A3/8C/2B1K4 w - - 1", "variant": "xiangqi", "moves": "i2d2,b4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "0Jm28", "fen": "3a1k3/9/2n1bP3/5N3/2b2c3/6B2/9/2p5B/4AC3/4K4 w - - 1", "variant": "xiangqi", "moves": "f7d8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "osHha", "fen": "9/3k5/3c5/4R4/9/2B6/9/8B/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "3oWsL", "fen": "9/9/3k5/3N5/9/2B6/9/4B4/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "w8Aww", "fen": "3k5/6CC1/9/9/8p/2B6/P7P/5K3/9/6B2 w - - 1", "variant": "xiangqi", "moves": "f3e3,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "IZlCK", "fen": "4kaR1C/3c1P3/2nN5/9/p1b6/9/1r7/4B4/4A4/c2CKAB2 w - - 1", "variant": "xiangqi", "moves": "e3c1,a1d1,g10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OfwoH", "fen": "3a1k3/c1N1a1P2/3P5/3c5/9/3N5/9/4B4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "d5e7,e9d8,g9g10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "QtZV5", "fen": "3k5/1Nc1a1N2/4ba3/8n/6b2/2C6/2c6/n2CB3B/4A4/3K5 w - - 1", "variant": "xiangqi", "moves": "d3d6,e9f10,c5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "w6Twe", "fen": "9/9/3k5/4R4/9/9/9/B1nA5/5K3/3A5 w - - 1", "variant": "xiangqi", "moves": "f2e2,c3d1,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "8PccS", "fen": "9/3R5/4k4/9/8P/2N6/p8/2rAB4/9/3A1K3 w - - 1", "variant": "xiangqi", "moves": "c5e6,c3c2,e6g7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "TkJp1", "fen": "3akr3/3P5/4b4/9/2b6/9/R8/3A1A3/3K2p2/9 w - - 1", "variant": "xiangqi", "moves": "a4a10,f10f3,a10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "nEv7f", "fen": "4k4/4a4/1R7/9/9/9/9/5A3/4A4/3CK4 w - - 1", "variant": "xiangqi", "moves": "b8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "u8Vmn", "fen": "3k5/4R4/9/9/2P6/9/9/3C5/3rA4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "c6d6,d2d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "eslSJ", "fen": "3k5/9/3N1a3/8R/9/2B6/9/3A5/9/2B2K3 w - - 1", "variant": "xiangqi", "moves": "i7i9,f8e9,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "oY6gq", "fen": "2bakc3/4a4/r1P1b4/4C2R1/9/9/9/9/9/2B2KB2 w - - 1", "variant": "xiangqi", "moves": "h7h10,a8c8,h10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "3AGPX", "fen": "1R7/C2Pak3/4ba2b/p8/7r1/6P2/9/8N/4A4/2B1KcB2 w - - 1", "variant": "xiangqi", "moves": "b10e10,f1c1,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jmumD", "fen": "4R4/3kar2C/b2ab4/8p/9/2P6/9/N8/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "a3b5,f9i9,b5c7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "UGgIm", "fen": "2bak4/5R3/5a3/4C4/P8/8P/2P6/9/5K3/6B2 w - - 1", "variant": "xiangqi", "moves": "a6a7,c10a8,a7a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GbGL6", "fen": "3k5/9/5N3/9/3c5/6B2/9/3A5/2C1K4/3A2B2 w - - 1", "variant": "xiangqi", "moves": "c2d2,d6d2,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "PJgzZ", "fen": "3k5/9/5N3/9/9/3c2B2/9/3A5/2C1K4/3A2B2 w - - 1", "variant": "xiangqi", "moves": "c2d2,d5d2,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "nBs8V", "fen": "9/2rk5/6R2/9/9/9/9/9/4K4/9 w - - 1", "variant": "xiangqi", "moves": "g8g9,d9d10,g9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "dqofv", "fen": "3k5/9/5a3/9/9/9/2R6/3A5/4C4/3A1KB2 w - - 1", "variant": "xiangqi", "moves": "c4e4,f8e9,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "61RYe", "fen": "3aka3/3cn4/4R4/p3p4/n1p6/4P1P1P/P1P6/2NcB4/5C3/2BAKA3 w - - 1", "variant": "xiangqi", "moves": "f2h2,d3d5,h2h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ZjxxC", "fen": "9/2P6/3k1N3/9/9/9/4n4/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "f8e10,d8e8,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1roPY", "fen": "4k4/3Na4/5P3/9/9/9/9/3A1A3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "f8f9,e10d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "0G8dv", "fen": "3k5/3NP4/5C2c/5n3/9/2B6/9/1p3A2B/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "d9c7,f7e5,c7b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "eVnZh", "fen": "1N1k5/4P4/5c3/4C4/9/2B6/3n5/1p3A2B/9/3A1K3 w - - 1", "variant": "xiangqi", "moves": "e7f7,d4f3,b10c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "YJlH0", "fen": "3k5/6N2/9/4N4/5P3/9/p4C3/4B4/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "f4d4,a4b4,e7d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "41LNq", "fen": "3k5/R8/9/4p4/9/4P4/8P/4BA3/4K4/5AB2 w - - 1", "variant": "xiangqi", "moves": "a9e9,e7e6,e5e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "64UaI", "fen": "9/9/3k5/3N5/9/6B2/9/B8/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "UL1fH", "fen": "4k4/9/9/9/9/2P3P1P/P7R/2N1B4/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "i4e4,e10d10,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Csma7", "fen": "3aka3/4n4/4c3b/p3C4/2b2Rp2/P8/4P3p/3A5/6N2/1rBAK1cn1 w - - 1", "variant": "xiangqi", "moves": "e1f1,g1d1,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rPpfd", "fen": "3k5/9/1c3N2b/3P5/3n5/1p7/3C2N2/9/4K4/2c6 w - - 1", "variant": "xiangqi", "moves": "d7d8,b8f8,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "CORmB", "fen": "9/4k4/4c4/9/2PN2R2/6B2/9/9/9/3AKAB2 w - - 1", "variant": "xiangqi", "moves": "g6g9,e9e10,d6e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "tyQgc", "fen": "3k5/9/4P4/9/8p/9/8P/4B4/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "e8e9,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "3nIJi", "fen": "3k5/9/4P4/9/p8/9/P8/3AB4/9/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "e8e9,a6a5,a4a5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rrikA", "fen": "3ak4/3ca4/N3b4/p8/9/P8/4C4/B8/4AK3/2BA5 w - - 1", "variant": "xiangqi", "moves": "a8c9,a7a6,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "At26t", "fen": "3P5/4k4/5P3/9/2b6/9/9/9/6C2/3K5 w - - 1", "variant": "xiangqi", "moves": "g2g8,c6a8,g8a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "QdCzl", "fen": "9/1N1ka4/5a3/9/9/9/3n5/4C4/3K5/9 w - - 1", "variant": "xiangqi", "moves": "e3a3,e9d8,a3a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lQ7sA", "fen": "2P2a3/3k1P3/3a5/9/3n5/2B3B2/9/9/3C1K3/9 w - - 1", "variant": "xiangqi", "moves": "f2e2,f10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jvAUN", "fen": "3akr3/4aR3/4R4/9/2P6/6C1P/9/B1p6/4A4/4KAB1c w - - 1", "variant": "xiangqi", "moves": "g5a5,f10f9,a5a10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "v2tPc", "fen": "4R4/2r1P4/4k4/4N4/9/9/9/4B4/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e9d9,e8f8,d9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "diRfI", "fen": "4R4/1r7/5k1N1/9/9/9/9/4B4/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e3c1,b9e9,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "zRiv8", "fen": "2b1N4/C2k5/2N1b4/1P7/5c3/3n2P2/7n1/3AB4/3K5/2B6 w - - 1", "variant": "xiangqi", "moves": "b7b8,d5e3,b8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Jkq7k", "fen": "2b1kN3/5P3/3ab4/9/9/6B2/5n3/4BK3/9/4C4 w - - 1", "variant": "xiangqi", "moves": "e1i1,f4h3,i1i10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "XrH43", "fen": "3k5/4R2C1/3P5/9/9/9/3r5/9/4A4/2B1K1B2 w - - 1", "variant": "xiangqi", "moves": "d8d9,d4d9,h9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "A20RO", "fen": "9/4k4/3P5/9/4C4/4c4/4C4/4B4/4A4/4K1B2 w - - 1", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "azP4P", "fen": "4k4/3P5/c8/9/9/9/9/3A5/4AK3/3C5 w - - 1", "variant": "xiangqi", "moves": "d1e1,a8e8,e1e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "EojFP", "fen": "2R6/3ka4/3a5/9/9/9/9/9/4A4/2BK1AB2 w - - 1", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "tgcbE", "fen": "4k4/2P1a4/9/2N6/9/9/9/B2A5/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "c9d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "sLfKe", "fen": "4k4/3Pa4/9/9/9/6B2/9/3A5/5K3/9 w - - 1", "variant": "xiangqi", "moves": "f2e2,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "aNOBf", "fen": "3k5/2c6/3P5/9/4N3p/7p1/2n6/3AB4/4C4/3AK4 w - - 1", "variant": "xiangqi", "moves": "e6f8,c4e3,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jQjXE", "fen": "4P4/3P5/3k1a3/9/9/9/9/3A1K3/4A4/8C w - - 1", "variant": "xiangqi", "moves": "f3e3,d8d9,i1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "epMfy", "fen": "1P2ka3/4aP3/9/9/2b1R4/9/9/9/3K5/9 w - - 1", "variant": "xiangqi", "moves": "b10c10,c6e8,e6e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "av1bN", "fen": "3ak4/5P3/3P5/9/9/9/9/4B4/4AK3/1p4B2 w - - 1", "variant": "xiangqi", "moves": "d8d9,d10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "f9Cu9", "fen": "4k4/3Pa4/N8/9/9/6B2/9/B2A5/9/5K3 w - - 1", "variant": "xiangqi", "moves": "f1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VxAxv", "fen": "1Cbak4/3Pa4/4b4/9/8p/5R3/5n1rP/4B1N2/4A2C1/1cBA1K2c w - - 1", "variant": "xiangqi", "moves": "f5f9,h4h2,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gQfRj", "fen": "4k4/3R5/9/9/1c7/2B6/9/3AB4/3C5/5K3 w - - 1", "variant": "xiangqi", "moves": "d2e2,b6e6,e2e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lB4mw", "fen": "4k4/2P2P3/5a3/9/9/5N3/9/3KB4/9/1n4B2 w - - 1", "variant": "xiangqi", "moves": "c9d9,f8e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ppsyw", "fen": "2b2N3/9/3k5/9/6P2/6B2/3n5/3KB4/9/5C3 w - - 1", "variant": "xiangqi", "moves": "f1f8,c10a8,f8a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "XqAVO", "fen": "4k4/9/9/9/9/9/9/3A1K3/9/3R5 w - - 1", "variant": "xiangqi", "moves": "d1e1,e10d10,e1e9", "eval": "#4", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "FXjXE", "fen": "3a5/3k5/2N6/1N2P3p/p6n1/9/2n6/3AB4/4K4/6B2 w - - 1", "variant": "xiangqi", "moves": "e7e8,d10e9,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "i6TIx", "fen": "9/4k4/3P5/9/9/9/9/9/9/5K3 w - - 1", "variant": "xiangqi", "moves": "f1f2,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Nv1hh", "fen": "3k5/4P4/3C5/1nN6/9/2B3B2/4c4/3A5/9/4K4 w - - 1", "variant": "xiangqi", "moves": "d8b8,b7c5,c7b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "FTWvk", "fen": "4k4/3Pa4/9/9/9/9/9/9/9/5KB2 w - - 1", "variant": "xiangqi", "moves": "f1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NwD8U", "fen": "4k4/4a4/1R7/9/9/9/9/5A3/4A4/2BCK1B2 w - - 1", "variant": "xiangqi", "moves": "b8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "o1Gvr", "fen": "3a5/4k4/3a5/5R3/4C4/9/8P/C4A3/4AK3/9 w - - 1", "variant": "xiangqi", "moves": "a3d3,e9e8,d3e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "C7187", "fen": "2b1k4/1R7/9/p8/6b2/9/P8/6R2/4A2r1/3K2B2 w - - 1", "variant": "xiangqi", "moves": "g3d3,h2e2,d3d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "awFfg", "fen": "3k5/2P1N4/4b4/6n2/9/6B2/2c6/3A1A2B/1C2K4/9 w - - 1", "variant": "xiangqi", "moves": "b2b10,d10e10,e9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "A0SFN", "fen": "3k5/4P4/9/9/9/4cC3/4C4/4B4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "e4d4,e5e6,f5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "x8M24", "fen": "9/3ka4/5R3/9/9/2B6/9/9/4A4/2B2K3 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "aPj6n", "fen": "9/3k5/4P4/9/9/9/3p5/3A5/1C2A4/4K4 w - - 1", "variant": "xiangqi", "moves": "b2d2,d9d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NvYFm", "fen": "1R7/3ka4/3a5/9/9/9/9/9/3K5/3A5 w - - 1", "variant": "xiangqi", "moves": "b10b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "shzMU", "fen": "2C6/3P1k3/3Nb4/3N1n3/3n5/6B2/5p3/3A4B/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "d8b9,f9f10,b9d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "M3gc0", "fen": "9/4a4/3ak4/4n4/9/9/4R4/4B4/4K4/3A1A3 w - - 1", "variant": "xiangqi", "moves": "e2f2,e9f8,e4e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Uh5Ng", "fen": "1N1a5/9/3k5/3c5/2P6/6Bn1/9/3A5/3C5/2BAK4 w - - 1", "variant": "xiangqi", "moves": "c6c7,d7d2,c7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jVzfx", "fen": "2baknb2/4aR3/4c4/4C2R1/2p3r1p/P8/6r1P/4B4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "h7f7,g4i4,f9f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "JaZ9n", "fen": "3R5/2c2k3/9/9/9/9/9/8B/4K4/3A1AB2 w - - 1", "variant": "xiangqi", "moves": "d10d9,f9f8,d9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "CsnAh", "fen": "3R5/4ak3/5n3/9/9/2B3B2/9/3A5/9/3A1K3 w - - 1", "variant": "xiangqi", "moves": "d10d9,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lFS87", "fen": "8R/3ka4/3a5/9/9/6B2/9/4B4/3K5/3A1A3 w - - 1", "variant": "xiangqi", "moves": "i10i9,d9d10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "coevJ", "fen": "9/3P1k3/5N3/9/P8/2B6/4n4/9/9/3AKA3 w - - 1", "variant": "xiangqi", "moves": "f8h9,e4c5,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "RDRyj", "fen": "4k4/9/9/9/9/9/8P/4B4/1R1K5/9 w - - 1", "variant": "xiangqi", "moves": "b2b9,e10f10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "qtvZS", "fen": "9/4a2CC/3ack3/p3p3p/6R2/1p3r3/N1n1P3P/4BA3/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "g6g9,e8e4,g9g8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ftIcv", "fen": "3k5/2r6/2N1P4/9/4cR3/4p4/4c4/4B4/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "e8e9,c9c8,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Crlh7", "fen": "3k5/9/9/4N4/9/9/9/B3BA3/5K3/3A5 w - - 1", "variant": "xiangqi", "moves": "f3e2,d10e10,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "E0BAM", "fen": "3C1k3/9/1N7/9/3c5/6B2/9/5A2B/4K4/5A3 w - - 1", "variant": "xiangqi", "moves": "b8d9,f10f9,d10d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Ac1Sb", "fen": "9/2P6/3k5/9/9/2Bc5/9/3AK4/4A4/1C7 w - - 1", "variant": "xiangqi", "moves": "b1d1,d5d1,e2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lTgvx", "fen": "9/3k5/3aRa3/p7p/6p2/1C1n5/P7P/B2C5/4A4/4KA3 w - - 1", "variant": "xiangqi", "moves": "a3c5,f8e9,b5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "3IeKv", "fen": "2C1k4/9/9/4N4/9/2B6/P8/3A5/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "c10c6,e10d10,c6e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Zam8l", "fen": "4k4/4a4/3P5/9/9/9/9/4K3B/9/3A1AB2 w - - 1", "variant": "xiangqi", "moves": "d8d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "IRnyw", "fen": "1Nb1P4/3k1P3/3acN3/9/p1b6/2B6/P8/9/4A4/3K5 w - - 1", "variant": "xiangqi", "moves": "f8e6,e8e2,e6c7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "igc8j", "fen": "2b2C3/3P5/3k5/9/2b6/2B3B2/9/3A5/5K3/4C4 w - - 1", "variant": "xiangqi", "moves": "f2e2,d8d9,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "hrWDX", "fen": "2b1Ca3/9/b2k1N3/2N6/P8/3npp2p/9/3A5/n2K5/2B6 w - - 1", "variant": "xiangqi", "moves": "d3e2,a2c1,f8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NmfoN", "fen": "2bP1k3/6P2/b4a3/1P1Nn4/9/9/9/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "d7c9,f8e9,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1svha", "fen": "3k5/c6N1/3P5/9/9/2B5p/9/5A3/4K4/9 w - - 1", "variant": "xiangqi", "moves": "h9f8,a9a1,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "JnhMJ", "fen": "3a1k3/9/2nNP4/9/9/9/9/3A5/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e8f8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "wVuO2", "fen": "9/3ka4/5R3/9/9/6B2/9/9/5K3/2BA1A3 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "llCBq", "fen": "9/3ka4/5R3/9/9/9/9/8B/5K3/3A1AB2 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "O05HM", "fen": "2N1k4/9/9/9/9/2B6/9/4BA3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e1d1,e10f10,c10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "T6Gca", "fen": "2baka3/7R1/2nC1c3/p1CNp3p/6b2/2P6/1r2P1p1P/4B4/9/c1BAKA1N1 w - - 1", "variant": "xiangqi", "moves": "d8e8,g6e8,d7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "AMQA8", "fen": "4k4/3Ra4/9/7N1/4P4/9/9/4BA3/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "h7g9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "07yis", "fen": "3k5/5R3/9/9/6p2/9/9/4B4/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "f9e9,g6g5,e3g5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Rfr6A", "fen": "3k5/4P4/9/9/9/2B6/1c7/B2A5/5C3/4K4 w - - 1", "variant": "xiangqi", "moves": "f2d2,b4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "P19NB", "fen": "3k5/4P4/9/3c5/9/2B6/9/B2A5/9/C3K4 w - - 1", "variant": "xiangqi", "moves": "a1d1,d7d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "0g2Sc", "fen": "3R5/5k3/9/9/9/6B2/4P4/4BA3/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "d10e10,f9f8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "6Dow0", "fen": "3ak4/3PNP3/9/9/6n2/9/9/B8/4K4/9 w - - 1", "variant": "xiangqi", "moves": "e2d2,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uC9lN", "fen": "2P1ka3/4a4/4R1c2/9/9/7n1/9/5A2B/9/4K1B2 w - - 1", "variant": "xiangqi", "moves": "e1d1,h5f4,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Nl6eb", "fen": "3a1k3/4a4/4R4/6R2/9/9/9/4cA3/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "g7f7,f10e10,e8e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "6wBE5", "fen": "2b1R4/3k5/9/3n1N3/9/2B6/9/5A3/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "e10e8,d7c5,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pE8YW", "fen": "2b1k4/9/6N2/9/9/8P/9/B8/4AC3/2BK5 w - - 1", "variant": "xiangqi", "moves": "f2f1,c10e8,f1e1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "nwgnx", "fen": "9/9/2N1k4/9/9/2B6/P8/4BA3/4K4/9 w - - 1", "variant": "xiangqi", "moves": "e2d2,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Xe8Y8", "fen": "2b1ka3/4a4/n3b4/p8/2P6/4C4/P2RP1r2/4B2c1/6N2/4K4 w - - 1", "variant": "xiangqi", "moves": "e1d1,g4g2,d4d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9GxYp", "fen": "2b1k4/5P3/5C3/9/9/9/9/4B4/3K5/9 w - - 1", "variant": "xiangqi", "moves": "f8f1,c10e8,f1e1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "yuhWT", "fen": "4k4/4a4/3P5/9/9/9/9/4K4/9/9 w - - 1", "variant": "xiangqi", "moves": "d8d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rov8Q", "fen": "9/1N1k5/3a1aN2/4n4/9/6B2/9/5A3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "g8f10,d9e9,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OTOtO", "fen": "9/3P1k3/9/9/9/9/9/3A1A3/5K3/9 w - - 1", "variant": "xiangqi", "moves": "f2e2,f9f8,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "haWeY", "fen": "4k4/9/3R5/9/9/9/9/B2AB4/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "d8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "PDS4a", "fen": "9/3P1k3/9/9/4CN3/9/3p5/B8/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "e6e5,d4e4,e5f5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "YjxOH", "fen": "4k4/9/9/9/4N4/3R5/9/4BA3/9/4KAB2 w - - 1", "variant": "xiangqi", "moves": "d5d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WCeXq", "fen": "9/3ka4/3a5/9/1PP5P/2B6/9/3R4B/4K4/5R3 w - - 1", "variant": "xiangqi", "moves": "f1f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GmIT5", "fen": "9/3ka4/3a5/9/1PP5P/2B3B2/9/3R5/4K4/5R3 w - - 1", "variant": "xiangqi", "moves": "f1f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Azkrq", "fen": "9/2PCk3C/4bN3/9/8P/6B2/9/5A3/4K4/6B2 w - - 1", "variant": "xiangqi", "moves": "d9d8,e9f9,f8h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pzr0m", "fen": "3P5/5nN2/4k2P1/9/9/6B2/9/4B4/4AC3/3K5 w - - 1", "variant": "xiangqi", "moves": "h8g8,e8e9,g8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HWm9z", "fen": "3ak4/3P5/8N/9/9/9/9/8B/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "e1f1,d10e9,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1j22r", "fen": "4k4/9/4PP2b/9/2P6/9/9/9/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "f8f9,i8g6,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Rxs20", "fen": "8C/3kaP3/2Nab4/9/p8/9/P2n5/4BAp2/2n1A4/2B2K3 w - - 1", "variant": "xiangqi", "moves": "i10a10,g3f3,c8b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vSOKK", "fen": "2ck5/4P4/4N4/9/9/9/9/B8/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e8d6,c10c9,d6c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OTKbf", "fen": "4k4/4a4/3R5/9/9/9/9/9/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rcu5P", "fen": "3akab1C/9/6NC1/p8/2pn5/4cn3/P7P/4B4/4A4/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "h8h10,d10e9,i10g10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "AF96D", "fen": "9/3Pak3/5aN2/9/9/P7P/9/9/5K3/2BA1A3 w - - 1", "variant": "xiangqi", "moves": "g8h10,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "IPKBE", "fen": "3k5/5P3/5a3/3P5/9/9/9/9/9/2BAKA3 w - - 1", "variant": "xiangqi", "moves": "d7d8,f8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pqJn8", "fen": "3k5/9/4R4/3P5/3r5/4P4/9/3C5/4A4/3AK4 w - - 1", "variant": "xiangqi", "moves": "d7d8,d6d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "JGOsk", "fen": "4k4/1C7/5R3/9/9/8P/9/4B4/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "f8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Zte6r", "fen": "2R6/c2k5/9/9/9/9/9/9/9/2BAKAB2 w - - 1", "variant": "xiangqi", "moves": "c10c9,d9d10,c9a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lPUNv", "fen": "3N5/3k5/9/9/9/9/9/3AC4/4K4/9 w - - 1", "variant": "xiangqi", "moves": "d10f9,d9e9,f9e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "2wHE4", "fen": "2bakr3/4a4/4bc3/6R1R/p1P1C3P/9/P8/4B2r1/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "g7d7,h3e3,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "LQYHA", "fen": "2bakc3/4a4/4b2r1/3R2R2/p1P1C3P/9/P8/4B2r1/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "g7g10,h3e3,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GZX2M", "fen": "2b6/4ak3/4ba3/4N2R1/9/P1r3B1p/9/6n2/4A4/3AK4 w - - 1", "variant": "xiangqi", "moves": "e7g8,c5g5,h7h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1BNKm", "fen": "9/3k5/3n5/9/9/2B6/3R5/9/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "e2f1,d9d10,d4d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rCZdc", "fen": "4k4/9/2N6/9/9/6B2/4p4/5A3/4K4/3C5 w - - 1", "variant": "xiangqi", "moves": "d1f1,e4e3,g5e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "sS0qP", "fen": "4k4/9/2N6/9/9/6B2/4p4/5A3/4KC3/9 w - - 1", "variant": "xiangqi", "moves": "f2f1,e4e3,g5e3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "epfR4", "fen": "4kab1C/3Ra4/c3b2PN/p5p2/1n2p4/2p3P2/P3P4/2rC5/9/3AKAB2 w - - 1", "variant": "xiangqi", "moves": "h8g8,a8g8,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ccc93", "fen": "3k5/9/5N3/9/9/3N2B2/9/5p3/1p1nA4/1cBAK4 w - - 1", "variant": "xiangqi", "moves": "d5e7,f3f2,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ql4XY", "fen": "4k4/9/3C5/3R1P3/9/2B6/8P/9/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "d7e7,e10d10,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "xU4bq", "fen": "2bakr3/4a4/4b3n/3R5/2p5p/4C4/P1P1Pc1nP/8N/4A4/2B1K1N2 w - - 1", "variant": "xiangqi", "moves": "e1d1,f4c4,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OBlzs", "fen": "8R/3ka4/9/9/9/9/9/B8/4A4/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "i10i9,d9d10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "A6iGJ", "fen": "9/3k5/3c5/4R4/9/9/9/B8/9/4KAB2 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "FMMnE", "fen": "3R5/4kr3/9/9/9/9/9/9/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "d10d9,e9e10,d9f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1u6EP", "fen": "9/3k5/5P3/9/9/2B6/4C4/9/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "f8e8,d9d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "nTXIl", "fen": "3a1k3/2N6/b8/5P2p/2b6/p8/2C2c3/2nA5/5C3/4K4 w - - 1", "variant": "xiangqi", "moves": "f7f8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "4zwdH", "fen": "9/3ka4/C4R3/9/P5P2/9/9/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d8,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vJHSI", "fen": "9/2nk5/3C5/4R3p/9/6B2/9/3A1A3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "d8c8,i7i6,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pdq9E", "fen": "2Nk5/4R4/2c6/9/9/9/9/4B4/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "c10a9,c8c9,a9c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "BsUv2", "fen": "3k5/9/5N3/9/9/3c5/9/B2A1A3/9/2C1K1B2 w - - 1", "variant": "xiangqi", "moves": "c1d1,d5d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "y8WAf", "fen": "9/9/4k4/4N4/9/9/8P/4B4/4A4/5KB2 w - - 1", "variant": "xiangqi", "moves": "e7g8,e8d8,g8f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "TRtnX", "fen": "2R6/3kr4/9/9/9/9/9/9/9/C4K3 w - - 1", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "2I3xK", "fen": "9/3k5/3c5/4R4/9/6B2/9/4K4/9/5A3 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "t7MJl", "fen": "1P7/4k4/3N5/9/9/9/9/3AB4/3C5/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "d2e2,e9d9,d8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fiTjb", "fen": "3C1k3/2C1P4/4ca1nb/9/9/6B2/4n4/9/4AK3/9 w - - 1", "variant": "xiangqi", "moves": "g5e3,e8e3,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "W2Ncc", "fen": "3k5/4aN3/3a5/9/5C3/2B6/9/4K4/4A4/9 w - - 1", "variant": "xiangqi", "moves": "f6e6,d10d9,e6d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "oC0Ag", "fen": "4k4/3P5/9/9/9/3c5/4N4/9/5K3/1C4B2 w - - 1", "variant": "xiangqi", "moves": "b1e1,d5e5,e1e5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "iC4r1", "fen": "9/4k4/9/9/9/9/3R5/3A4B/9/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "d4d8,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WuppI", "fen": "3ak4/4a4/b3b3n/p3C4/2r1N4/P8/5R2P/4B4/1c2A4/1NBAK4 w - - 1", "variant": "xiangqi", "moves": "e1f1,c6e6,f4f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "dYNlb", "fen": "3k5/9/4P4/9/9/9/9/4B4/2p1A4/3CKAB2 w - - 1", "variant": "xiangqi", "moves": "e8e9,c2c1,e3c1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "QUrFe", "fen": "4k4/1N7/4C4/9/9/9/9/3AK4/9/3A5 w - - 1", "variant": "xiangqi", "moves": "e8e9,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ZJG8Q", "fen": "4k4/1N7/4C4/9/9/9/9/3A5/4K4/3A5 w - - 1", "variant": "xiangqi", "moves": "e8e9,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "eSvbJ", "fen": "9/1P3k3/2P2c3/4R4/9/9/9/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e7f7,f9f10,f7f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "KtCUo", "fen": "2P6/5k3/3P5/4C4/9/9/8P/4K4/9/5A3 w - - 1", "variant": "xiangqi", "moves": "d8e8,f9f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "N4hKC", "fen": "2R6/3ka4/9/9/8P/P8/9/5A3/9/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "c10c9,d9d8,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "dpfpp", "fen": "9/4P4/3k5/9/1c7/9/9/4K4/3CA4/9 w - - 1", "variant": "xiangqi", "moves": "e2d3,b6d6,d2d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "A2HIN", "fen": "9/4P4/3k5/9/9/3c5/9/3A1K3/4A4/3C5 w - - 1", "variant": "xiangqi", "moves": "f3e3,d5d1,e2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "4OUrU", "fen": "3c5/9/3k5/4R4/9/6B2/9/p2A4C/9/4KAB2 w - - 1", "variant": "xiangqi", "moves": "i3i2,d10d3,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1dClr", "fen": "2b1kab2/4a4/4c4/p3C1N1p/1R7/P1p3P2/4P2rc/9/4A4/2BK1AB2 w - - 1", "variant": "xiangqi", "moves": "b6b10,h4e4,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "iv6gZ", "fen": "3ak4/9/9/6N2/9/9/4P3R/4B4/4K4/3A5 w - - 1", "variant": "xiangqi", "moves": "i4i10,e10e9,i10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "3Ynnq", "fen": "9/1R7/3akaPC1/3n4p/1n7/6B2/6r1P/pp7/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "b9f9,g4g1,g8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VCE8N", "fen": "3a1k3/3Ra1P2/4b4/4p3p/9/9/4nr3/4BA3/1Cc6/4KAB2 w - - 1", "variant": "xiangqi", "moves": "e3c5,f4f3,b2b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "iS84E", "fen": "2b6/5CC2/5k3/p2R5/7n1/9/P8/3A4B/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "g9g6,f8f9,d7f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "w9Qmb", "fen": "1C1a5/4ak3/4P4/6P2/4c4/9/2N6/4B1n2/4A4/c1BAK4 w - - 1", "variant": "xiangqi", "moves": "g7g8,g3e2,g8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "hZCSE", "fen": "9/9/3k5/3N5/9/2B3B2/9/9/5K3/3A5 w - - 1", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "RO1Ww", "fen": "9/4k4/3R5/9/9/9/9/B8/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "wuEhM", "fen": "9/4P4/3k5/3c5/9/2B6/9/3AK4/4A4/1C7 w - - 1", "variant": "xiangqi", "moves": "b1d1,d7d1,e2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ocV3i", "fen": "4k4/9/9/2P6/9/4P4/3N4P/R8/9/2BAKAB2 w - - 1", "variant": "xiangqi", "moves": "a3a9,e10f10,a9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GQziT", "fen": "4k4/2P6/4C4/9/6C2/6B2/9/9/4K4/6B2 w - - 1", "variant": "xiangqi", "moves": "c9d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HJPvI", "fen": "1C2kab2/C8/5a2b/8p/2p6/9/Pc2r4/B2RB4/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "d3d9,e4e3,a9a10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "LrxPR", "fen": "4k4/1R2a4/9/9/9/9/9/3A5/9/3K2B2 w - - 1", "variant": "xiangqi", "moves": "d1e1,e10f10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "SbAJl", "fen": "1R7/3kr2PC/9/9/9/9/9/9/5K3/5A3 w - - 1", "variant": "xiangqi", "moves": "b10b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "2XNaS", "fen": "9/3kr2PC/1R7/9/9/9/9/9/5K3/5A3 w - - 1", "variant": "xiangqi", "moves": "b8b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jKafc", "fen": "2Rckar2/4a4/4bc3/C7p/9/4C4/P7P/5p3/9/2BAKAB2 w - - 1", "variant": "xiangqi", "moves": "a7e7,g10g1,e5e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "sabh0", "fen": "3k5/4RP3/3r5/9/9/9/1p7/3AB4/4K4/5cB2 w - - 1", "variant": "xiangqi", "moves": "f9f10,d8d3,f10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "zM4bV", "fen": "1c2kab2/4a4/4b2c1/R8/1rp3pn1/1NP1C4/P3P3P/4B3N/4A4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "a7d7,b10b5,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "5Fwid", "fen": "2bkna3/R3a4/1R7/9/9/9/9/9/9/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "b8b10,e9f8,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OKG8A", "fen": "3ak4/6C2/5R3/9/4P4/P8/9/9/3KA4/9 w - - 1", "variant": "xiangqi", "moves": "f8f9,d10e9,g9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1O0Sx", "fen": "4k4/4a4/3R5/6N2/9/9/9/4B4/9/5K3 w - - 1", "variant": "xiangqi", "moves": "d8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "K3fo2", "fen": "4k4/3R5/5a3/9/9/2N6/9/4B4/9/5K3 w - - 1", "variant": "xiangqi", "moves": "c5d7,f8e9,d7e9", "eval": "#4", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "xDrXt", "fen": "3k5/5P3/4b4/9/9/9/9/4K3B/4AC3/5A3 w - - 1", "variant": "xiangqi", "moves": "e2d3,d10e10,f2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "83AuN", "fen": "3ak4/4a4/r3b4/C5R1p/2p6/9/8P/4B4/3nAK1C1/c2A2B2 w - - 1", "variant": "xiangqi", "moves": "a7e7,d2e4,g7g10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "I5Cht", "fen": "2C2k3/4R4/9/7c1/9/9/9/B3BA3/6C2/4KA3 w - - 1", "variant": "xiangqi", "moves": "g2f2,h7f7,f2f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ihtsP", "fen": "2R6/4k4/4N4/9/p8/P1B6/9/3A1A3/9/4K1B2 w - - 1", "variant": "xiangqi", "moves": "c10c9,e9e10,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VJFMn", "fen": "3k5/4a4/2RNb4/5C3/p4n3/1n7/4C4/3AB4/9/2BAK4 w - - 1", "variant": "xiangqi", "moves": "e4e6,e9d8,c8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "wPKHR", "fen": "4k4/4a4/3aR4/4N4/9/9/9/5A2B/3KA4/9 w - - 1", "variant": "xiangqi", "moves": "e7g8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "EUTe9", "fen": "3ak4/4a4/4b3b/p4R3/2c1C4/9/P1r1P4/4B1N2/2c1K4/5A3 w - - 1", "variant": "xiangqi", "moves": "e2f2,c4a4,f7f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vJtKg", "fen": "4k4/3P1P3/3a1c3/9/1N4b2/9/9/9/5K3/9 w - - 1", "variant": "xiangqi", "moves": "b6c8,f8c8,f9f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HzCHB", "fen": "2cak4/4a4/1n2b2P1/9/2P6/9/C8/4CK3/2p6/3A2B2 w - - 1", "variant": "xiangqi", "moves": "a4e4,b8c6,e3e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "QzrCB", "fen": "3P1k3/4P4/5a3/n8/2b6/9/9/6n2/C8/5K3 w - - 1", "variant": "xiangqi", "moves": "a2g2,g3e4,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rapFg", "fen": "9/4P4/3k5/9/3N5/3n5/9/3A5/9/4K4 w - - 1", "variant": "xiangqi", "moves": "d6b7,d5c7,e1e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "zbTJT", "fen": "4k4/4C4/9/2N6/9/6B2/9/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "c7b9,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NjeZJ", "fen": "9/3k5/4b4/3N5/8R/P3P4/8P/3A5/4AK3/9 w - - 1", "variant": "xiangqi", "moves": "d7f8,d9e9,i6i9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ZV95O", "fen": "3ak4/2P1a4/9/6R2/5c3/9/9/9/9/2BAKAB2 w - - 1", "variant": "xiangqi", "moves": "g7g10,f6f10,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "CFipF", "fen": "3k5/4C1N2/b8/9/3P5/2P6/P2n4P/3C5/4K4/c1B3B2 w - - 1", "variant": "xiangqi", "moves": "e9e5,a1g1,e5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "6bQzr", "fen": "2Nc1k3/8R/5a3/9/9/p8/9/B2AB4/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "c10d8,d10d9,i9i10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "acrs0", "fen": "3k5/5P3/9/8p/9/8P/9/4B4/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "f9e9,i7i6,i5i6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "mw3Rg", "fen": "2b2a3/5P3/5k3/9/2bN5/4C1B2/9/3p1A3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e5e2,f8f9,e2f2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "7TNA7", "fen": "2bak1r2/4a4/4c3b/p1p2Rr2/4C4/4P1N1p/9/9/5R3/3K5 w - - 1", "variant": "xiangqi", "moves": "f2d2,g7f7,d2d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "SmIwe", "fen": "3k5/4P4/4P4/9/9/9/9/3c5/3K5/3A1A3 w - - 1", "variant": "xiangqi", "moves": "e8d8,d3d1,d2d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fojZl", "fen": "9/1N1ka4/3a1P3/9/9/2B6/9/9/9/2BAKA3 w - - 1", "variant": "xiangqi", "moves": "f8e8,e9f8,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9LgSG", "fen": "2b6/2Nk5/9/9/C8/2B3B2/9/3A1n3/4K4/5A3 w - - 1", "variant": "xiangqi", "moves": "c9d7,f3g5,a6d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uK6DX", "fen": "9/4R4/3k5/p8/2b6/3N5/P1c5P/5A3/4K4/3A5 w - - 1", "variant": "xiangqi", "moves": "d5f4,c4i4,f4e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "A0g7V", "fen": "3k5/9/8R/9/9/9/9/9/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "i8d8,d10e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "oQdUP", "fen": "9/9/1N1k5/9/p8/6B2/P8/3A4B/9/5K3 w - - 1", "variant": "xiangqi", "moves": "f1e1,a6a5,a4a5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pILDX", "fen": "9/9/1N2k4/9/p8/6B2/P8/3A4B/9/5K3 w - - 1", "variant": "xiangqi", "moves": "b8c10,a6a5,a4a5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "6CPdf", "fen": "9/2P6/3k1N3/4n4/9/2B6/9/3A1A3/4K4/6B2 w - - 1", "variant": "xiangqi", "moves": "f8e10,d8e8,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "M89ls", "fen": "9/9/4k4/2R6/9/9/9/4BA3/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "c7e7,e8d8,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "n9BPX", "fen": "9/4P4/3k5/9/2p6/9/9/B8/5K3/9 w - - 1", "variant": "xiangqi", "moves": "f2e2,c6c5,a3c5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1mhMS", "fen": "9/3P5/5k3/9/6p2/9/9/8B/4K4/9 w - - 1", "variant": "xiangqi", "moves": "d9e9,g6g5,i3g5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "sG79G", "fen": "9/4P4/3k5/9/2p6/9/9/B8/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e1e2,c6c5,a3c5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "0AQru", "fen": "2P1k4/4aP3/3ab4/9/9/1n4B2/4C4/3A5/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "e1f1,b5d4,f9f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "S3CXZ", "fen": "2Rrka3/4a4/4R4/9/9/9/9/9/9/2BCK4 w - - 1", "variant": "xiangqi", "moves": "e8c8,d10c10,c8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "MS7Bk", "fen": "3a5/3k5/3N2N2/9/9/9/9/3A5/4A4/2B2K3 w - - 1", "variant": "xiangqi", "moves": "d8b9,d10e9,g8e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gOpLe", "fen": "4k4/3Nn4/5P3/9/9/9/9/B2A1A3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "f8f9,e10d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "zA2Rb", "fen": "4k4/4a4/3R5/9/2C6/P1P1P4/9/4B4/4A4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "55Huh", "fen": "9/3k5/3n5/9/8P/9/3R5/5A3/4K4/2BA2B2 w - - 1", "variant": "xiangqi", "moves": "d4d6,d9d10,d6d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "B1sHB", "fen": "4k4/3Ca4/9/9/9/6B2/3R5/B8/4K4/9 w - - 1", "variant": "xiangqi", "moves": "d4e4,e10d10,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "qVJWW", "fen": "2bakr3/4a4/4b4/9/9/1p6R/9/9/9/3KC4 w - - 1", "variant": "xiangqi", "moves": "i5d5,f10f1,d5d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "yWsSW", "fen": "3a5/2R6/5k3/9/9/9/9/5A3/4A4/1C3KB2 w - - 1", "variant": "xiangqi", "moves": "b1e1,d10e9,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "qIdfm", "fen": "9/2P1k4/4b4/9/9/9/9/B3K3B/4A4/5C3 w - - 1", "variant": "xiangqi", "moves": "e2f3,e9e10,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DDIZq", "fen": "2b1ka3/3caRN2/4b4/p3n3p/1n7/P5C2/8P/3C5/4A4/2BAK1B2 w - - 1", "variant": "xiangqi", "moves": "g5h5,d9f9,h5h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "xS9yG", "fen": "3k5/2NnP4/9/9/6n2/9/9/9/9/2BKC4 w - - 1", "variant": "xiangqi", "moves": "e1e8,g6f4,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9m1U0", "fen": "3a5/4ak1N1/3P5/9/9/9/9/9/9/3AKAB2 w - - 1", "variant": "xiangqi", "moves": "d8e8,e9d8,e8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HZNrU", "fen": "2N2k3/9/9/6N2/9/6B2/9/5A1n1/3K5/2p6 w - - 1", "variant": "xiangqi", "moves": "c10d8,h3g5,g7h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "XfId5", "fen": "4R4/3k5/3a5/9/8p/9/P7P/3AB4/4C4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "e2d2,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1VMFh", "fen": "3a5/9/5k2b/4R4/9/5N3/5r3/5C3/4A4/2B1KAB2 w - - 1", "variant": "xiangqi", "moves": "e2d3,f4f3,e7f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "BAkcI", "fen": "3P1k3/4a1P2/b8/5P3/6b2/9/9/5A2B/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "f7f8,e9f8,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ltNc0", "fen": "2bak4/3P2P2/9/9/9/9/9/8B/4A4/3A1K3 w - - 1", "variant": "xiangqi", "moves": "g9f9,d10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "XRAfx", "fen": "2b1ka3/3PNP3/9/4N4/2bnn4/6B2/9/4BA3/1p2A4/4K4 w - - 1", "variant": "xiangqi", "moves": "e7g8,f10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DZw3n", "fen": "9/3N1k3/9/9/9/9/3c5/5A3/4K4/4C4 w - - 1", "variant": "xiangqi", "moves": "e1f1,d4f4,f1f4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "arsJB", "fen": "2bak3C/9/4bR3/p8/1P6P/6B2/r3p1nC1/3A5/4A4/2c1K1B2 w - - 1", "variant": "xiangqi", "moves": "f8f9,c1g1,h4h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "SC3m0", "fen": "1P1cka3/4a4/R2P5/9/2R6/9/9/4B4/4A4/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "c6e6,d10c10,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "RPpoq", "fen": "3aka3/3P5/9/9/2R3b2/3n2B2/6r2/B3C4/9/3AKA3 w - - 1", "variant": "xiangqi", "moves": "c6c10,d5e3,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Nribr", "fen": "3k5/9/4b4/3N5/9/9/9/8B/5C3/4K4 w - - 1", "variant": "xiangqi", "moves": "f2e2,e8g6,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uStEo", "fen": "9/3ka4/5R3/9/9/6B2/9/9/5K3/3A1A3 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ztLci", "fen": "4k4/4a4/9/3R5/9/9/9/4BA3/4A4/2BK5 w - - 1", "variant": "xiangqi", "moves": "d7e7,e10f10,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "K58IB", "fen": "4k4/4a4/9/3R5/9/9/9/3AB4/4A4/5KB2 w - - 1", "variant": "xiangqi", "moves": "d7e7,e10d10,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "bb7T5", "fen": "3N1k3/3P5/5a3/9/4c4/9/9/B8/1C7/2B1K4 w - - 1", "variant": "xiangqi", "moves": "d9e9,f8e9,b2b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "qg5F2", "fen": "3ak4/3N5/5a3/9/4C4/9/9/3AB4/9/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "e6e4,e10e9,d9e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lvZHq", "fen": "2Nak1b2/7c1/5P3/3NP4/9/5nB2/9/2nA1A2B/3C5/4K4 w - - 1", "variant": "xiangqi", "moves": "f8f9,f5e7,c10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "wEdzM", "fen": "3k5/4P4/3C5/9/9/9/6p2/5A2B/4A4/2BK5 w - - 1", "variant": "xiangqi", "moves": "d8d2,g4f4,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Yb7fu", "fen": "3R5/4ak3/9/9/9/9/9/8B/9/3AKAB2 w - - 1", "variant": "xiangqi", "moves": "d10d9,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "6Oisy", "fen": "9/4k4/4r4/2N6/5R3/2B6/9/9/4A4/3A1K3 w - - 1", "variant": "xiangqi", "moves": "f6f9,e9e10,c7e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "PdjiL", "fen": "1C5R1/5R3/1r2kn3/p3p4/9/9/P8/4B4/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "h10h8,b8b10,h8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fkmDn", "fen": "2R6/3k5/4b4/p3N3p/9/1n2C4/P2rP3P/3AB4/9/1c2KA3 w - - 1", "variant": "xiangqi", "moves": "e7c8,d4d3,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Ickr7", "fen": "2N6/9/3ak4/8C/9/P7P/9/4B4/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "i7e7,d8e9,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HOIQX", "fen": "1CNa5/3k5/2P6/9/9/8P/9/4B4/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "c8d8,d9e9,c10b8", "eval": "#3", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ZS1AU", "fen": "3a1k3/9/3P1P3/9/9/9/9/3A5/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "d8d9,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "EYgl5", "fen": "8R/4ak3/9/9/9/P8/9/4B4/3KA4/2B6 w - - 1", "variant": "xiangqi", "moves": "i10i9,f9f10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "0LiqA", "fen": "3a1a3/3k5/2R6/3N5/p8/6B2/P2r5/4B4/3CA4/3AK4 w - - 1", "variant": "xiangqi", "moves": "c8e8,d4d2,d7b8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ga3Yz", "fen": "3k5/2R6/9/p8/9/P8/4P4/9/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "c9e9,a7a6,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GZfOl", "fen": "2bk5/4P4/2P6/4C4/2p3b2/3n5/9/3AB4/4A4/5KB2 w - - 1", "variant": "xiangqi", "moves": "c8c9,d5e7,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GnGH2", "fen": "9/3k5/3n5/9/4R4/9/9/3A5/9/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "e6d6,d9d10,d6d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "qvnyw", "fen": "9/1N1k5/3C5/9/9/6B2/1n7/3A5/4K4/6B2 w - - 1", "variant": "xiangqi", "moves": "d8a8,b4d3,a8a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OFiBC", "fen": "4k4/3Pa4/9/9/9/9/3N5/8B/9/3K5 w - - 1", "variant": "xiangqi", "moves": "d1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uCiVo", "fen": "4k4/1N2a4/8R/9/9/9/8P/9/4A4/2BK5 w - - 1", "variant": "xiangqi", "moves": "i8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "LoCi7", "fen": "3Nc4/5k3/6N2/9/9/p4C3/4P3P/5A2B/5K3/3A5 w - - 1", "variant": "xiangqi", "moves": "d10e8,e10e4,e8f6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jgmZn", "fen": "3Nc4/5k3/6N2/9/9/5C3/p3P3P/5A2B/5K3/3A5 w - - 1", "variant": "xiangqi", "moves": "d10e8,e10e4,e8f6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "RiFLP", "fen": "3k5/5P3/3ab4/9/6b2/9/9/4Bn3/3R1N1r1/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "f9e9,h2h1,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "7APS1", "fen": "3k5/8R/3a5/7P1/9/9/9/4K4/9/2B6 w - - 1", "variant": "xiangqi", "moves": "e3e2,d8e9,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "EF3GE", "fen": "3a5/R8/4k4/9/9/4C3P/P8/9/4A4/3A1KB2 w - - 1", "variant": "xiangqi", "moves": "a9d9,d10e9,e5e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DSncW", "fen": "3a5/5k3/5a3/9/5R3/9/9/4B4/3KC4/3A2B2 w - - 1", "variant": "xiangqi", "moves": "f6f1,f9f10,f1f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "d7n4g", "fen": "3k5/4R4/3N5/9/9/6P2/9/2r6/4K4/3A5 w - - 1", "variant": "xiangqi", "moves": "d8b9,c3c9,e9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "H4Nk3", "fen": "2bak3C/9/2n2a3/p5RC1/4c1b2/1rB2p3/P4p2P/4B4/4A4/3AK4 w - - 1", "variant": "xiangqi", "moves": "g7g9,b5c5,h7h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gow0s", "fen": "3R5/6PC1/4k4/9/9/9/9/5K3/4r4/9 w - - 1", "variant": "xiangqi", "moves": "d10e10,e8d8,e10e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "c8NCz", "fen": "2Rrka3/1P2a4/9/9/9/9/9/3A5/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "b9c9,d10c10,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "hjAZ8", "fen": "2Rrka3/2P1a4/9/9/9/9/9/3A5/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "e1e2,d10c10,c9c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Ont0V", "fen": "3P5/4k4/5C3/6N2/2b6/8P/9/9/4A4/3K5 w - - 1", "variant": "xiangqi", "moves": "f8f1,c6e8,f1e1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "azZNG", "fen": "2bakab2/1R7/9/4C4/8P/9/9/5A3/4AK3/9 w - - 1", "variant": "xiangqi", "moves": "i6i7,g10i8,i7i8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "I1yKb", "fen": "3R5/4ak3/8P/1C7/9/9/9/5A3/4AK3/9 w - - 1", "variant": "xiangqi", "moves": "d10d9,f9f8,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ElF8g", "fen": "3a5/5k3/5a3/9/3N5/9/P8/3AB3B/4C4/5K3 w - - 1", "variant": "xiangqi", "moves": "d6c8,f9f10,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "655HC", "fen": "9/9/4k4/4N4/9/2B6/P8/9/9/2BK5 w - - 1", "variant": "xiangqi", "moves": "e7c8,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "44VU2", "fen": "2N1k4/4a4/2R6/9/9/9/9/8B/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "c8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "c4PMF", "fen": "2R6/3ka4/3a5/9/9/6B2/9/3K1A3/4A4/2B6 w - - 1", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ynKWY", "fen": "9/3ka4/9/2R6/P2N5/9/9/9/4A4/2B2K3 w - - 1", "variant": "xiangqi", "moves": "c7c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "nBKiB", "fen": "9/4k4/3P5/9/9/9/9/3AB4/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "z096X", "fen": "9/3k5/3c5/4R4/9/6B2/9/5A3/9/2BAK4 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1UQIr", "fen": "1r1akab2/3cn4/4b4/4C4/5R3/9/7C1/7p1/4A4/2BK5 w - - 1", "variant": "xiangqi", "moves": "h4h10,b10c10,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "bB8QB", "fen": "3k5/3n5/3R1a3/7P1/9/2B6/9/9/4A4/3K2B2 w - - 1", "variant": "xiangqi", "moves": "d8e8,f8e9,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "sFu6V", "fen": "2bak1n2/4a2R1/4b4/1N5Cr/p8/4Pc3/P8/4B4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "h9f9,i7h7,b7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ELHjy", "fen": "3R5/9/4k4/9/9/6P2/8P/9/9/2BK5 w - - 1", "variant": "xiangqi", "moves": "d10e10,e8f8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Vd8pv", "fen": "2N2k3/9/5a3/6N2/9/6B2/9/4B4/4A1p2/4K4 w - - 1", "variant": "xiangqi", "moves": "c10d8,f8e9,g7h9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "yhzem", "fen": "3k5/2P2P3/4ba2b/2N6/9/9/p8/3p5/4A4/3AK4 w - - 1", "variant": "xiangqi", "moves": "f9f10,f8e9,c9d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "c6UUU", "fen": "4P4/3k5/3n5/p2N5/3N5/P5B2/9/4BA3/c2CA4/4K4 w - - 1", "variant": "xiangqi", "moves": "d6f7,a2a1,d7b8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "5PPwt", "fen": "2Nk5/4PnN2/9/9/9/9/9/1p2B4/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "c10d8,b3b2,d8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lH5JI", "fen": "9/2P1r4/4k4/3R5/9/2B6/9/5A3/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "d7e7,e8f8,e7e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "AVKIJ", "fen": "4k1P1N/3Pa4/3a5/7n1/9/9/9/9/9/5K3 w - - 1", "variant": "xiangqi", "moves": "f1e1,h7g5,i10g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9zbIq", "fen": "2P1k1b2/4aP3/3a5/1N2n1N2/5nb2/9/9/3A1A3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "g7e8,f6e8,b7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "M1Jc8", "fen": "2bak4/4a4/4b3n/p3CRp2/2p5p/6P2/P1P6/5A2B/1r7/2B2K3 w - - 1", "variant": "xiangqi", "moves": "f3e2,b2e2,f7f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HcKM3", "fen": "4k4/9/3R5/9/9/9/4P3P/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "kCRU4", "fen": "3R5/5k3/9/9/8P/9/4P4/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "d10e10,f9f8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Qx9zm", "fen": "2Na1k3/6P2/7n1/9/5C3/2B1n4/9/B8/9/3K1A3 w - - 1", "variant": "xiangqi", "moves": "c10d8,d10e9,g9f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uurAU", "fen": "3k5/9/6N2/9/9/2B6/9/3A5/4A4/2B2K3 w - - 1", "variant": "xiangqi", "moves": "g8e7,d10e10,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "D8mVS", "fen": "3k5/9/5N3/9/9/9/1c7/B2A5/8C/5K3 w - - 1", "variant": "xiangqi", "moves": "i2d2,b4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "qfCbH", "fen": "4k4/4N4/9/8c/9/9/9/3K1A2B/4A4/2B1C4 w - - 1", "variant": "xiangqi", "moves": "e9g8,i7e7,e1e7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "y1wrG", "fen": "9/1N1k1P3/3a4b/9/9/6p2/9/9/2C2p3/2BK1A3 w - - 1", "variant": "xiangqi", "moves": "c2a2,f2f1,a2a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "MgMcZ", "fen": "8R/4rk3/9/9/9/9/9/4B4/4A4/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "i10i9,f9f8,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "EDXxn", "fen": "2C2k3/2P6/2N2n3/9/9/9/8P/4B4/3KA4/5AB2 w - - 1", "variant": "xiangqi", "moves": "c9d9,f8d9,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DZYlK", "fen": "2b6/6P2/5k3/5N3/9/p3C1B2/9/5A3/4A4/2BK5 w - - 1", "variant": "xiangqi", "moves": "f7d8,f8e8,d8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "5SSEQ", "fen": "3R5/1c3k3/9/9/9/6B2/9/B2A5/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "d10d9,f9f10,d9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "JsOvc", "fen": "9/2N2k3/9/9/9/9/5p3/5A3/5C3/2BAK1B2 w - - 1", "variant": "xiangqi", "moves": "c9e10,f9f10,e10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NYauA", "fen": "1R1ckab2/4a4/4b4/p8/3nC3p/4r1N2/P7P/B3B4/4A4/3AK4 w - - 1", "variant": "xiangqi", "moves": "g5f7,e5e6,f7g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NTuzl", "fen": "3a5/9/5kN2/9/9/2B3P2/P5R2/9/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "g4e4,d10e9,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pltRj", "fen": "2R6/4ak3/5a3/9/9/9/9/9/4A4/2B2KB2 w - - 1", "variant": "xiangqi", "moves": "c10c9,f9f10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "g25zU", "fen": "9/3ka4/5R3/9/9/6B2/9/5C3/9/2BAKA3 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "IXcZO", "fen": "9/4P4/3k5/9/9/8P/6r2/4R4/4A4/2BAK1B2 w - - 1", "variant": "xiangqi", "moves": "e2f1,g4e4,e3e4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WPYJI", "fen": "9/4k4/4C4/3P5/9/6B2/9/5K3/9/5A3 w - - 1", "variant": "xiangqi", "moves": "d7d8,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "8qXiF", "fen": "9/4P4/3k5/9/3c1N3/P5B2/9/3A5/9/2C1K4 w - - 1", "variant": "xiangqi", "moves": "c1d1,d6d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "RStHg", "fen": "9/4P4/3k5/9/P2c1N3/6B2/9/3A5/9/2C1K4 w - - 1", "variant": "xiangqi", "moves": "c1d1,d6d1,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "B1oQW", "fen": "3k5/4R4/9/9/9/9/3r5/3A1A3/5C3/4K4 w - - 1", "variant": "xiangqi", "moves": "f2d2,d4d5,d2d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "GF9bF", "fen": "4k4/4N4/2N6/9/9/6B2/5n3/3AB4/4A4/5K3 w - - 1", "variant": "xiangqi", "moves": "e9f7,e10f10,f7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "mwKf7", "fen": "4P4/9/3k5/9/p1C6/2B3B2/P2C5/5A3/1n1K5/9 w - - 1", "variant": "xiangqi", "moves": "d2e2,b2a4,c6d6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pdYn4", "fen": "3k5/3na4/4Ra3/3n5/9/2B3p2/3C5/3C1A3/9/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "e8c8,d10e10,c8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NdAzy", "fen": "3ak4/7N1/9/9/9/2B1N4/9/9/3K5/5A3 w - - 1", "variant": "xiangqi", "moves": "e5d7,d10e9,d7c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "8ISZP", "fen": "2bak4/4a4/4b4/1n2C1N2/9/4P1P1c/9/3A5/9/5K3 w - - 1", "variant": "xiangqi", "moves": "g7i8,i5e5,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "SDfwl", "fen": "3k5/9/9/3P5/9/6B2/3p5/5A2B/3C5/3AK4 w - - 1", "variant": "xiangqi", "moves": "d7d8,d4d3,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9VRpJ", "fen": "4k4/1N7/9/4C4/9/9/9/4KA3/9/2BA2B2 w - - 1", "variant": "xiangqi", "moves": "e7e9,e10f10,b9d8", "eval": "#4", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "BhQDl", "fen": "4k4/3P5/9/9/9/6B2/2c6/5K3/4C4/9 w - - 1", "variant": "xiangqi", "moves": "g5e3,c4e4,e2e4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ulk8X", "fen": "2b1ka3/3R5/n4a3/p3C2rp/2b1N2c1/7r1/8P/3A5/4C4/2B1KAB2 w - - 1", "variant": "xiangqi", "moves": "e7e8,c6e8,e6f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VoJi2", "fen": "4k4/9/9/4P4/9/3C5/P8/3A5/4A4/2B1K4 w - - 1", "variant": "xiangqi", "moves": "e7e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "l9ii8", "fen": "9/2Ck5/3c5/4R4/9/9/9/5A3/4K4/9 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DThQy", "fen": "8R/4rk3/9/9/9/9/9/9/9/3K5 w - - 1", "variant": "xiangqi", "moves": "i10i9,f9f10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "YhLA6", "fen": "4k4/1N2a3R/3a5/9/5N3/9/8P/4B4/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "f6e8,e10f10,b9d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HBSC2", "fen": "3k5/9/5N3/9/3c5/2B6/9/3A5/1C2K4/2B6 w - - 1", "variant": "xiangqi", "moves": "b2d2,d6d2,e2d2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NbC54", "fen": "9/3k5/9/8p/p5p2/4R4/P5P2/9/5K1n1/2BA5 w - - 1", "variant": "xiangqi", "moves": "f2e2,h2g4,e5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rFXKg", "fen": "2bak1c2/3ca4/n3b1Cn1/9/4CR3/3NP4/r1N3P1P/9/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "e1f1,a4c4,f6f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vvnCP", "fen": "3ak4/4aP3/4b4/4CC3/2b6/9/P8/5A3/9/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "f7f8,c6a8,f8a8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NtK30", "fen": "4k4/3P1P3/5a2b/9/2b6/5p3/4p1n2/3A5/C8/3AK4 w - - 1", "variant": "xiangqi", "moves": "a2d2,e4e3,d9d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HwX0b", "fen": "9/1N1ka4/5a3/3c5/9/6B2/9/4B4/3K5/8C w - - 1", "variant": "xiangqi", "moves": "i1a1,e9d8,a1a9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "TGENT", "fen": "2bk5/5P3/9/6N2/9/1pB4R1/2n5P/4BA3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "f9e9,b5c5,h5h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vyFpK", "fen": "3k5/9/c4N3/9/9/2B3B2/9/3AK4/1C7/3A5 w - - 1", "variant": "xiangqi", "moves": "b2d2,a8d8,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "2em5A", "fen": "1C1k1a3/C2N5/3a5/1P2p4/2b3p2/5n2p/6P1c/4B3N/2n1A4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "d9b8,d10e10,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "AVjmz", "fen": "2P6/2R6/3kr4/9/9/9/9/5A3/5K3/9 w - - 1", "variant": "xiangqi", "moves": "c9c8,d8d9,c8e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "xiWI1", "fen": "2CP5/5k3/9/9/9/9/P7p/4RAc2/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e3e10,g3g8,e10f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "wWVKh", "fen": "9/9/4k4/4N4/9/9/9/9/9/2BK1A3 w - - 1", "variant": "xiangqi", "moves": "e7c8,e8f8,c8d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "jU7fa", "fen": "4k4/4a4/3R5/9/7P1/9/9/9/3K5/9 w - - 1", "variant": "xiangqi", "moves": "d8e8,e10f10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "FIjRU", "fen": "2raka3/4n4/9/p3R3p/6p2/1C7/P5Pc1/9/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "b5h5,c10c1,h5h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "PsS5s", "fen": "1N1k1a3/9/5P3/9/3n5/6P2/9/4B4/4C4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "f8f9,f10e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "H2Hox", "fen": "3n5/4P4/3k5/1PN6/9/9/9/9/9/4K4 w - - 1", "variant": "xiangqi", "moves": "b7b8,d10c8,b8c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VNh4J", "fen": "3P1k3/4P4/b3b4/9/6N2/9/6c2/5n3/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e1d1,e8g6,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "5qKcx", "fen": "9/9/3k5/3N5/9/9/9/5K3/4A4/5A3 w - - 1", "variant": "xiangqi", "moves": "d7b8,d8e8,b8c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gy7sR", "fen": "1N4b2/9/3k4b/4P4/9/9/3n3C1/9/4A4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "h4h7,g10e8,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "lTQU2", "fen": "3k5/9/9/4R4/9/9/P8/3A1Cp2/3K5/5A3 w - - 1", "variant": "xiangqi", "moves": "d2e2,g3f3,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "um8E4", "fen": "9/3Pak3/2C2a3/9/9/9/9/3AB4/9/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "c8c9,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ihZ0B", "fen": "4k4/3Pa4/5a3/9/9/9/9/3AB4/5C3/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "f2e2,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uIG2M", "fen": "3k5/9/4P4/9/9/9/6p2/3A5/4A4/C4K3 w - - 1", "variant": "xiangqi", "moves": "e8e9,g4f4,a1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9mF5r", "fen": "2R6/3ka4/3a5/9/9/2B6/9/9/3K5/3A1AB2 w - - 1", "variant": "xiangqi", "moves": "c10c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Oxwfo", "fen": "3k5/3c1P3/3N5/9/9/9/9/4B3B/9/5K3 w - - 1", "variant": "xiangqi", "moves": "f9e9,d9c9,d8b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "vFHvJ", "fen": "9/4k4/3N1R3/9/4r4/9/8P/3AB4/9/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "f8f9,e9e8,d8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "D9S4F", "fen": "2P1k4/4NP3/9/9/9/3n5/9/9/4K4/9 w - - 1", "variant": "xiangqi", "moves": "e2d2,d5c3,c10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ardOR", "fen": "9/3k5/3c5/4R4/9/9/P7P/9/9/2B1KAB2 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "OSG2A", "fen": "4R4/2rk5/9/9/9/9/9/3AK4/9/5A3 w - - 1", "variant": "xiangqi", "moves": "e10e9,d9d10,e9c9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "JmNXB", "fen": "9/3ka4/5R3/9/9/9/9/5K3/4A4/5AB2 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "d1tg1", "fen": "3k5/9/9/9/9/4N4/9/5K3/1C2A4/3A5 w - - 1", "variant": "xiangqi", "moves": "b2d2,d10e10,e5d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "zuEt1", "fen": "2bak1r2/2n1a4/4b2RN/p3C3p/4N4/P8/8P/5K3/9/2Bc1A3 w - - 1", "variant": "xiangqi", "moves": "h8h10,g10h10,i8g9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "kRIUX", "fen": "3k5/4a2N1/b2a5/3P5/9/2B6/9/9/3C5/4K4 w - - 1", "variant": "xiangqi", "moves": "h9f8,e9f8,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "i4cvg", "fen": "1R1ck4/4a4/9/9/9/3R5/P8/2N6/9/3A1KB2 w - - 1", "variant": "xiangqi", "moves": "d5e5,d10c10,b10c10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "bfq2j", "fen": "2rak4/4a4/4b3n/p7p/6bc1/P2R2B1P/9/N3C4/4A4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "d5f5,c10c1,f5f10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "CHl9e", "fen": "8R/1r3k3/9/9/9/9/9/5A3/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "i10i9,f9f8,i9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "drLn5", "fen": "2N6/9/4k4/9/9/5n3/9/3A5/4C4/2BA1K3 w - - 1", "variant": "xiangqi", "moves": "c1e3,e8f8,c10d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pvaWp", "fen": "2b1ka3/4a1r2/4b4/3RC3p/9/9/8P/9/4A4/4KAB1c w - - 1", "variant": "xiangqi", "moves": "e1d1,g9g1,d7d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "8NIc8", "fen": "9/3ka4/2R6/9/9/6B2/9/3A1A3/9/3K2B2 w - - 1", "variant": "xiangqi", "moves": "c8c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DIB85", "fen": "9/3ka4/2R6/9/9/6B2/9/3A1A3/9/4K1B2 w - - 1", "variant": "xiangqi", "moves": "c8c9,d9d10,c9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "xPMwB", "fen": "1C1Prkb2/1R7/9/9/9/6B2/9/3AB3N/4A4/4K4 w - - 1", "variant": "xiangqi", "moves": "b9e9,g10i8,d10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ao9NO", "fen": "3k5/9/9/4C4/N8/2B6/4P4/9/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "a6c7,d10e10,c7e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "PSzDo", "fen": "3k5/9/3a5/9/9/9/9/9/9/1RBAK1B2 w - - 1", "variant": "xiangqi", "moves": "b1b9,d8e9,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "dgxOF", "fen": "4k4/9/9/9/2R6/P8/9/4B4/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "c6e6,e10f10,e6e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "0VUx9", "fen": "4k4/3Pa4/9/9/9/9/9/B8/5K3/2B2A3 w - - 1", "variant": "xiangqi", "moves": "f2e2,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "KTrAo", "fen": "3C1k3/3cP4/9/p4N2p/1P7/9/9/4B4/3K5/3A5 w - - 1", "variant": "xiangqi", "moves": "f7h6,d9d7,h6g8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "Cq1wp", "fen": "3k5/9/9/2N6/9/9/9/B2A5/4C4/1p3K3 w - - 1", "variant": "xiangqi", "moves": "f1e1,d10e10,c7e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "roP8a", "fen": "3k5/6N2/3a5/9/9/9/9/3AB4/R8/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "a2a9,d8e9,a9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "dZyZJ", "fen": "8R/2N1ak3/9/9/9/9/9/4BA3/9/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "i10i9,f9f10,i9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "UzwV0", "fen": "9/2R6/b2k5/9/9/2B6/9/2C6/4A4/3A1K3 w - - 1", "variant": "xiangqi", "moves": "c9e9,a8c6,c3c6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "LMHqQ", "fen": "3a1a3/2P6/3kb1PC1/9/9/9/9/9/9/2B1K4 w - - 1", "variant": "xiangqi", "moves": "g8f8,d10e9,f8e8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "REEj6", "fen": "3k5/4R4/9/9/9/9/c8/9/3CA4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "e2d3,a4d4,d2d4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VXQ1U", "fen": "3k5/4R4/c8/9/9/9/9/9/3CA4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "e2d3,a8d8,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "cVaAc", "fen": "3k5/9/5N3/9/9/3r5/9/5R3/4A4/5KB2 w - - 1", "variant": "xiangqi", "moves": "f3d3,d5d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "bbKlj", "fen": "3k5/9/5N3/9/3r5/9/9/5R3/4A4/5KB2 w - - 1", "variant": "xiangqi", "moves": "f3d3,d6d3,e2d3", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "M2lMb", "fen": "3k5/5P3/3a5/3N5/9/9/9/9/9/2BAKAB2 w - - 1", "variant": "xiangqi", "moves": "d7f8,d8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "tnPSg", "fen": "3k5/9/5N3/9/9/9/9/9/2p1A4/3C1KB2 w - - 1", "variant": "xiangqi", "moves": "g1e3,c2c1,e3c1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "1UezH", "fen": "1N1aC1b2/5P3/3k3c1/4P4/9/9/4p4/9/9/5K3 w - - 1", "variant": "xiangqi", "moves": "f9e9,d10e9,e7d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "YuGmY", "fen": "3k5/1c7/5N3/9/9/2B3B2/9/3A5/4A4/4CK3 w - - 1", "variant": "xiangqi", "moves": "e1d1,b9d9,d1d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "LCYc5", "fen": "9/3ka4/3a5/9/1R7/9/9/8B/4A4/3K2B2 w - - 1", "variant": "xiangqi", "moves": "b6b9,d9d10,b9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "PIpXw", "fen": "9/1r1k5/2N1R4/9/9/9/9/B2A5/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "e8e9,d9d8,e9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gEfTT", "fen": "9/3ka4/5R3/9/9/9/9/3AB4/5K3/5AB2 w - - 1", "variant": "xiangqi", "moves": "f8f9,d9d10,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "koPam", "fen": "3k5/4P4/b2a5/9/9/2B6/9/5A3/4C4/3K1AB2 w - - 1", "variant": "xiangqi", "moves": "e2c2,a8c6,c2c6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fXLj9", "fen": "3k5/4P4/b2a5/9/9/2B6/9/4BA3/4C4/3K1A3 w - - 1", "variant": "xiangqi", "moves": "e2c2,a8c6,c2c6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "v1QHZ", "fen": "3k5/9/5N3/9/8C/8P/4p4/8B/9/2BAK4 w - - 1", "variant": "xiangqi", "moves": "i6d6,e4f4,f8d7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "VHFL3", "fen": "2b1ka3/3R5/4Ca3/2N6/5np1p/2P6/r8/3AB4/9/2BK5 w - - 1", "variant": "xiangqi", "moves": "c7e6,f6e8,e6f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uiUBL", "fen": "3k5/7C1/9/p8/9/P4C3/8P/4K3B/9/6B2 w - - 1", "variant": "xiangqi", "moves": "f5f9,a7a6,a5a6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "C8CVG", "fen": "3kC4/4P2R1/9/9/9/2P6/P8/4B4/3rAK3/6B2 w - - 1", "variant": "xiangqi", "moves": "e10i10,d2e2,f2e2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "et3TA", "fen": "9/3k5/5R3/9/4C4/9/P1N5P/9/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "f8e8,d9d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "d8HIt", "fen": "4k4/4C4/4R4/1C7/6P2/8P/P8/4N4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "b7e7,e10f10,e8f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "UdK3u", "fen": "4k4/4a4/2P6/9/9/9/2R5P/4BA3/9/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "c4e4,e10f10,e4e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "aYupN", "fen": "2P6/C1N6/5k3/3P5/5n3/9/5np2/3A5/9/2BK5 w - - 1", "variant": "xiangqi", "moves": "d7e7,f4d3,e7f7", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "NlQry", "fen": "9/3k5/3n5/4R4/9/9/9/8B/9/3AKAB2 w - - 1", "variant": "xiangqi", "moves": "e7d7,d9d10,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "HLQEX", "fen": "9/9/1C3k3/4N4/4C3p/2p4n1/n2p4P/4B4/4A4/2BAK3c w - - 1", "variant": "xiangqi", "moves": "e6c6,f8e8,e7c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WFSex", "fen": "9/4R4/3N1k3/9/P5r2/4P4/9/4B4/4A4/2B1KA3 w - - 1", "variant": "xiangqi", "moves": "d8e6,g6e6,e5e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gQiSc", "fen": "6NCC/4akr2/3abn2R/c3p4/p8/9/P3P3P/4B4/2n1AK3/2B6 w - - 1", "variant": "xiangqi", "moves": "i8i9,g9i9,g10h8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "XWHkR", "fen": "2ba1k3/9/2N2P3/9/6b2/4C4/5c3/3AB3B/4A4/5K2c w - - 1", "variant": "xiangqi", "moves": "c8e7,d10e9,e7g8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "DyKMP", "fen": "3k5/4P2c1/3P5/8p/2b6/2c3B2/4N4/5A3/4K4/5A3 w - - 1", "variant": "xiangqi", "moves": "e4d6,c6e8,d6c8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "sIAaL", "fen": "3k5/R8/5r3/6N2/2P6/9/P8/3A5/9/2B1KAB2 w - - 1", "variant": "xiangqi", "moves": "g7f9,f8f9,a9f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "we1Um", "fen": "9/9/3N1k3/9/9/7C1/5n3/5K3/4A4/5AB2 w - - 1", "variant": "xiangqi", "moves": "h5e5,f8e8,d8e6", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "QKbgW", "fen": "9/3Pak3/5aN2/9/9/9/9/9/5K3/9 w - - 1", "variant": "xiangqi", "moves": "g8h10,f9f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "uKP8m", "fen": "3k5/4P4/5P2b/9/3C5/9/9/3AB4/9/2B2K3 w - - 1", "variant": "xiangqi", "moves": "f8e8,i8g10,e8d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "9KnUZ", "fen": "4k4/3P5/9/9/9/2n6/9/5A3/9/4CK3 w - - 1", "variant": "xiangqi", "moves": "f3e2,c5e4,e1e4", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "ikyHR", "fen": "4k4/9/9/3N5/9/9/9/3A1A2B/9/2B2K3 w - - 1", "variant": "xiangqi", "moves": "f3e2,e10d10,d7f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "rkPwY", "fen": "3a5/3k5/3c5/3P5/9/9/4C4/4K4/1c1C5/3A5 w - - 1", "variant": "xiangqi", "moves": "e4d4,d8d4,d7d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "CpewW", "fen": "2bak4/4a4/4b4/p4CN2/2p1C2P1/9/P3P4/4B1n2/c3A1n2/3K1A3 w - - 1", "variant": "xiangqi", "moves": "g7h9,g3e4,h9f8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "IzgiR", "fen": "4k4/4a4/5R2N/9/9/9/9/4B4/4A4/4KAB2 w - - 1", "variant": "xiangqi", "moves": "f8e8,e10d10,e8e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "KxZt1", "fen": "3N5/4R4/3k5/1r7/9/9/9/B8/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "d10b9,b7b9,e9b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "KAXmk", "fen": "2Ck5/4PP3/cn7/9/4N4/9/9/4B4/4A4/2BAK4 w - - 1", "variant": "xiangqi", "moves": "f9f10,b8c10,f10e10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "aycAe", "fen": "3k5/5P3/5a3/9/9/3N5/9/9/9/2B1K4 w - - 1", "variant": "xiangqi", "moves": "d5c7,f8e9,f9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WdNk9", "fen": "3k5/9/b8/9/9/2B6/9/3A1A3/3K5/4C4 w - - 1", "variant": "xiangqi", "moves": "d2e2,a8c6,e1d1", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "5o1LE", "fen": "3k5/4P4/4c4/9/9/9/9/9/3CA4/3K5 w - - 1", "variant": "xiangqi", "moves": "e2d3,e8d8,d2d8", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "UAGFx", "fen": "1r2ka3/3ca4/4R4/6p2/9/6P2/8P/9/4C4/2BAKAB2 w - - 1", "variant": "xiangqi", "moves": "e2h2,e10d10,h2h10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "URsdm", "fen": "9/9/2N2k3/9/8p/9/8P/9/3KA4/9 w - - 1", "variant": "xiangqi", "moves": "c8d10,i6i5,i4i5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "a9B8a", "fen": "9/4k4/3P5/9/9/9/9/8B/4A4/3AK1B2 w - - 1", "variant": "xiangqi", "moves": "e1f1,e9e10,d8d9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pbpKr", "fen": "3akab1r/2CR5/2n1bc3/p1N1p1p2/5r3/2P2n2p/P3P1P1P/4B1C2/9/1R1AKAB2 w - - 1", "variant": "xiangqi", "moves": "b1b10,f5g3,b10d10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "iR2Gg", "fen": "3k5/4P4/9/2N6/9/2B6/9/1c1n4B/9/4K4 w - - 1", "variant": "xiangqi", "moves": "e1d1,b3i3,c7b9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "7j1ql", "fen": "3a1k3/9/5P3/5N3/4P4/P8/9/4B4/9/2B1K4 w - - 1", "variant": "xiangqi", "moves": "f7d8,d10e9,f8f9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "gImtj", "fen": "3a1k3/6P2/3P5/9/9/9/9/5A3/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "d8d9,d10e9,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "hOhbZ", "fen": "4k4/9/3P5/9/9/2B6/5C3/4BA3/9/4KA3 w - - 1", "variant": "xiangqi", "moves": "d8d9,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "pwTem", "fen": "9/3k5/4bN3/9/3C4P/C8/P8/4BK3/9/3A5 w - - 1", "variant": "xiangqi", "moves": "a5e5,d9d8,e5d5", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "TlwmP", "fen": "4k4/3Pa4/9/9/9/2B6/9/3A5/9/2B2K3 w - - 1", "variant": "xiangqi", "moves": "f1e1,e10f10,d9e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "U14GA", "fen": "4k4/9/3aN4/9/9/9/9/5K3/3C1p3/9 w - - 1", "variant": "xiangqi", "moves": "e8g9,e10e9,f3f2", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "WEAXB", "fen": "1Craka3/4n4/4R4/9/9/9/9/5A2B/9/3AK4 w - - 1", "variant": "xiangqi", "moves": "e8b8,c10b10,b8b10", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}
+{"_id": "fKG1u", "fen": "4R4/4a4/4k4/9/9/9/9/3A4B/9/5K3 w - - 1", "variant": "xiangqi", "moves": "i3g5,e8d8,e10e9", "eval": "#2", "type": "mate", "uploadedBy": "nello726", "review": true}

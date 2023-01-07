@@ -2,21 +2,21 @@ import { h, VNode } from 'snabbdom'
 import * as Mousetrap  from 'mousetrap';
 import * as cg from 'chessgroundx/types';
 
-import { patch, changePieceCSS } from '@pychess/common/document';
-import { GameController } from '@pychess/common/gameCtrl';
-import { PyChessModel } from '@pychess/common/types';
-import { UCIMove, cg2uci, uci2cg, uci2LastMove, selectVariant } from '@pychess/common/chess';
+import { patch, changePieceCSS } from './document';
+import { GameController } from './gameCtrl';
+import { PyChessModel } from './types';
+import { uci2cg, uci2LastMove, selectVariant } from './chess';
 
-import { randomId, Puzzle, ServerData } from './types';
+import { randomId, Puzzle, ServerData } from './puzzlerTypes';
 
 export default class PuzzleController extends GameController {
     username: string;
     _id: string;
     solutionEl: VNode | HTMLElement;
-    solution: UCIMove[];
+    solution: string[];
     solutionSan: string[];
     movesEl: VNode | HTMLElement;
-    moves: UCIMove[] = [];
+    moves: string[] = [];
     movesSan: string[] = [];
     all: boolean;
 
@@ -34,7 +34,7 @@ export default class PuzzleController extends GameController {
         super(el, model);
 
         this.username = data.username;
-        this.solution = data.moves.split(',') as UCIMove[];
+        this.solution = (model.variant==='duck') ? data.moves.match(/[^,]+,[^,]+/g)! : data.moves.split(',')!;
         this.moves = [];
         this._id = data._id;
         this.all = data.all;
@@ -53,7 +53,7 @@ export default class PuzzleController extends GameController {
             movable: {
                 free: false,
                 color: this.turnColor,
-                showDests: this.showDests,
+//                showDests: this.showDests,
                 events: {
                     after: (orig, dest, meta) => this.onUserMove(orig, dest, meta),
                     afterNewPiece: (role, dest, meta) => this.onUserDrop(role, dest, meta),
@@ -174,7 +174,7 @@ export default class PuzzleController extends GameController {
         p.submit();
     }
 
-    updateGui(move: UCIMove) {
+    updateGui(move: string) {
         this.chessground.set(this.cgConfig(move));
         this.setDests();
 
@@ -238,9 +238,8 @@ export default class PuzzleController extends GameController {
         this.updateSolution();
     }
 
-    doSendMove(orig: cg.Orig, dest: cg.Key, promo: string) {
-        console.log(orig, dest, promo);
-        const move = cg2uci(orig + dest + promo) as UCIMove;
+    doSendMove(move: string) {
+        console.log(move);
         this.moves.push(move);
 
         const san = this.ffishBoard.sanMove(move, this.notationAsObject);
@@ -263,7 +262,7 @@ export default class PuzzleController extends GameController {
     forward() {
         const move = uci2cg(this.solution[this.moves.length]);
         if (move) {
-            this.doSendMove(move.slice(0, 2) as cg.Orig, move.slice(2, 4) as cg.Key, move.slice(4, 5));
+            this.doSendMove(move);
         }
     }
 
@@ -282,7 +281,7 @@ export default class PuzzleController extends GameController {
         window.location.assign(`${this.home}/review/${this._id}?approved=${approved ? 1 : 0}&moves=${this.solution.join(',')}`);
     }
 
-    private cgConfig = (move: UCIMove) => {
+    private cgConfig = (move: string) => {
         const fen = this.ffishBoard.fen(this.variant.showPromoted, 0);
         const turnColor = fen.split(" ")[1] === "w" ? "white" : "black" as cg.Color;
         return {

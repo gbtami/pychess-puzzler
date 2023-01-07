@@ -1,95 +1,147 @@
-import { h, VNode } from 'snabbdom'
+import { h, VNode } from 'snabbdom';
 
-import { VARIANTS } from '@pychess/common/chess';
+import * as idb from 'idb-keyval';
 
-import { ServerData } from './types';
-import PuzzleController from './ctrl';
+import { ISettings } from "./settings";
+import { _ } from './i18n';
 
-function runGround(vnode: VNode, data: ServerData) {
-    const el = vnode.elm as HTMLElement;
-    new PuzzleController(el, data);
+export function radioList(settings: ISettings<string>, name: string, options: { [key: string]: string }, onchange: (evt: Event, key: string) => void): VNode[] {
+    const result: VNode[] = [];
+    Object.keys(options).forEach(key => {
+        const id = name + "-" + key;
+        result.push(h(`input#${id}`, {
+            props: { name: name, type: "radio", value: key },
+            attrs: { checked: settings.value === key },
+            on: { change: evt => onchange(evt, key) },
+        }));
+        result.push(h('label', { attrs: { for: id } }, options[key]));
+    });
+    return result;
 }
 
-export default function(data: ServerData): VNode {
-    const variant = VARIANTS[data.variant];
-    const parts = data.fen.split(' ');
-    const color = parts[1];
-    const fullmove = parseInt(parts[parts.length - 1]);
-    const ply = (fullmove -1) * 2 + ((color === "b") ? 1 : 0);
-    const fen = parts.join('_').replace(/\+/g, '.');
+export function slider(settings: ISettings<number>, name: string, min = 0, max = 100, step = 1, text: string) {
+    const id = name;
+    return [
+        h(`input#${id}.slider`, {
+            props: { name: name, type: "range", min: min, max: max, step: step, value: settings.value },
+            on: { input: e => settings.value = Number((e.target as HTMLInputElement).value) },
+        }),
+        h('label', { attrs: { for: id } }, text),
+    ];
+}
 
-    let gameUrl;
-    if (data.gameId) {
-        gameUrl = `${data.pychessURL}/${data.gameId}?ply=${ply}`;
-    } else {
-        gameUrl = `${data.pychessURL}/analysis/${data.variant}?fen=${fen}`;
+export function checkbox(settings: ISettings<boolean>, name: string, text: string) {
+    const id = name;
+    return [
+        h(`input#${id}`, {
+            props: { name: name, type: "checkbox" },
+            attrs: { checked: settings.value },
+            on: { change: evt => settings.value = (evt.target as HTMLInputElement).checked },
+        }),
+        h('label', { attrs: { for: id } }, text),
+    ];
+}
+
+export function nnueFile(settings: ISettings<string>, name: string, text: string, variant: string) {
+    const id = name;
+    return [
+        h(`input#${id}`, {
+            props: { name: name, type: "file", accept: '*.nnue', title: _('Page reload required after change') },
+            on: { change: evt => {
+                const files = (evt.target as HTMLInputElement).files;
+                if (files && files.length > 0) {
+                    const fileName = files[0].name;
+                    if (possibleNnueFile(fileName, variant)) {
+                        settings.value = '';
+                        console.log("Selected file:", fileName);
+
+                        idb.get(`${variant}--nnue-file`).then((nnuefile) => {
+                            if (nnuefile === undefined) {
+                                // First time .nnue file selection ever for this variant
+                                saveNnueFileToIdb(settings, variant, files[0]);
+                            } else {
+                                if (nnuefile === fileName) {
+                                    console.log(variant, 'is already in idb.');
+                                } else {
+                                    // Delete old file name version info
+                                    idb.del(`${variant}--nnue-file`);
+                                    // Update idb with new .nnue file 
+                                    saveNnueFileToIdb(settings, variant, files[0]);
+                                }
+                            }
+                        });
+                    }
+                }
+            }},
+        }),
+        h('label', { attrs: { for: id } }, text),
+    ];
+}
+
+function saveNnueFileToIdb (settings: ISettings<string>, variant: string, file: File) {
+    const fileName = file.name;
+    var fileReader = new FileReader();
+    fileReader.onload = function(event) {
+        idb.set(`${variant}--nnue-data`, event.target!.result)
+            .then(() => {
+                idb.set(`${variant}--nnue-file`, fileName)
+                .then((nnuefile) => {
+                    settings.value = fileName;
+                    console.log(`${nnuefile} saved!`);
+                })
+                .catch((err) => {
+                    alert(err);
+                })
+            })
+            .catch((err) => {
+                alert(err);
+            });
+    };
+    fileReader.readAsArrayBuffer(file);
+}
+
+export function timeControlStr(minutes: number | string, increment = 0, byoyomiPeriod = 0): string {
+    minutes = Number(minutes);
+    byoyomiPeriod = Number(byoyomiPeriod)
+    switch (minutes) {
+        case 1 / 4:
+            minutes = "¼";
+            break;
+        case 1 / 2:
+            minutes = "½";
+            break;
+        case 3 / 4:
+            minutes = "¾"
+            break;
+        default:
+            minutes = String(minutes);
+    }
+    switch (byoyomiPeriod) {
+        case 0 : return `${minutes}+${increment}`;
+        case 1 : return `${minutes}+${increment}(b)`;
+        default: return `${minutes}+${byoyomiPeriod}×${increment}(b)`;
+    }
+}
+
+function possibleNnueFile(fileName: string, variant: string) {
+    let possible: boolean;
+    let prefix: string;
+
+    switch (variant) {
+    case 'chess' :
+    case 'placement' :
+        prefix = 'nn';
+        break;
+    case 'cambodian' :
+        prefix = 'makruk';
+        break;
+    default:
+        prefix = variant;
     }
 
-    window.history.replaceState({}, '', `/puzzle/${data._id}`);
-
-    return h('main', [
-        h('section.top', [
-            h('form.variant', { props: {method: "post", action: '/variant'} }, [
-                h('select#variant'),
-            ]),
-            h('form.all', { props: {method: "post", action: '/all'} }, [
-                h('label', { attrs: { for: 'all' } }, 'All'),
-                h('input#all'),
-            ]),
-            h('span.wrapper', [
-                h('label', { attrs: { for: 'puzzlefile' } }, 'Upload puzzle file: '),
-                h('input#puzzlefile'),
-            ]),
-            h('div#username', data.username),
-            h('a', { attrs: {href: '/logout'} }, 'Log out'),
-        ]),
-        h('div.puzzle', [
-            h('div.pocket-top', [
-                h('div.' + variant.piece + '.' + data.variant, [
-                    h('div.cg-wrap.pocket', [
-                        h('div#pocket0'),
-                    ]),
-                ]),
-            ]),
-            h(`selection#mainboard.${variant.board}.${variant.piece}.${variant.boardMark}`, [
-                h('div.cg-wrap.' + variant.cg, { hook: { insert: (vnode) => runGround(vnode, data) } }),
-            ]),
-            h('div.pocket-bot', [
-                h('div.' + variant.piece + '.' + data.variant, [
-                    h('div.cg-wrap.pocket', [
-                        h('div#pocket1'),
-                    ]),
-                ]),
-            ]),
-            h('div.puzzle-ui', [
-                h('div.puzzle-info', [
-                    h('p.puzzle-info-title', `Candidate id: ${data._id}`),
-                    h('p', ['Site: ',
-                        ('site' in data) ? h('a.analyse', { attrs: { href: `${data.site}`, target: '_blank'} }, `${data.site}`) : '',
-                    ]),
-                    h('p', [
-                        'From game: ',
-                        h('a.analyse', { attrs: { href: gameUrl, target: '_blank'} }, ('gameId' in data) ? `${data.gameId}` : 'analysis'),
-                    ]),
-                    h('p', `Type: ${data.type}`),
-                    h('p', `Eval: ${data.eval}`),
-                    h('p.solution'),
-                    h('p.moves'),
-                ]),
-                h('div.puzzle-review', [
-                    h('button.reject'),
-                    h('button.approve'),
-                    h('button.append'),
-                ]),
-                h('div.puzzle-skip'),
-                h('div.puzzle-help', [
-                    h('p', "Does the puzzle feel a bit off, computer-like, or frustrating? Just reject it. Too difficult and you're not sure if interesting? Skip it. Use arrow keys to replay, backspace/enter to review, a to analyse.")
-                ]),
-            ])
-        ]),
-        h('div.replay', [
-            h('button.prev'),
-            h('button.next'),
-        ]),
-    ]);
+    possible = fileName.startsWith(`${prefix}-`);
+    if (!possible) {
+        alert(`.nnue file name required to start with ${prefix}-`);
+    }
+    return possible;
 }

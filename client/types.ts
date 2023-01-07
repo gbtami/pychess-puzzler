@@ -1,45 +1,47 @@
-type UserId = string;
+import { CrossTable, MsgBoard } from './messages';
 
-export type Puzzle = {
-    _id: string;
-    fen: string;
-    variant: string;
-    moves: string;
-    eval: string;
-    type: string;
-    gameId?: string;
-    uploadedBy?: string;
-    site?: string;
-}
+export type JSONPrimitive = string | number | boolean | null;
+export type JSONValue = JSONPrimitive | JSONObject | JSONArray;
+export type JSONObject = { [member: string]: JSONValue };
+export type JSONArray = JSONValue[];
 
-export type ServerData = {
+export type PyChessModel = {
     username: string;
-    pychessURL: string;
     home: string;
-    assetURL: string;
-    fen: string;
+    anon: string;
+    profileid: string;
+    title: string;
     variant: string;
-    all: boolean;
-    _id: string;
-    gameId?: string;
-    site?: string;
-    moves: string;
-    eval: string;
-    type: string;
-    ply?: number;
-}
-
-export interface Review {
-  by: UserId;
-  at: Date;
-  approved: boolean;
-}
-
-const idChars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-const idLength = 5;
-
-export function randomId() {
-  let result = '';
-  for (let i = idLength; i > 0; --i) result += idChars[Math.floor(Math.random() * idChars.length)];
-  return result;
-}
+    chess960: string;
+    rated: string;
+    level: number;
+    gameId: string;
+    tournamentId: string;
+    tournamentname: string;
+    inviter: string;
+    ply: number;
+    ct: CrossTable | string;
+    board: MsgBoard | string;
+    wplayer: string;
+    wtitle: string;
+    wrating: string; // string, because can contain "?" suffix for provisional rating
+    wrdiff: number;
+    wberserk: string;
+    bplayer: string;
+    btitle: string;
+    brating: string; // string, because can contain "?" suffix for provisional rating
+    brdiff: number;
+    bberserk: string;
+    fen: string;
+    base: number;
+    inc: number;
+    byo: number;
+    result: string;
+    status: number;
+    date: string;
+    tv: boolean;
+    embed: boolean;
+    seekEmpty: boolean;
+    tournamentDirector: boolean;
+    assetURL: string;
+};

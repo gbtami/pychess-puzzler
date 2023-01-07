@@ -1,7 +1,7 @@
-import { ServerData } from './types';
-import { patch } from '@pychess/common/document';
+import { ServerData } from './puzzlerTypes';
+import { patch } from './document';
 
-import view from './view';
+import view from './puzzlerView';
 
 export function start(data: ServerData) {
     console.log(data);

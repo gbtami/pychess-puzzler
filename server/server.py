@@ -1,6 +1,15 @@
 import json
 import os
 from urllib.parse import urlparse
+import sys
+
+# Check Python version
+if sys.version_info < (3, 7, 0):
+    print("ERROR: PyChess requires Python >= 3.7.0")
+    sys.exit(1)
+
+import faulthandler
+faulthandler.enable()
 
 from aiohttp import web
 import aiohttp_session

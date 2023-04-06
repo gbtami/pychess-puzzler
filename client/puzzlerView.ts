@@ -1,6 +1,6 @@
 import { h, VNode } from 'snabbdom'
 
-import { VARIANTS } from './chess';
+import { VARIANTS } from './variants';
 
 import { ServerData } from './puzzlerTypes';
 import PuzzleController from './puzzlerCtrl';
@@ -51,8 +51,8 @@ export default function(data: ServerData): VNode {
                     ]),
                 ]),
             ]),
-            h(`selection#mainboard.${variant.board}.${variant.piece}.${variant.boardMark}`, [
-                h('div.cg-wrap.' + variant.cg, { hook: { insert: (vnode) => runGround(vnode, data) } }),
+            h(`selection#mainboard.${variant.boardFamily}.${variant.pieceFamily}.${variant.ui.boardMark}`, [
+                h('div.cg-wrap.' + variant.board.cg, { hook: { insert: (vnode) => runGround(vnode, data) } }),
             ]),
             h('div.pocket-bot', [
                 h('div.' + variant.piece + '.' + data.variant, [

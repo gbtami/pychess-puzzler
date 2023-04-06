@@ -5,7 +5,8 @@ import * as cg from 'chessgroundx/types';
 import { patch, changePieceCSS } from './document';
 import { GameController } from './gameCtrl';
 import { PyChessModel } from './types';
-import { uci2cg, uci2LastMove, selectVariant } from './chess';
+import { uci2cg, uci2LastMove } from './chess';
+import { selectVariant } from './variants';
 
 import { randomId, Puzzle, ServerData } from './puzzlerTypes';
 
@@ -138,6 +139,10 @@ export default class PuzzleController extends GameController {
         Mousetrap.bind('backspace', noRepeat(() => this.review(false)));
         Mousetrap.bind('enter', noRepeat(() => this.review(true)));
         Mousetrap.bind('a', () => (document.querySelector('a.analyse') as HTMLAnchorElement).click());
+    }
+
+    private undo = () => {
+        console.log("Undo");
     }
 
     createSolutionSan = () => {
@@ -282,7 +287,7 @@ export default class PuzzleController extends GameController {
     }
 
     private cgConfig = (move: string) => {
-        const fen = this.ffishBoard.fen(this.variant.showPromoted, 0);
+        const fen = this.ffishBoard.fen(this.variant.ui.showPromoted, 0);
         const turnColor = fen.split(" ")[1] === "w" ? "white" : "black" as cg.Color;
         return {
             fen: fen,

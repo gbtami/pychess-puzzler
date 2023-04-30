@@ -28,7 +28,7 @@ export default function(data: ServerData): VNode {
     window.history.replaceState({}, '', `/puzzle/${data._id}`);
 
     return h('main', [
-        h('section.top', [
+        h('section.top-controls', [
             h('form.variant', { props: {method: "post", action: '/variant'} }, [
                 h('select#variant'),
             ]),

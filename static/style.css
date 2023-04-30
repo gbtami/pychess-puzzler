@@ -30,7 +30,7 @@ form {
 span.wrapper {
   white-space: nowrap;
 }
-.top {
+.top-controls {
   height: var(--site-header-height);
   display: flex;
   justify-content: space-between;

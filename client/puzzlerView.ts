@@ -45,7 +45,7 @@ export default function(data: ServerData): VNode {
         ]),
         h('div.puzzle', [
             h('div.pocket-top', [
-                h('div.' + variant.piece + '.' + data.variant, [
+                h('div.' + variant.pieceFamily + '.' + data.variant, [
                     h('div.cg-wrap.pocket', [
                         h('div#pocket0'),
                     ]),
@@ -55,7 +55,7 @@ export default function(data: ServerData): VNode {
                 h('div.cg-wrap.' + variant.board.cg, { hook: { insert: (vnode) => runGround(vnode, data) } }),
             ]),
             h('div.pocket-bot', [
-                h('div.' + variant.piece + '.' + data.variant, [
+                h('div.' + variant.pieceFamily + '.' + data.variant, [
                     h('div.cg-wrap.pocket', [
                         h('div#pocket1'),
                     ]),

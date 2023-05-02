@@ -5,7 +5,7 @@ import * as cg from 'chessgroundx/types';
 import { patch, changePieceCSS } from './document';
 import { GameController } from './gameCtrl';
 import { PyChessModel } from './types';
-import { uci2cg, uci2LastMove } from './chess';
+import { uci2LastMove } from './chess';
 import { selectVariant } from './variants';
 
 import { randomId, Puzzle, ServerData } from './puzzlerTypes';
@@ -265,7 +265,7 @@ export default class PuzzleController extends GameController {
     }
 
     forward() {
-        const move = uci2cg(this.solution[this.moves.length]);
+        const move = this.solution[this.moves.length];
         if (move) {
             this.doSendMove(move);
         }

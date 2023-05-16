@@ -289,6 +289,7 @@ export default class PuzzleController extends GameController {
     private cgConfig = (move: string) => {
         const fen = this.ffishBoard.fen(this.variant.ui.showPromoted, 0);
         const turnColor = fen.split(" ")[1] === "w" ? "white" : "black" as cg.Color;
+        this.turnColor = turnColor;
         return {
             fen: fen,
             turnColor: turnColor,

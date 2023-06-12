@@ -76,6 +76,7 @@ async def review_puzzle(request):
     _id = request.match_info.get("id")
     approved = request.rel_url.query.get("approved")
     moves = request.rel_url.query.get("moves")
+    moves = moves.replace(".", "+").replace("_", ",")
     print(
         await request.app["db"].puzzle.find_one_and_update(
             {"_id": _id}, {"$set": {"review": approved == "1", "moves": moves}}

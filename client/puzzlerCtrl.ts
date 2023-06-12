@@ -282,8 +282,9 @@ export default class PuzzleController extends GameController {
             elApprove.classList.toggle('active', false);
             elReject.classList.toggle('active', true);
         }
-        console.log('review', approved);
-        window.location.assign(`${this.home}/review/${this._id}?approved=${approved ? 1 : 0}&moves=${this.solution.join(',')}`);
+        const moves = this.solution.join('_').replace(/\+/g, '.');
+        console.log('review', this._id, approved, moves);
+        window.location.assign(`${this.home}/review/${this._id}?approved=${approved ? 1 : 0}&moves=${moves}`);
     }
 
     private cgConfig = (move: string) => {
